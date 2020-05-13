@@ -26,4082 +26,717 @@
  },
  {
    "time": "00:00:10",
-   "temperature": 288.14869999999996,
+   "temperature": 286.85,
    "altitude": 0.2
  },
  {
    "time": "00:00:12",
-   "temperature": 288.14869999999996,
+   "temperature": 286.85,
    "altitude": 0.2
  },
  {
    "time": "00:00:13",
-   "temperature": 288.14869999999996,
+   "temperature": 286.85,
    "altitude": 0.2
  },
  {
    "time": "00:00:14",
-   "temperature": 288.14804999999996,
+   "temperature": 286.2,
    "altitude": 0.3
  },
  {
    "time": "00:00:15",
-   "temperature": 288.14804999999996,
+   "temperature": 286.2,
    "altitude": 0.3
  },
  {
    "time": "00:00:15",
-   "temperature": 288.1474,
+   "temperature": 285.55,
    "altitude": 0.4
  },
  {
    "time": "00:00:17",
-   "temperature": 288.1474,
+   "temperature": 285.55,
    "altitude": 0.4
  },
  {
    "time": "00:00:18",
-   "temperature": 288.14675,
+   "temperature": 284.9,
    "altitude": 0.5
  },
  {
    "time": "00:00:19",
-   "temperature": 288.14675,
+   "temperature": 284.9,
    "altitude": 0.5
  },
  {
    "time": "00:00:21",
-   "temperature": 288.14545,
+   "temperature": 283.6,
    "altitude": 0.7
  },
  {
    "time": "00:00:22",
-   "temperature": 288.14545,
+   "temperature": 283.6,
    "altitude": 0.7
  },
  {
    "time": "00:00:23",
-   "temperature": 288.1448,
+   "temperature": 282.95,
    "altitude": 0.8
  },
  {
    "time": "00:00:25",
-   "temperature": 288.14349999999996,
+   "temperature": 281.65,
    "altitude": 1
  },
  {
    "time": "00:00:26",
-   "temperature": 288.14284999999995,
+   "temperature": 281,
    "altitude": 1.1
  },
  {
    "time": "00:00:28",
-   "temperature": 288.14155,
+   "temperature": 279.7,
    "altitude": 1.3
  },
  {
    "time": "00:00:28",
-   "temperature": 288.1409,
+   "temperature": 279.05,
    "altitude": 1.4
  },
  {
    "time": "00:00:29",
-   "temperature": 288.14025,
+   "temperature": 278.4,
    "altitude": 1.5
  },
  {
    "time": "00:00:30",
-   "temperature": 288.1396,
+   "temperature": 277.75,
    "altitude": 1.6
  },
  {
    "time": "00:00:31",
-   "temperature": 288.13829999999996,
+   "temperature": 276.45,
    "altitude": 1.8
  },
  {
    "time": "00:00:32",
-   "temperature": 288.13764999999995,
+   "temperature": 275.8,
    "altitude": 1.9
  },
  {
    "time": "00:00:33",
-   "temperature": 288.13635,
+   "temperature": 274.5,
    "altitude": 2.1
  },
  {
    "time": "00:00:34",
-   "temperature": 288.1357,
+   "temperature": 273.85,
    "altitude": 2.2
  },
  {
    "time": "00:00:35",
-   "temperature": 288.13505,
+   "temperature": 273.2,
    "altitude": 2.3
  },
  {
    "time": "00:00:36",
-   "temperature": 288.13374999999996,
+   "temperature": 271.9,
    "altitude": 2.5
  },
  {
    "time": "00:00:37",
-   "temperature": 288.13244999999995,
+   "temperature": 270.6,
    "altitude": 2.7
  },
  {
    "time": "00:00:38",
-   "temperature": 288.1318,
+   "temperature": 269.95,
    "altitude": 2.8
  },
  {
    "time": "00:00:39",
-   "temperature": 288.1305,
+   "temperature": 268.65,
    "altitude": 3
  },
  {
    "time": "00:00:40",
-   "temperature": 288.12919999999997,
+   "temperature": 267.35,
    "altitude": 3.2
  },
  {
    "time": "00:00:41",
-   "temperature": 288.12789999999995,
+   "temperature": 266.05,
    "altitude": 3.4
  },
  {
    "time": "00:00:43",
-   "temperature": 288.1253,
+   "temperature": 263.45,
    "altitude": 3.8
  },
  {
    "time": "00:00:44",
-   "temperature": 288.1214,
+   "temperature": 259.55,
    "altitude": 4.4
  },
  {
    "time": "00:00:45",
-   "temperature": 288.12269999999995,
+   "temperature": 260.85,
    "altitude": 4.2
  },
  {
    "time": "00:00:46",
-   "temperature": 288.1214,
+   "temperature": 259.55,
    "altitude": 4.4
  },
  {
    "time": "00:00:47",
-   "temperature": 288.1201,
+   "temperature": 258.25,
    "altitude": 4.6
  },
  {
    "time": "00:00:48",
-   "temperature": 288.11879999999996,
+   "temperature": 256.95,
    "altitude": 4.8
  },
  {
    "time": "00:00:50",
-   "temperature": 288.11555,
+   "temperature": 253.7,
    "altitude": 5.3
  },
  {
    "time": "00:00:51",
-   "temperature": 288.11424999999997,
+   "temperature": 252.4,
    "altitude": 5.5
  },
  {
    "time": "00:00:52",
-   "temperature": 288.1123,
+   "temperature": 250.45,
    "altitude": 5.8
  },
  {
    "time": "00:00:53",
-   "temperature": 288.11035,
+   "temperature": 248.5,
    "altitude": 6.1
  },
  {
    "time": "00:00:54",
-   "temperature": 288.10904999999997,
+   "temperature": 247.2,
    "altitude": 6.3
  },
  {
    "time": "00:00:55",
-   "temperature": 288.1071,
+   "temperature": 245.25,
    "altitude": 6.6
  },
  {
    "time": "00:00:56",
-   "temperature": 288.10515,
+   "temperature": 243.3,
    "altitude": 6.9
  },
  {
    "time": "00:00:57",
-   "temperature": 288.10384999999997,
+   "temperature": 242,
    "altitude": 7.1
  },
  {
    "time": "00:00:58",
-   "temperature": 288.1019,
+   "temperature": 240.05,
    "altitude": 7.4
  },
  {
    "time": "00:00:59",
-   "temperature": 288.09995,
+   "temperature": 238.1,
    "altitude": 7.7
  },
  {
    "time": "00:01:00",
-   "temperature": 288.09799999999996,
+   "temperature": 236.15,
    "altitude": 8
  },
  {
    "time": "00:01:01",
-   "temperature": 288.0967,
+   "temperature": 234.85,
    "altitude": 8.2
  },
  {
    "time": "00:01:02",
-   "temperature": 288.09475,
+   "temperature": 232.9,
    "altitude": 8.5
  },
  {
    "time": "00:01:03",
-   "temperature": 288.09279999999995,
+   "temperature": 230.95,
    "altitude": 8.8
  },
  {
    "time": "00:01:06",
-   "temperature": 288.09475,
+   "temperature": 232.9,
    "altitude": 8.5
  },
  {
    "time": "00:01:06",
-   "temperature": 288.0863,
+   "temperature": 224.45,
    "altitude": 9.8
  },
  {
    "time": "00:01:07",
-   "temperature": 288.08435,
+   "temperature": 222.5,
    "altitude": 10.1
  },
  {
    "time": "00:01:08",
-   "temperature": 288.08239999999995,
+   "temperature": 220.55,
    "altitude": 10.4
  },
  {
    "time": "00:01:09",
-   "temperature": 288.08045,
+   "temperature": 218.6,
    "altitude": 10.7
  },
  {
    "time": "00:01:11",
-   "temperature": 288.07784999999996,
+   "temperature": 216.65,
    "altitude": 11.1
  },
  {
    "time": "00:01:12",
-   "temperature": 288.0759,
+   "temperature": 216.65,
    "altitude": 11.4
  },
  {
    "time": "00:01:13",
-   "temperature": 288.07329999999996,
+   "temperature": 216.65,
    "altitude": 11.8
  },
  {
    "time": "00:01:14",
-   "temperature": 288.07135,
+   "temperature": 216.65,
    "altitude": 12.1
  },
  {
    "time": "00:01:15",
-   "temperature": 288.06874999999997,
+   "temperature": 216.65,
    "altitude": 12.5
  },
  {
    "time": "00:01:16",
-   "temperature": 288.06615,
+   "temperature": 216.65,
    "altitude": 12.9
  },
  {
    "time": "00:01:17",
-   "temperature": 288.06419999999997,
+   "temperature": 216.65,
    "altitude": 13.2
  },
  {
    "time": "00:01:18",
-   "temperature": 288.0616,
+   "temperature": 216.65,
    "altitude": 13.6
  },
  {
    "time": "00:01:19",
-   "temperature": 288.05899999999997,
+   "temperature": 216.65,
    "altitude": 14
  },
  {
    "time": "00:01:20",
-   "temperature": 288.0564,
+   "temperature": 216.65,
    "altitude": 14.4
  },
  {
    "time": "00:01:21",
-   "temperature": 288.05379999999997,
+   "temperature": 216.65,
    "altitude": 14.8
  },
  {
    "time": "00:01:22",
-   "temperature": 288.0512,
+   "temperature": 216.65,
    "altitude": 15.2
  },
  {
    "time": "00:01:23",
-   "temperature": 288.04859999999996,
+   "temperature": 216.65,
    "altitude": 15.6
  },
  {
    "time": "00:01:24",
-   "temperature": 288.046,
+   "temperature": 216.65,
    "altitude": 16
  },
  {
    "time": "00:01:24",
-   "temperature": 288.04274999999996,
+   "temperature": 216.65,
    "altitude": 16.5
  },
  {
    "time": "00:01:26",
-   "temperature": 288.03754999999995,
+   "temperature": 216.65,
    "altitude": 17.3
  },
  {
    "time": "00:01:27",
-   "temperature": 288.03495,
+   "temperature": 216.65,
    "altitude": 17.7
  },
  {
    "time": "00:01:31",
-   "temperature": 288.02259999999995,
+   "temperature": 216.65,
    "altitude": 19.6
  },
  {
    "time": "00:01:32",
-   "temperature": 288.02,
+   "temperature": 216.65,
    "altitude": 20
  },
  {
    "time": "00:01:34",
-   "temperature": 288.01349999999996,
+   "temperature": 217.65,
    "altitude": 21
  },
  {
    "time": "00:01:35",
-   "temperature": 288.01025,
+   "temperature": 218.15,
    "altitude": 21.5
  },
  {
    "time": "00:01:36",
-   "temperature": 288.007,
+   "temperature": 218.65,
    "altitude": 22
  },
  {
    "time": "00:01:37",
-   "temperature": 288.00374999999997,
+   "temperature": 219.15,
    "altitude": 22.5
  },
  {
    "time": "00:01:39",
-   "temperature": 287.99724999999995,
+   "temperature": 220.15,
    "altitude": 23.5
  },
  {
    "time": "00:01:40",
-   "temperature": 287.99334999999996,
+   "temperature": 220.75,
    "altitude": 24.1
  },
  {
    "time": "00:01:41",
-   "temperature": 287.9901,
+   "temperature": 221.25,
    "altitude": 24.6
  },
  {
    "time": "00:01:42",
-   "temperature": 287.9862,
+   "temperature": 221.85,
    "altitude": 25.2
  },
  {
    "time": "00:01:43",
-   "temperature": 287.98294999999996,
+   "temperature": 222.35,
    "altitude": 25.7
  },
  {
    "time": "00:01:45",
-   "temperature": 287.9758,
+   "temperature": 223.45,
    "altitude": 26.8
  },
  {
    "time": "00:01:46",
-   "temperature": 287.97254999999996,
+   "temperature": 223.95,
    "altitude": 27.3
  },
  {
    "time": "00:01:47",
-   "temperature": 287.97254999999996,
+   "temperature": 223.95,
    "altitude": 27.3
  },
  {
    "time": "00:01:48",
-   "temperature": 287.96475,
+   "temperature": 225.15,
    "altitude": 28.5
  },
  {
    "time": "00:01:49",
-   "temperature": 287.96085,
+   "temperature": 225.75,
    "altitude": 29.1
  },
  {
    "time": "00:01:50",
-   "temperature": 287.95694999999995,
+   "temperature": 226.35,
    "altitude": 29.7
  },
  {
    "time": "00:01:51",
-   "temperature": 287.95304999999996,
+   "temperature": 226.95,
    "altitude": 30.3
  },
  {
    "time": "00:01:52",
-   "temperature": 287.9498,
+   "temperature": 227.45,
    "altitude": 30.8
  },
  {
    "time": "00:01:53",
-   "temperature": 287.94525,
+   "temperature": 228.15,
    "altitude": 31.5
  },
  {
    "time": "00:01:55",
-   "temperature": 287.9368,
+   "temperature": 230.89,
    "altitude": 32.8
  },
  {
    "time": "00:01:56",
-   "temperature": 287.93224999999995,
+   "temperature": 232.85,
    "altitude": 33.5
  },
  {
    "time": "00:01:57",
-   "temperature": 287.92834999999997,
+   "temperature": 234.53,
    "altitude": 34.1
  },
  {
    "time": "00:01:58",
-   "temperature": 287.92379999999997,
+   "temperature": 236.49,
    "altitude": 34.8
  },
  {
    "time": "00:02:02",
-   "temperature": 287.91015,
+   "temperature": 239.37,
    "altitude": 36.9
  },
  {
    "time": "00:02:03",
-   "temperature": 287.9056,
+   "temperature": 244.33,
    "altitude": 37.6
  },
  {
    "time": "00:02:04",
-   "temperature": 287.90105,
+   "temperature": 246.29,
    "altitude": 38.3
  },
  {
    "time": "00:02:05",
-   "temperature": 287.8965,
+   "temperature": 248.25,
    "altitude": 39
  },
  {
    "time": "00:02:06",
-   "temperature": 287.8913,
+   "temperature": 250.49,
    "altitude": 39.8
  },
  {
    "time": "00:02:08",
-   "temperature": 287.88155,
+   "temperature": 254.69,
    "altitude": 41.3
  },
  {
    "time": "00:02:09",
-   "temperature": 287.87699999999995,
+   "temperature": 256.65,
    "altitude": 42
  },
  {
    "time": "00:02:10",
-   "temperature": 287.87179999999995,
+   "temperature": 258.89,
    "altitude": 42.8
  },
  {
    "time": "00:02:12",
-   "temperature": 287.8614,
+   "temperature": 263.37,
    "altitude": 44.4
  },
  {
    "time": "00:02:13",
-   "temperature": 287.8562,
+   "temperature": 265.61,
    "altitude": 45.2
  },
  {
    "time": "00:02:14",
-   "temperature": 287.85035,
+   "temperature": 268.13,
    "altitude": 46.1
  },
  {
    "time": "00:02:15",
-   "temperature": 287.848465,
+   "temperature": 268.942,
    "altitude": 46.39
  },
  {
    "time": "00:02:15",
-   "temperature": 287.8393,
+   "temperature": 270.65,
    "altitude": 47.8
  },
  {
    "time": "00:02:17",
-   "temperature": 287.8341,
+   "temperature": 270.65,
    "altitude": 48.6
  },
  {
    "time": "00:02:18",
-   "temperature": 287.82824999999997,
+   "temperature": 270.65,
    "altitude": 49.5
  },
  {
    "time": "00:02:19",
-   "temperature": 287.82239999999996,
+   "temperature": 270.65,
    "altitude": 50.4
  },
  {
    "time": "00:02:20",
-   "temperature": 287.81654999999995,
+   "temperature": 269.81,
    "altitude": 51.3
  },
  {
    "time": "00:02:22",
-   "temperature": 287.80485,
+   "temperature": 264.77,
    "altitude": 53.1
  },
  {
    "time": "00:02:23",
-   "temperature": 287.799,
+   "temperature": 262.25,
    "altitude": 54
  },
  {
    "time": "00:02:23",
-   "temperature": 287.79704999999996,
+   "temperature": 261.41,
    "altitude": 54.3
  },
  {
    "time": "00:02:24",
-   "temperature": 287.78729999999996,
+   "temperature": 257.21,
    "altitude": 55.8
  },
  {
    "time": "00:02:25",
-   "temperature": 287.7808,
+   "temperature": 254.41,
    "altitude": 56.8
  },
  {
    "time": "00:02:26",
-   "temperature": 287.7743,
+   "temperature": 251.61,
    "altitude": 57.8
  },
  {
    "time": "00:02:27",
-   "temperature": 287.76779999999997,
+   "temperature": 248.81,
    "altitude": 58.8
  },
  {
    "time": "00:02:28",
-   "temperature": 287.7613,
+   "temperature": 246.01,
    "altitude": 59.8
  },
  {
    "time": "00:02:30",
-   "temperature": 287.7483,
+   "temperature": 240.41,
    "altitude": 61.8
  },
  {
    "time": "00:02:31",
-   "temperature": 287.74179999999996,
+   "temperature": 237.61,
    "altitude": 62.8
  },
  {
    "time": "00:02:32",
-   "temperature": 287.73855,
+   "temperature": 236.21,
    "altitude": 63.3
  },
  {
    "time": "00:02:33",
-   "temperature": 287.73146499999996,
+   "temperature": 233.158,
    "altitude": 64.39
  },
  {
    "time": "00:02:34",
-   "temperature": 287.72555,
+   "temperature": 230.61,
    "altitude": 65.3
  },
  {
    "time": "00:02:35",
-   "temperature": 287.7145,
+   "temperature": 225.85,
    "altitude": 67
  },
  {
    "time": "00:02:36",
-   "temperature": 287.70799999999997,
+   "temperature": 223.05,
    "altitude": 68
  },
  {
    "time": "00:02:37",
-   "temperature": 287.70085,
+   "temperature": 219.97,
    "altitude": 69.1
  },
  {
    "time": "00:02:38",
-   "temperature": 287.69435,
+   "temperature": 217.17,
    "altitude": 70.1
  },
  {
    "time": "00:02:40",
-   "temperature": 287.6807,
+   "temperature": 212.25,
    "altitude": 72.2
  },
  {
    "time": "00:02:41",
-   "temperature": 287.6742,
+   "temperature": 210.25,
    "altitude": 73.2
  },
  {
    "time": "00:02:42",
-   "temperature": 287.66769999999997,
+   "temperature": 208.25,
    "altitude": 74.2
  },
  {
    "time": "00:02:43",
-   "temperature": 287.66119999999995,
+   "temperature": 206.25,
    "altitude": 75.2
  },
  {
    "time": "00:02:44",
-   "temperature": 287.6547,
+   "temperature": 204.25,
    "altitude": 76.2
  },
  {
    "time": "00:02:45",
-   "temperature": 287.6482,
+   "temperature": 202.25,
    "altitude": 77.2
  },
  {
    "time": "00:02:46",
-   "temperature": 287.64169999999996,
+   "temperature": 200.25,
    "altitude": 78.2
  },
  {
    "time": "00:02:47",
-   "temperature": 287.6352,
+   "temperature": 198.25,
    "altitude": 79.2
  },
  {
    "time": "00:02:48",
-   "temperature": 287.62935,
+   "temperature": 196.45,
    "altitude": 80.1
  },
  {
    "time": "00:02:49",
-   "temperature": 287.62284999999997,
+   "temperature": 194.45,
    "altitude": 81.1
  },
  {
    "time": "00:02:50",
-   "temperature": 287.61699999999996,
+   "temperature": 192.65,
    "altitude": 82
  },
  {
    "time": "00:02:51",
-   "temperature": 287.6105,
+   "temperature": 190.65,
    "altitude": 83
  },
  {
    "time": "00:02:52",
-   "temperature": 287.60465,
+   "temperature": 188.85,
    "altitude": 83.9
  },
  {
    "time": "00:02:53",
-   "temperature": 287.59815,
+   "temperature": 186.85,
    "altitude": 84.9
- },
- {
-   "time": "00:02:54",
-   "temperature": 287.59229999999997,
-   "altitude": 85.8
- },
- {
-   "time": "00:02:55",
-   "temperature": 287.58579999999995,
-   "altitude": 86.8
- },
- {
-   "time": "00:02:56",
-   "temperature": 287.57995,
-   "altitude": 87.7
- },
- {
-   "time": "00:02:58",
-   "temperature": 287.5689,
-   "altitude": 89.4
- },
- {
-   "time": "00:02:59",
-   "temperature": 287.56305,
-   "altitude": 90.3
- },
- {
-   "time": "00:03:01",
-   "temperature": 287.55134999999996,
-   "altitude": 92.1
- },
- {
-   "time": "00:03:03",
-   "temperature": 287.54159999999996,
-   "altitude": 93.6
- },
- {
-   "time": "00:03:04",
-   "temperature": 287.53965,
-   "altitude": 93.9
- },
- {
-   "time": "00:03:04",
-   "temperature": 287.5338,
-   "altitude": 94.8
- },
- {
-   "time": "00:03:06",
-   "temperature": 287.52795,
-   "altitude": 95.7
- },
- {
-   "time": "00:03:07",
-   "temperature": 287.52209999999997,
-   "altitude": 96.6
- },
- {
-   "time": "00:03:09",
-   "temperature": 287.51104999999995,
-   "altitude": 98.3
- },
- {
-   "time": "00:03:10",
-   "temperature": 287.5052,
-   "altitude": 99.2
- },
- {
-   "time": "00:03:14",
-   "temperature": 287.48049999999995,
-   "altitude": 103
- },
- {
-   "time": "00:03:15",
-   "temperature": 287.48049999999995,
-   "altitude": 103
- },
- {
-   "time": "00:03:16",
-   "temperature": 287.474,
-   "altitude": 104
- },
- {
-   "time": "00:03:17",
-   "temperature": 287.4675,
-   "altitude": 105
- },
- {
-   "time": "00:03:18",
-   "temperature": 287.46099999999996,
-   "altitude": 106
- },
- {
-   "time": "00:03:21",
-   "temperature": 287.448,
-   "altitude": 108
- },
- {
-   "time": "00:03:23",
-   "temperature": 287.435,
-   "altitude": 110
- },
- {
-   "time": "00:03:24",
-   "temperature": 287.4285,
-   "altitude": 111
- },
- {
-   "time": "00:03:26",
-   "temperature": 287.41549999999995,
-   "altitude": 113
- },
- {
-   "time": "00:03:27",
-   "temperature": 287.409,
-   "altitude": 114
- },
- {
-   "time": "00:03:28",
-   "temperature": 287.4025,
-   "altitude": 115
- },
- {
-   "time": "00:03:29",
-   "temperature": 287.4025,
-   "altitude": 115
- },
- {
-   "time": "00:03:30",
-   "temperature": 287.39599999999996,
-   "altitude": 116
- },
- {
-   "time": "00:03:31",
-   "temperature": 287.3895,
-   "altitude": 117
- },
- {
-   "time": "00:03:32",
-   "temperature": 287.383,
-   "altitude": 118
- },
- {
-   "time": "00:03:33",
-   "temperature": 287.383,
-   "altitude": 118
- },
- {
-   "time": "00:03:34",
-   "temperature": 287.37649999999996,
-   "altitude": 119
- },
- {
-   "time": "00:03:36",
-   "temperature": 287.3635,
-   "altitude": 121
- },
- {
-   "time": "00:03:41",
-   "temperature": 287.344,
-   "altitude": 124
- },
- {
-   "time": "00:03:42",
-   "temperature": 287.3375,
-   "altitude": 125
- },
- {
-   "time": "00:03:43",
-   "temperature": 287.33099999999996,
-   "altitude": 126
- },
- {
-   "time": "00:03:44",
-   "temperature": 287.33099999999996,
-   "altitude": 126
- },
- {
-   "time": "00:03:45",
-   "temperature": 287.3245,
-   "altitude": 127
- },
- {
-   "time": "00:03:46",
-   "temperature": 287.318,
-   "altitude": 128
- },
- {
-   "time": "00:03:47",
-   "temperature": 287.31149999999997,
-   "altitude": 129
- },
- {
-   "time": "00:03:48",
-   "temperature": 287.31149999999997,
-   "altitude": 129
- },
- {
-   "time": "00:03:50",
-   "temperature": 287.2985,
-   "altitude": 131
- },
- {
-   "time": "00:03:51",
-   "temperature": 287.2985,
-   "altitude": 131
- },
- {
-   "time": "00:03:52",
-   "temperature": 287.292,
-   "altitude": 132
- },
- {
-   "time": "00:03:58",
-   "temperature": 287.26599999999996,
-   "altitude": 136
- },
- {
-   "time": "00:03:59",
-   "temperature": 287.2595,
-   "altitude": 137
- },
- {
-   "time": "00:04:00",
-   "temperature": 287.2595,
-   "altitude": 137
- },
- {
-   "time": "00:04:01",
-   "temperature": 287.253,
-   "altitude": 138
- },
- {
-   "time": "00:04:02",
-   "temperature": 287.24649999999997,
-   "altitude": 139
- },
- {
-   "time": "00:04:04",
-   "temperature": 287.24649999999997,
-   "altitude": 139
- },
- {
-   "time": "00:04:05",
-   "temperature": 287.23999999999995,
-   "altitude": 140
- },
- {
-   "time": "00:04:06",
-   "temperature": 287.23999999999995,
-   "altitude": 140
- },
- {
-   "time": "00:04:07",
-   "temperature": 287.2335,
-   "altitude": 141
- },
- {
-   "time": "00:04:09",
-   "temperature": 287.227,
-   "altitude": 142
- },
- {
-   "time": "00:04:10",
-   "temperature": 287.22049999999996,
-   "altitude": 143
- },
- {
-   "time": "00:04:12",
-   "temperature": 287.214,
-   "altitude": 144
- },
- {
-   "time": "00:04:13",
-   "temperature": 287.2075,
-   "altitude": 145
- },
- {
-   "time": "00:04:14",
-   "temperature": 287.2075,
-   "altitude": 145
- },
- {
-   "time": "00:04:15",
-   "temperature": 287.20099999999996,
-   "altitude": 146
- },
- {
-   "time": "00:04:16",
-   "temperature": 287.1945,
-   "altitude": 147
- },
- {
-   "time": "00:04:17",
-   "temperature": 287.1945,
-   "altitude": 147
- },
- {
-   "time": "00:04:18",
-   "temperature": 287.188,
-   "altitude": 148
- },
- {
-   "time": "00:04:19",
-   "temperature": 287.188,
-   "altitude": 148
- },
- {
-   "time": "00:04:20",
-   "temperature": 287.18149999999997,
-   "altitude": 149
- },
- {
-   "time": "00:04:21",
-   "temperature": 287.17499999999995,
-   "altitude": 150
- },
- {
-   "time": "00:04:23",
-   "temperature": 287.1685,
-   "altitude": 151
- },
- {
-   "time": "00:04:24",
-   "temperature": 287.162,
-   "altitude": 152
- },
- {
-   "time": "00:04:25",
-   "temperature": 287.162,
-   "altitude": 152
- },
- {
-   "time": "00:04:26",
-   "temperature": 287.15549999999996,
-   "altitude": 153
- },
- {
-   "time": "00:04:27",
-   "temperature": 287.15549999999996,
-   "altitude": 153
- },
- {
-   "time": "00:04:29",
-   "temperature": 287.1425,
-   "altitude": 155
- },
- {
-   "time": "00:04:30",
-   "temperature": 287.1425,
-   "altitude": 155
- },
- {
-   "time": "00:04:31",
-   "temperature": 287.13599999999997,
-   "altitude": 156
- },
- {
-   "time": "00:04:32",
-   "temperature": 287.13599999999997,
-   "altitude": 156
- },
- {
-   "time": "00:04:34",
-   "temperature": 287.12949999999995,
-   "altitude": 157
- },
- {
-   "time": "00:04:35",
-   "temperature": 287.123,
-   "altitude": 158
- },
- {
-   "time": "00:04:36",
-   "temperature": 287.123,
-   "altitude": 158
- },
- {
-   "time": "00:04:37",
-   "temperature": 287.1165,
-   "altitude": 159
- },
- {
-   "time": "00:04:38",
-   "temperature": 287.1165,
-   "altitude": 159
- },
- {
-   "time": "00:04:39",
-   "temperature": 287.10999999999996,
-   "altitude": 160
- },
- {
-   "time": "00:04:40",
-   "temperature": 287.10999999999996,
-   "altitude": 160
- },
- {
-   "time": "00:04:41",
-   "temperature": 287.1035,
-   "altitude": 161
- },
- {
-   "time": "00:04:42",
-   "temperature": 287.1035,
-   "altitude": 161
- },
- {
-   "time": "00:04:43",
-   "temperature": 287.097,
-   "altitude": 162
- },
- {
-   "time": "00:04:44",
-   "temperature": 287.097,
-   "altitude": 162
- },
- {
-   "time": "00:04:45",
-   "temperature": 287.09049999999996,
-   "altitude": 163
- },
- {
-   "time": "00:04:46",
-   "temperature": 287.09049999999996,
-   "altitude": 163
- },
- {
-   "time": "00:04:47",
-   "temperature": 287.084,
-   "altitude": 164
- },
- {
-   "time": "00:04:48",
-   "temperature": 287.084,
-   "altitude": 164
- },
- {
-   "time": "00:04:49",
-   "temperature": 287.0775,
-   "altitude": 165
- },
- {
-   "time": "00:04:50",
-   "temperature": 287.0775,
-   "altitude": 165
- },
- {
-   "time": "00:04:51",
-   "temperature": 287.07099999999997,
-   "altitude": 166
- },
- {
-   "time": "00:04:52",
-   "temperature": 287.07099999999997,
-   "altitude": 166
- },
- {
-   "time": "00:04:53",
-   "temperature": 287.06449999999995,
-   "altitude": 167
- },
- {
-   "time": "00:04:54",
-   "temperature": 287.06449999999995,
-   "altitude": 167
- },
- {
-   "time": "00:04:55",
-   "temperature": 287.058,
-   "altitude": 168
- },
- {
-   "time": "00:04:56",
-   "temperature": 287.058,
-   "altitude": 168
- },
- {
-   "time": "00:04:57",
-   "temperature": 287.0515,
-   "altitude": 169
- },
- {
-   "time": "00:04:58",
-   "temperature": 287.0515,
-   "altitude": 169
- },
- {
-   "time": "00:04:59",
-   "temperature": 287.04499999999996,
-   "altitude": 170
- },
- {
-   "time": "00:05:00",
-   "temperature": 287.04499999999996,
-   "altitude": 170
- },
- {
-   "time": "00:05:01",
-   "temperature": 287.0385,
-   "altitude": 171
- },
- {
-   "time": "00:05:03",
-   "temperature": 287.0385,
-   "altitude": 171
- },
- {
-   "time": "00:05:04",
-   "temperature": 287.0385,
-   "altitude": 171
- },
- {
-   "time": "00:05:05",
-   "temperature": 287.032,
-   "altitude": 172
- },
- {
-   "time": "00:05:06",
-   "temperature": 287.032,
-   "altitude": 172
- },
- {
-   "time": "00:05:07",
-   "temperature": 287.02549999999997,
-   "altitude": 173
- },
- {
-   "time": "00:05:08",
-   "temperature": 287.02549999999997,
-   "altitude": 173
- },
- {
-   "time": "00:05:09",
-   "temperature": 287.019,
-   "altitude": 174
- },
- {
-   "time": "00:05:10",
-   "temperature": 287.019,
-   "altitude": 174
- },
- {
-   "time": "00:05:11",
-   "temperature": 287.0125,
-   "altitude": 175
- },
- {
-   "time": "00:05:12",
-   "temperature": 287.0125,
-   "altitude": 175
- },
- {
-   "time": "00:05:13",
-   "temperature": 287.0125,
-   "altitude": 175
- },
- {
-   "time": "00:05:14",
-   "temperature": 287.006,
-   "altitude": 176
- },
- {
-   "time": "00:05:15",
-   "temperature": 287.006,
-   "altitude": 176
- },
- {
-   "time": "00:05:15",
-   "temperature": 286.99949999999995,
-   "altitude": 177
- },
- {
-   "time": "00:05:16",
-   "temperature": 286.99949999999995,
-   "altitude": 177
- },
- {
-   "time": "00:05:17",
-   "temperature": 286.993,
-   "altitude": 178
- },
- {
-   "time": "00:05:18",
-   "temperature": 286.993,
-   "altitude": 178
- },
- {
-   "time": "00:05:19",
-   "temperature": 286.993,
-   "altitude": 178
- },
- {
-   "time": "00:05:20",
-   "temperature": 286.9865,
-   "altitude": 179
- },
- {
-   "time": "00:05:21",
-   "temperature": 286.9865,
-   "altitude": 179
- },
- {
-   "time": "00:05:22",
-   "temperature": 286.97999999999996,
-   "altitude": 180
- },
- {
-   "time": "00:05:23",
-   "temperature": 286.97999999999996,
-   "altitude": 180
- },
- {
-   "time": "00:05:24",
-   "temperature": 286.97999999999996,
-   "altitude": 180
- },
- {
-   "time": "00:05:25",
-   "temperature": 286.9735,
-   "altitude": 181
- },
- {
-   "time": "00:05:26",
-   "temperature": 286.9735,
-   "altitude": 181
- },
- {
-   "time": "00:05:27",
-   "temperature": 286.967,
-   "altitude": 182
- },
- {
-   "time": "00:05:28",
-   "temperature": 286.967,
-   "altitude": 182
- },
- {
-   "time": "00:05:29",
-   "temperature": 286.967,
-   "altitude": 182
- },
- {
-   "time": "00:05:30",
-   "temperature": 286.96049999999997,
-   "altitude": 183
- },
- {
-   "time": "00:05:31",
-   "temperature": 286.96049999999997,
-   "altitude": 183
- },
- {
-   "time": "00:05:32",
-   "temperature": 286.96049999999997,
-   "altitude": 183
- },
- {
-   "time": "00:05:33",
-   "temperature": 286.95399999999995,
-   "altitude": 184
- },
- {
-   "time": "00:05:34",
-   "temperature": 286.95399999999995,
-   "altitude": 184
- },
- {
-   "time": "00:05:35",
-   "temperature": 286.9475,
-   "altitude": 185
- },
- {
-   "time": "00:05:36",
-   "temperature": 286.9475,
-   "altitude": 185
- },
- {
-   "time": "00:05:37",
-   "temperature": 286.9475,
-   "altitude": 185
- },
- {
-   "time": "00:05:38",
-   "temperature": 286.941,
-   "altitude": 186
- },
- {
-   "time": "00:05:39",
-   "temperature": 286.941,
-   "altitude": 186
- },
- {
-   "time": "00:05:40",
-   "temperature": 286.941,
-   "altitude": 186
- },
- {
-   "time": "00:05:41",
-   "temperature": 286.93449999999996,
-   "altitude": 187
- },
- {
-   "time": "00:05:42",
-   "temperature": 286.93449999999996,
-   "altitude": 187
- },
- {
-   "time": "00:05:43",
-   "temperature": 286.93449999999996,
-   "altitude": 187
- },
- {
-   "time": "00:05:44",
-   "temperature": 286.928,
-   "altitude": 188
- },
- {
-   "time": "00:05:45",
-   "temperature": 286.928,
-   "altitude": 188
- },
- {
-   "time": "00:05:46",
-   "temperature": 286.928,
-   "altitude": 188
- },
- {
-   "time": "00:05:47",
-   "temperature": 286.9215,
-   "altitude": 189
- },
- {
-   "time": "00:05:48",
-   "temperature": 286.9215,
-   "altitude": 189
- },
- {
-   "time": "00:05:49",
-   "temperature": 286.9215,
-   "altitude": 189
- },
- {
-   "time": "00:05:50",
-   "temperature": 286.91499999999996,
-   "altitude": 190
- },
- {
-   "time": "00:05:51",
-   "temperature": 286.91499999999996,
-   "altitude": 190
- },
- {
-   "time": "00:05:52",
-   "temperature": 286.91499999999996,
-   "altitude": 190
- },
- {
-   "time": "00:05:53",
-   "temperature": 286.9085,
-   "altitude": 191
- },
- {
-   "time": "00:05:55",
-   "temperature": 286.9085,
-   "altitude": 191
- },
- {
-   "time": "00:05:55",
-   "temperature": 286.9085,
-   "altitude": 191
- },
- {
-   "time": "00:05:56",
-   "temperature": 286.902,
-   "altitude": 192
- },
- {
-   "time": "00:05:57",
-   "temperature": 286.902,
-   "altitude": 192
- },
- {
-   "time": "00:05:59",
-   "temperature": 286.902,
-   "altitude": 192
- },
- {
-   "time": "00:05:59",
-   "temperature": 286.89549999999997,
-   "altitude": 193
- },
- {
-   "time": "00:06:01",
-   "temperature": 286.89549999999997,
-   "altitude": 193
- },
- {
-   "time": "00:06:02",
-   "temperature": 286.89549999999997,
-   "altitude": 193
- },
- {
-   "time": "00:06:03",
-   "temperature": 286.88899999999995,
-   "altitude": 194
- },
- {
-   "time": "00:06:04",
-   "temperature": 286.88899999999995,
-   "altitude": 194
- },
- {
-   "time": "00:06:05",
-   "temperature": 286.88899999999995,
-   "altitude": 194
- },
- {
-   "time": "00:06:06",
-   "temperature": 286.88899999999995,
-   "altitude": 194
- },
- {
-   "time": "00:06:07",
-   "temperature": 286.8825,
-   "altitude": 195
- },
- {
-   "time": "00:06:08",
-   "temperature": 286.8825,
-   "altitude": 195
- },
- {
-   "time": "00:06:09",
-   "temperature": 286.8825,
-   "altitude": 195
- },
- {
-   "time": "00:06:10",
-   "temperature": 286.876,
-   "altitude": 196
- },
- {
-   "time": "00:06:11",
-   "temperature": 286.876,
-   "altitude": 196
- },
- {
-   "time": "00:06:12",
-   "temperature": 286.876,
-   "altitude": 196
- },
- {
-   "time": "00:06:13",
-   "temperature": 286.876,
-   "altitude": 196
- },
- {
-   "time": "00:06:14",
-   "temperature": 286.86949999999996,
-   "altitude": 197
- },
- {
-   "time": "00:06:15",
-   "temperature": 286.86949999999996,
-   "altitude": 197
- },
- {
-   "time": "00:06:16",
-   "temperature": 286.86949999999996,
-   "altitude": 197
- },
- {
-   "time": "00:06:17",
-   "temperature": 286.863,
-   "altitude": 198
- },
- {
-   "time": "00:06:18",
-   "temperature": 286.863,
-   "altitude": 198
- },
- {
-   "time": "00:06:19",
-   "temperature": 286.863,
-   "altitude": 198
- },
- {
-   "time": "00:06:19",
-   "temperature": 286.863,
-   "altitude": 198
- },
- {
-   "time": "00:06:20",
-   "temperature": 286.8565,
-   "altitude": 199
- },
- {
-   "time": "00:06:21",
-   "temperature": 286.8565,
-   "altitude": 199
- },
- {
-   "time": "00:06:22",
-   "temperature": 286.8565,
-   "altitude": 199
- },
- {
-   "time": "00:06:23",
-   "temperature": 286.8565,
-   "altitude": 199
- },
- {
-   "time": "00:06:24",
-   "temperature": 286.84999999999997,
-   "altitude": 200
- },
- {
-   "time": "00:06:25",
-   "temperature": 286.84999999999997,
-   "altitude": 200
- },
- {
-   "time": "00:06:26",
-   "temperature": 286.84999999999997,
-   "altitude": 200
- },
- {
-   "time": "00:06:27",
-   "temperature": 286.84999999999997,
-   "altitude": 200
- },
- {
-   "time": "00:06:28",
-   "temperature": 286.84349999999995,
-   "altitude": 201
- },
- {
-   "time": "00:06:29",
-   "temperature": 286.84349999999995,
-   "altitude": 201
- },
- {
-   "time": "00:06:30",
-   "temperature": 286.84349999999995,
-   "altitude": 201
- },
- {
-   "time": "00:06:31",
-   "temperature": 286.84349999999995,
-   "altitude": 201
- },
- {
-   "time": "00:06:32",
-   "temperature": 286.837,
-   "altitude": 202
- },
- {
-   "time": "00:06:33",
-   "temperature": 286.837,
-   "altitude": 202
- },
- {
-   "time": "00:06:34",
-   "temperature": 286.837,
-   "altitude": 202
- },
- {
-   "time": "00:06:35",
-   "temperature": 286.837,
-   "altitude": 202
- },
- {
-   "time": "00:06:36",
-   "temperature": 286.8305,
-   "altitude": 203
- },
- {
-   "time": "00:06:37",
-   "temperature": 286.8305,
-   "altitude": 203
- },
- {
-   "time": "00:06:38",
-   "temperature": 286.8305,
-   "altitude": 203
- },
- {
-   "time": "00:06:39",
-   "temperature": 286.8305,
-   "altitude": 203
- },
- {
-   "time": "00:06:40",
-   "temperature": 286.8305,
-   "altitude": 203
- },
- {
-   "time": "00:06:41",
-   "temperature": 286.82399999999996,
-   "altitude": 204
- },
- {
-   "time": "00:06:42",
-   "temperature": 286.82399999999996,
-   "altitude": 204
- },
- {
-   "time": "00:06:43",
-   "temperature": 286.82399999999996,
-   "altitude": 204
- },
- {
-   "time": "00:06:44",
-   "temperature": 286.82399999999996,
-   "altitude": 204
- },
- {
-   "time": "00:06:45",
-   "temperature": 286.82399999999996,
-   "altitude": 204
- },
- {
-   "time": "00:06:46",
-   "temperature": 286.8175,
-   "altitude": 205
- },
- {
-   "time": "00:06:47",
-   "temperature": 286.8175,
-   "altitude": 205
- },
- {
-   "time": "00:06:48",
-   "temperature": 286.8175,
-   "altitude": 205
- },
- {
-   "time": "00:06:49",
-   "temperature": 286.8175,
-   "altitude": 205
- },
- {
-   "time": "00:06:50",
-   "temperature": 286.8175,
-   "altitude": 205
- },
- {
-   "time": "00:06:51",
-   "temperature": 286.811,
-   "altitude": 206
- },
- {
-   "time": "00:06:52",
-   "temperature": 286.811,
-   "altitude": 206
- },
- {
-   "time": "00:06:53",
-   "temperature": 286.811,
-   "altitude": 206
- },
- {
-   "time": "00:06:54",
-   "temperature": 286.811,
-   "altitude": 206
- },
- {
-   "time": "00:06:55",
-   "temperature": 286.811,
-   "altitude": 206
- },
- {
-   "time": "00:06:56",
-   "temperature": 286.80449999999996,
-   "altitude": 207
- },
- {
-   "time": "00:06:57",
-   "temperature": 286.80449999999996,
-   "altitude": 207
- },
- {
-   "time": "00:06:58",
-   "temperature": 286.80449999999996,
-   "altitude": 207
- },
- {
-   "time": "00:06:59",
-   "temperature": 286.80449999999996,
-   "altitude": 207
- },
- {
-   "time": "00:07:00",
-   "temperature": 286.80449999999996,
-   "altitude": 207
- },
- {
-   "time": "00:07:01",
-   "temperature": 286.80449999999996,
-   "altitude": 207
- },
- {
-   "time": "00:07:02",
-   "temperature": 286.798,
-   "altitude": 208
- },
- {
-   "time": "00:07:03",
-   "temperature": 286.798,
-   "altitude": 208
- },
- {
-   "time": "00:07:04",
-   "temperature": 286.798,
-   "altitude": 208
- },
- {
-   "time": "00:07:05",
-   "temperature": 286.798,
-   "altitude": 208
- },
- {
-   "time": "00:07:06",
-   "temperature": 286.798,
-   "altitude": 208
- },
- {
-   "time": "00:07:07",
-   "temperature": 286.7915,
-   "altitude": 209
- },
- {
-   "time": "00:07:08",
-   "temperature": 286.7915,
-   "altitude": 209
- },
- {
-   "time": "00:07:09",
-   "temperature": 286.7915,
-   "altitude": 209
- },
- {
-   "time": "00:07:10",
-   "temperature": 286.7915,
-   "altitude": 209
- },
- {
-   "time": "00:07:11",
-   "temperature": 286.7915,
-   "altitude": 209
- },
- {
-   "time": "00:07:12",
-   "temperature": 286.7915,
-   "altitude": 209
- },
- {
-   "time": "00:07:14",
-   "temperature": 286.7915,
-   "altitude": 209
- },
- {
-   "time": "00:07:15",
-   "temperature": 286.78499999999997,
-   "altitude": 210
- },
- {
-   "time": "00:07:15",
-   "temperature": 286.78499999999997,
-   "altitude": 210
- },
- {
-   "time": "00:07:17",
-   "temperature": 286.78499999999997,
-   "altitude": 210
- },
- {
-   "time": "00:07:18",
-   "temperature": 286.78499999999997,
-   "altitude": 210
- },
- {
-   "time": "00:07:19",
-   "temperature": 286.78499999999997,
-   "altitude": 210
- },
- {
-   "time": "00:07:20",
-   "temperature": 286.78499999999997,
-   "altitude": 210
- },
- {
-   "time": "00:07:21",
-   "temperature": 286.78499999999997,
-   "altitude": 210
- },
- {
-   "time": "00:07:22",
-   "temperature": 286.77849999999995,
-   "altitude": 211
- },
- {
-   "time": "00:07:28",
-   "temperature": 286.772,
-   "altitude": 212
- },
- {
-   "time": "00:07:29",
-   "temperature": 286.772,
-   "altitude": 212
- },
- {
-   "time": "00:07:30",
-   "temperature": 286.772,
-   "altitude": 212
- },
- {
-   "time": "00:07:31",
-   "temperature": 286.772,
-   "altitude": 212
- },
- {
-   "time": "00:07:32",
-   "temperature": 286.772,
-   "altitude": 212
- },
- {
-   "time": "00:07:35",
-   "temperature": 286.772,
-   "altitude": 212
- },
- {
-   "time": "00:07:36",
-   "temperature": 286.772,
-   "altitude": 212
- },
- {
-   "time": "00:07:37",
-   "temperature": 286.7655,
-   "altitude": 213
- },
- {
-   "time": "00:07:38",
-   "temperature": 286.7655,
-   "altitude": 213
- },
- {
-   "time": "00:07:39",
-   "temperature": 286.7655,
-   "altitude": 213
- },
- {
-   "time": "00:07:40",
-   "temperature": 286.7655,
-   "altitude": 213
- },
- {
-   "time": "00:07:41",
-   "temperature": 286.7655,
-   "altitude": 213
- },
- {
-   "time": "00:07:42",
-   "temperature": 286.7655,
-   "altitude": 213
- },
- {
-   "time": "00:07:43",
-   "temperature": 286.7655,
-   "altitude": 213
- },
- {
-   "time": "00:07:44",
-   "temperature": 286.7655,
-   "altitude": 213
- },
- {
-   "time": "00:07:45",
-   "temperature": 286.7655,
-   "altitude": 213
- },
- {
-   "time": "00:07:46",
-   "temperature": 286.75899999999996,
-   "altitude": 214
- },
- {
-   "time": "00:07:47",
-   "temperature": 286.75899999999996,
-   "altitude": 214
- },
- {
-   "time": "00:07:48",
-   "temperature": 286.75899999999996,
-   "altitude": 214
- },
- {
-   "time": "00:07:49",
-   "temperature": 286.75899999999996,
-   "altitude": 214
- },
- {
-   "time": "00:07:50",
-   "temperature": 286.75899999999996,
-   "altitude": 214
- },
- {
-   "time": "00:07:51",
-   "temperature": 286.75899999999996,
-   "altitude": 214
- },
- {
-   "time": "00:07:52",
-   "temperature": 286.75899999999996,
-   "altitude": 214
- },
- {
-   "time": "00:07:53",
-   "temperature": 286.75899999999996,
-   "altitude": 214
- },
- {
-   "time": "00:07:54",
-   "temperature": 286.75899999999996,
-   "altitude": 214
- },
- {
-   "time": "00:07:55",
-   "temperature": 286.75899999999996,
-   "altitude": 214
- },
- {
-   "time": "00:07:56",
-   "temperature": 286.75899999999996,
-   "altitude": 214
- },
- {
-   "time": "00:07:57",
-   "temperature": 286.75899999999996,
-   "altitude": 214
- },
- {
-   "time": "00:07:58",
-   "temperature": 286.7525,
-   "altitude": 215
- },
- {
-   "time": "00:07:59",
-   "temperature": 286.7525,
-   "altitude": 215
- },
- {
-   "time": "00:08:00",
-   "temperature": 286.7525,
-   "altitude": 215
- },
- {
-   "time": "00:08:01",
-   "temperature": 286.7525,
-   "altitude": 215
- },
- {
-   "time": "00:08:02",
-   "temperature": 286.7525,
-   "altitude": 215
- },
- {
-   "time": "00:08:03",
-   "temperature": 286.7525,
-   "altitude": 215
- },
- {
-   "time": "00:08:05",
-   "temperature": 286.7525,
-   "altitude": 215
- },
- {
-   "time": "00:08:06",
-   "temperature": 286.7525,
-   "altitude": 215
- },
- {
-   "time": "00:08:07",
-   "temperature": 286.7525,
-   "altitude": 215
- },
- {
-   "time": "00:08:08",
-   "temperature": 286.7525,
-   "altitude": 215
- },
- {
-   "time": "00:08:09",
-   "temperature": 286.7525,
-   "altitude": 215
- },
- {
-   "time": "00:08:10",
-   "temperature": 286.7525,
-   "altitude": 215
- },
- {
-   "time": "00:08:11",
-   "temperature": 286.7525,
-   "altitude": 215
- },
- {
-   "time": "00:08:12",
-   "temperature": 286.7525,
-   "altitude": 215
- },
- {
-   "time": "00:08:13",
-   "temperature": 286.7525,
-   "altitude": 215
- },
- {
-   "time": "00:08:14",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:16",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:16",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:17",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:20",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:21",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:22",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:23",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:24",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:25",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:26",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:27",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:28",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:29",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:30",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:31",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:31",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:32",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:33",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:34",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:35",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:36",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:37",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:38",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:39",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:40",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:41",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:42",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:43",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:44",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:45",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:46",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:47",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:48",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:49",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:50",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:51",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:52",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:53",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:54",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:55",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:56",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:57",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:58",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:08:59",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:00",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:01",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:02",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:03",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:04",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:05",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:06",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:07",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:08",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:09",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:10",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:11",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:12",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:13",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:14",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:15",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:16",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:17",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:18",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:19",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:20",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:21",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:23",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:24",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:25",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:26",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:27",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:28",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:29",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:30",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:31",
-   "temperature": 286.746,
-   "altitude": 216
- },
- {
-   "time": "00:09:32",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:09:33",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:09:34",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:09:35",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:09:36",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:09:37",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:09:38",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:09:39",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:09:39",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:09:40",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:09:41",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:09:42",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:09:43",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:09:44",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:09:45",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:09:46",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:09:47",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:09:48",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:09:49",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:09:50",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:09:51",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:09:52",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:09:53",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:09:54",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:09:55",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:09:56",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:09:57",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:09:58",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:09:59",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:00",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:01",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:02",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:03",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:04",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:05",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:06",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:07",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:08",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:09",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:10",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:11",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:12",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:13",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:14",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:15",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:16",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:17",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:18",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:19",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:20",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:21",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:22",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:23",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:24",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:25",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:26",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:27",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:28",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:29",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:30",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:32",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:33",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:34",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:35",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:36",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:37",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:38",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:39",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:40",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:41",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:42",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:43",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:44",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:45",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:46",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:46",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:47",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:48",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:49",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:50",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:51",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:52",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:53",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:54",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:55",
-   "temperature": 286.73949999999996,
-   "altitude": 217
- },
- {
-   "time": "00:10:56",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:10:57",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:10:58",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:10:59",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:00",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:01",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:02",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:03",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:04",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:05",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:06",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:07",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:08",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:09",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:10",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:11",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:12",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:13",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:14",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:15",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:16",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:17",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:18",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:19",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:20",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:21",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:22",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:23",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:24",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:25",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:26",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:27",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:28",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:29",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:30",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:31",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:32",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:33",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:35",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:35",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:37",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:38",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:39",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:40",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:41",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:42",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:43",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:44",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:45",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:46",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:46",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:48",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:49",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:50",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:51",
-   "temperature": 286.733,
-   "altitude": 218
- },
- {
-   "time": "00:11:51",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:11:52",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:11:53",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:11:54",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:11:55",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:11:56",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:11:57",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:11:58",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:11:59",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:00",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:01",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:02",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:03",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:04",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:05",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:05",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:07",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:08",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:09",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:10",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:11",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:12",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:13",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:14",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:15",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:16",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:17",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:18",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:19",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:20",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:21",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:23",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:24",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:25",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:26",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:27",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:28",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:29",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:30",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:31",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:32",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:33",
-   "temperature": 286.7265,
-   "altitude": 219
- },
- {
-   "time": "00:12:34",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:12:35",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:12:36",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:12:37",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:12:38",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:12:39",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:12:40",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:12:41",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:12:42",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:12:43",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:12:45",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:12:46",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:12:47",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:12:48",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:12:49",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:12:50",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:12:51",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:12:52",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:12:53",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:12:54",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:12:55",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:12:56",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:12:57",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:12:58",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:12:59",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:13:00",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:13:00",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:13:01",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:13:02",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:13:03",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:13:04",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:13:05",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:13:06",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:13:07",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:13:08",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:13:09",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:13:10",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:13:11",
-   "temperature": 286.71999999999997,
-   "altitude": 220
- },
- {
-   "time": "00:13:12",
-   "temperature": 286.71349999999995,
-   "altitude": 221
- },
- {
-   "time": "00:13:13",
-   "temperature": 286.71349999999995,
-   "altitude": 221
- },
- {
-   "time": "00:13:14",
-   "temperature": 286.71349999999995,
-   "altitude": 221
- },
- {
-   "time": "00:13:15",
-   "temperature": 286.71349999999995,
-   "altitude": 221
- },
- {
-   "time": "00:13:16",
-   "temperature": 286.71349999999995,
-   "altitude": 221
- },
- {
-   "time": "00:13:18",
-   "temperature": 286.71349999999995,
-   "altitude": 221
- },
- {
-   "time": "00:13:22",
-   "temperature": 286.71349999999995,
-   "altitude": 221
- },
- {
-   "time": "00:13:23",
-   "temperature": 286.71349999999995,
-   "altitude": 221
- },
- {
-   "time": "00:13:24",
-   "temperature": 286.71349999999995,
-   "altitude": 221
- },
- {
-   "time": "00:13:25",
-   "temperature": 286.71349999999995,
-   "altitude": 221
- },
- {
-   "time": "00:13:26",
-   "temperature": 286.71349999999995,
-   "altitude": 221
- },
- {
-   "time": "00:13:31",
-   "temperature": 286.71349999999995,
-   "altitude": 221
- },
- {
-   "time": "00:13:37",
-   "temperature": 286.71349999999995,
-   "altitude": 221
- },
- {
-   "time": "00:13:38",
-   "temperature": 286.71349999999995,
-   "altitude": 221
- },
- {
-   "time": "00:13:39",
-   "temperature": 286.71349999999995,
-   "altitude": 221
- },
- {
-   "time": "00:13:40",
-   "temperature": 286.71349999999995,
-   "altitude": 221
- },
- {
-   "time": "00:13:41",
-   "temperature": 286.71349999999995,
-   "altitude": 221
- },
- {
-   "time": "00:13:42",
-   "temperature": 286.71349999999995,
-   "altitude": 221
- },
- {
-   "time": "00:13:43",
-   "temperature": 286.71349999999995,
-   "altitude": 221
- },
- {
-   "time": "00:13:44",
-   "temperature": 286.71349999999995,
-   "altitude": 221
- },
- {
-   "time": "00:13:45",
-   "temperature": 286.71349999999995,
-   "altitude": 221
- },
- {
-   "time": "00:13:46",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:13:47",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:13:48",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:13:49",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:13:50",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:13:51",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:13:53",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:13:54",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:13:55",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:13:56",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:13:57",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:13:58",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:13:59",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:14:00",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:14:01",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:14:02",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:14:03",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:14:04",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:14:05",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:14:06",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:14:07",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:14:08",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:14:09",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:14:10",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:14:11",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:14:12",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:14:12",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:14:13",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:14:14",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:14:15",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:14:16",
-   "temperature": 286.707,
-   "altitude": 222
- },
- {
-   "time": "00:14:17",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:18",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:19",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:20",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:21",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:22",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:23",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:24",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:25",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:26",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:27",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:28",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:29",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:30",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:31",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:32",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:33",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:34",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:35",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:36",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:37",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:38",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:39",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:40",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:41",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:42",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:43",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:44",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:45",
-   "temperature": 286.7005,
-   "altitude": 223
- },
- {
-   "time": "00:14:47",
-   "temperature": 286.69399999999996,
-   "altitude": 224
- },
- {
-   "time": "00:14:48",
-   "temperature": 286.69399999999996,
-   "altitude": 224
- },
- {
-   "time": "00:14:49",
-   "temperature": 286.69399999999996,
-   "altitude": 224
- },
- {
-   "time": "00:14:50",
-   "temperature": 286.69399999999996,
-   "altitude": 224
- },
- {
-   "time": "00:14:51",
-   "temperature": 286.69399999999996,
-   "altitude": 224
- },
- {
-   "time": "00:14:52",
-   "temperature": 286.69399999999996,
-   "altitude": 224
- },
- {
-   "time": "00:14:53",
-   "temperature": 286.69399999999996,
-   "altitude": 224
- },
- {
-   "time": "00:14:54",
-   "temperature": 286.69399999999996,
-   "altitude": 224
- },
- {
-   "time": "00:14:55",
-   "temperature": 286.69399999999996,
-   "altitude": 224
- },
- {
-   "time": "00:14:56",
-   "temperature": 286.69399999999996,
-   "altitude": 224
- },
- {
-   "time": "00:14:57",
-   "temperature": 286.69399999999996,
-   "altitude": 224
- },
- {
-   "time": "00:14:58",
-   "temperature": 286.69399999999996,
-   "altitude": 224
- },
- {
-   "time": "00:14:59",
-   "temperature": 286.69399999999996,
-   "altitude": 224
  }
 ]
