@@ -1,2 +1,2 @@
 # SpaceDB-Api
-for more visit http://www.spacexdb.cf
+this is the api for http://www.spacexdb.cf
