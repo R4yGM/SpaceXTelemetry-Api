@@ -1,0 +1,822 @@
+[
+ {
+   "time": "00:00:00",
+   "speedofsound": 340.2626485525556,
+   "altitude": 0
+ },
+ {
+   "time": "00:00:01",
+   "speedofsound": 340.2626485525556,
+   "altitude": 0
+ },
+ {
+   "time": "00:00:03",
+   "speedofsound": 340.2626485525556,
+   "altitude": 0
+ },
+ {
+   "time": "00:00:06",
+   "speedofsound": 340.2626485525556,
+   "altitude": 0
+ },
+ {
+   "time": "00:00:08",
+   "speedofsound": 340.2626485525556,
+   "altitude": 0
+ },
+ {
+   "time": "00:00:08",
+   "speedofsound": 340.2626485525556,
+   "altitude": 0
+ },
+ {
+   "time": "00:00:10",
+   "speedofsound": 339.49422675503627,
+   "altitude": 0.2
+ },
+ {
+   "time": "00:00:12",
+   "speedofsound": 339.49422675503627,
+   "altitude": 0.2
+ },
+ {
+   "time": "00:00:03",
+   "speedofsound": 340.2626485525556,
+   "altitude": 0
+ },
+ {
+   "time": "00:00:06",
+   "speedofsound": 340.2626485525556,
+   "altitude": 0
+ },
+ {
+   "time": "00:00:07",
+   "speedofsound": 340.2626485525556,
+   "altitude": 0
+ },
+ {
+   "time": "00:00:08",
+   "speedofsound": 340.2626485525556,
+   "altitude": 0
+ },
+ {
+   "time": "00:00:10",
+   "speedofsound": 339.878654816686,
+   "altitude": 0.1
+ },
+ {
+   "time": "00:00:11",
+   "speedofsound": 339.878654816686,
+   "altitude": 0.1
+ },
+ {
+   "time": "00:00:12",
+   "speedofsound": 339.49422675503627,
+   "altitude": 0.2
+ },
+ {
+   "time": "00:00:13",
+   "speedofsound": 339.49422675503627,
+   "altitude": 0.2
+ },
+ {
+   "time": "00:00:14",
+   "speedofsound": 339.1093628904988,
+   "altitude": 0.3
+ },
+ {
+   "time": "00:00:15",
+   "speedofsound": 339.1093628904988,
+   "altitude": 0.3
+ },
+ {
+   "time": "00:00:16",
+   "speedofsound": 339.1093628904988,
+   "altitude": 0.3
+ },
+ {
+   "time": "00:00:17",
+   "speedofsound": 338.7240617375742,
+   "altitude": 0.4
+ },
+ {
+   "time": "00:00:19",
+   "speedofsound": 337.9521415822069,
+   "altitude": 0.6
+ },
+ {
+   "time": "00:00:20",
+   "speedofsound": 337.5655195662021,
+   "altitude": 0.7
+ },
+ {
+   "time": "00:00:21",
+   "speedofsound": 337.5655195662021,
+   "altitude": 0.7
+ },
+ {
+   "time": "00:00:23",
+   "speedofsound": 337.1784542345492,
+   "altitude": 0.8
+ },
+ {
+   "time": "00:00:23",
+   "speedofsound": 336.7909440587736,
+   "altitude": 0.9
+ },
+ {
+   "time": "00:00:25",
+   "speedofsound": 336.4029875015975,
+   "altitude": 1
+ },
+ {
+   "time": "00:00:26",
+   "speedofsound": 336.01458301686847,
+   "altitude": 1.1
+ },
+ {
+   "time": "00:00:28",
+   "speedofsound": 335.9251864627003,
+   "altitude": 1.123
+ },
+ {
+   "time": "00:00:32",
+   "speedofsound": 335.23642403533654,
+   "altitude": 1.3
+ },
+ {
+   "time": "00:00:33",
+   "speedofsound": 332.49852631252367,
+   "altitude": 2
+ },
+ {
+   "time": "00:00:34",
+   "speedofsound": 331.7121191635904,
+   "altitude": 2.2
+ },
+ {
+   "time": "00:00:35",
+   "speedofsound": 331.31821561755396,
+   "altitude": 2.3
+ },
+ {
+   "time": "00:00:36",
+   "speedofsound": 330.5290002405235,
+   "altitude": 2.5
+ },
+ {
+   "time": "00:00:38",
+   "speedofsound": 330.13368504289286,
+   "altitude": 2.6
+ },
+ {
+   "time": "00:00:39",
+   "speedofsound": 329.3416311370307,
+   "altitude": 2.8
+ },
+ {
+   "time": "00:00:40",
+   "speedofsound": 328.54766777440375,
+   "altitude": 3
+ },
+ {
+   "time": "00:00:41",
+   "speedofsound": 327.75178107830317,
+   "altitude": 3.2
+ },
+ {
+   "time": "00:00:42",
+   "speedofsound": 327.3531120976246,
+   "altitude": 3.3
+ },
+ {
+   "time": "00:00:43",
+   "speedofsound": 326.55431401223285,
+   "altitude": 3.5
+ },
+ {
+   "time": "00:00:44",
+   "speedofsound": 325.75355715632634,
+   "altitude": 3.7
+ },
+ {
+   "time": "00:00:45",
+   "speedofsound": 324.9508270492629,
+   "altitude": 3.9
+ },
+ {
+   "time": "00:00:45",
+   "speedofsound": 324.14610903109724,
+   "altitude": 4.1
+ },
+ {
+   "time": "00:00:46",
+   "speedofsound": 324.5487174524034,
+   "altitude": 4
+ },
+ {
+   "time": "00:00:47",
+   "speedofsound": 322.12551901393965,
+   "altitude": 4.6
+ },
+ {
+   "time": "00:00:48",
+   "speedofsound": 321.3137251970416,
+   "altitude": 4.8
+ },
+ {
+   "time": "00:00:50",
+   "speedofsound": 320.0921742248629,
+   "altitude": 5.1
+ },
+ {
+   "time": "00:00:51",
+   "speedofsound": 319.2752104376411,
+   "altitude": 5.3
+ },
+ {
+   "time": "00:00:52",
+   "speedofsound": 318.4561508277081,
+   "altitude": 5.5
+ },
+ {
+   "time": "00:00:52",
+   "speedofsound": 317.2235962219708,
+   "altitude": 5.8
+ },
+ {
+   "time": "00:00:54",
+   "speedofsound": 315.98623387736365,
+   "altitude": 6.1
+ },
+ {
+   "time": "00:00:55",
+   "speedofsound": 315.1586267262884,
+   "altitude": 6.3
+ },
+ {
+   "time": "00:00:56",
+   "speedofsound": 313.9131249247154,
+   "altitude": 6.6
+ },
+ {
+   "time": "00:00:57",
+   "speedofsound": 314.7854936301862,
+   "altitude": 6.39
+ },
+ {
+   "time": "00:00:58",
+   "speedofsound": 311.8262336622754,
+   "altitude": 7.1
+ },
+ {
+   "time": "00:00:59",
+   "speedofsound": 310.5673678930225,
+   "altitude": 7.4
+ },
+ {
+   "time": "00:00:59",
+   "speedofsound": 312.2447277377153,
+   "altitude": 7
+ },
+ {
+   "time": "00:01:00",
+   "speedofsound": 308.0342026463944,
+   "altitude": 8
+ },
+ {
+   "time": "00:01:01",
+   "speedofsound": 307.1851721681891,
+   "altitude": 8.2
+ },
+ {
+   "time": "00:01:02",
+   "speedofsound": 305.90720815306065,
+   "altitude": 8.5
+ },
+ {
+   "time": "00:01:04",
+   "speedofsound": 304.6238828457152,
+   "altitude": 8.8
+ },
+ {
+   "time": "00:01:04",
+   "speedofsound": 303.76532060128255,
+   "altitude": 9
+ },
+ {
+   "time": "00:01:06",
+   "speedofsound": 302.04087471731367,
+   "altitude": 9.4
+ },
+ {
+   "time": "00:01:07",
+   "speedofsound": 300.74105140469266,
+   "altitude": 9.7
+ },
+ {
+   "time": "00:01:08",
+   "speedofsound": 299.4355857275484,
+   "altitude": 10
+ },
+ {
+   "time": "00:01:09",
+   "speedofsound": 298.1244035633447,
+   "altitude": 10.3
+ },
+ {
+   "time": "00:01:10",
+   "speedofsound": 296.36713717954626,
+   "altitude": 10.7
+ },
+ {
+   "time": "00:01:11",
+   "speedofsound": 295.04231899847855,
+   "altitude": 11
+ },
+ {
+   "time": "00:01:11",
+   "speedofsound": 295.04231899847855,
+   "altitude": 11.4
+ },
+ {
+   "time": "00:01:12",
+   "speedofsound": 295.04231899847855,
+   "altitude": 11.7
+ },
+ {
+   "time": "00:01:13",
+   "speedofsound": 295.04231899847855,
+   "altitude": 12.1
+ },
+ {
+   "time": "00:01:14",
+   "speedofsound": 295.04231899847855,
+   "altitude": 12.4
+ },
+ {
+   "time": "00:01:15",
+   "speedofsound": 295.04231899847855,
+   "altitude": 12.8
+ },
+ {
+   "time": "00:01:16",
+   "speedofsound": 295.04231899847855,
+   "altitude": 13.2
+ },
+ {
+   "time": "00:01:17",
+   "speedofsound": 295.04231899847855,
+   "altitude": 13.6
+ },
+ {
+   "time": "00:01:19",
+   "speedofsound": 295.04231899847855,
+   "altitude": 13.3
+ },
+ {
+   "time": "00:01:20",
+   "speedofsound": 295.04231899847855,
+   "altitude": 14.3
+ },
+ {
+   "time": "00:01:21",
+   "speedofsound": 295.04231899847855,
+   "altitude": 14.7
+ },
+ {
+   "time": "00:01:22",
+   "speedofsound": 295.04231899847855,
+   "altitude": 15.1
+ },
+ {
+   "time": "00:01:23",
+   "speedofsound": 295.04231899847855,
+   "altitude": 15.5
+ },
+ {
+   "time": "00:01:24",
+   "speedofsound": 295.04231899847855,
+   "altitude": 15.93
+ },
+ {
+   "time": "00:01:25",
+   "speedofsound": 295.04231899847855,
+   "altitude": 16.3
+ },
+ {
+   "time": "00:01:25",
+   "speedofsound": 295.04231899847855,
+   "altitude": 16.8
+ },
+ {
+   "time": "00:01:26",
+   "speedofsound": 295.04231899847855,
+   "altitude": 17.2
+ },
+ {
+   "time": "00:01:27",
+   "speedofsound": 295.04231899847855,
+   "altitude": 17.6
+ },
+ {
+   "time": "00:01:31",
+   "speedofsound": 295.04231899847855,
+   "altitude": 19
+ },
+ {
+   "time": "00:01:32",
+   "speedofsound": 295.04231899847855,
+   "altitude": 19.4
+ },
+ {
+   "time": "00:01:32",
+   "speedofsound": 295.04231899847855,
+   "altitude": 19.9
+ },
+ {
+   "time": "00:01:34",
+   "speedofsound": 295.31456110391844,
+   "altitude": 20.4
+ },
+ {
+   "time": "00:01:35",
+   "speedofsound": 295.65451121198873,
+   "altitude": 20.9
+ },
+ {
+   "time": "00:01:36",
+   "speedofsound": 295.9940708865635,
+   "altitude": 21.4
+ },
+ {
+   "time": "00:01:37",
+   "speedofsound": 296.33324146980203,
+   "altitude": 21.9
+ },
+ {
+   "time": "00:01:38",
+   "speedofsound": 296.6720242961914,
+   "altitude": 22.4
+ },
+ {
+   "time": "00:01:38",
+   "speedofsound": 296.9427722642866,
+   "altitude": 22.8
+ },
+ {
+   "time": "00:01:39",
+   "speedofsound": 297.2808604670001,
+   "altitude": 23.3
+ },
+ {
+   "time": "00:01:40",
+   "speedofsound": 297.6860594653367,
+   "altitude": 23.9
+ },
+ {
+   "time": "00:01:41",
+   "speedofsound": 298.02330445788965,
+   "altitude": 24.4
+ },
+ {
+   "time": "00:01:42",
+   "speedofsound": 298.36016825306956,
+   "altitude": 24.9
+ },
+ {
+   "time": "00:01:43",
+   "speedofsound": 298.76390344216617,
+   "altitude": 25.5
+ },
+ {
+   "time": "00:01:45",
+   "speedofsound": 299.099933132724,
+   "altitude": 26
+ },
+ {
+   "time": "00:01:46",
+   "speedofsound": 299.50267110661963,
+   "altitude": 26.6
+ },
+ {
+   "time": "00:01:47",
+   "speedofsound": 299.83787285798303,
+   "altitude": 27.1
+ },
+ {
+   "time": "00:01:48",
+   "speedofsound": 300.23962096965147,
+   "altitude": 27.7
+ },
+ {
+   "time": "00:01:49",
+   "speedofsound": 300.64083222343567,
+   "altitude": 28.3
+ },
+ {
+   "time": "00:01:50",
+   "speedofsound": 301.0415087658178,
+   "altitude": 28.9
+ },
+ {
+   "time": "00:01:51",
+   "speedofsound": 301.44165272901483,
+   "altitude": 29.5
+ },
+ {
+   "time": "00:01:51",
+   "speedofsound": 301.84126623111024,
+   "altitude": 30.1
+ },
+ {
+   "time": "00:01:52",
+   "speedofsound": 302.24035137618534,
+   "altitude": 30.7
+ },
+ {
+   "time": "00:01:53",
+   "speedofsound": 302.63891025444826,
+   "altitude": 31.3
+ },
+ {
+   "time": "00:01:54",
+   "speedofsound": 303.10323323910615,
+   "altitude": 32
+ },
+ {
+   "time": "00:01:55",
+   "speedofsound": 304.2147169352594,
+   "altitude": 32.6
+ },
+ {
+   "time": "00:01:56",
+   "speedofsound": 305.32215445329217,
+   "altitude": 33.2
+ },
+ {
+   "time": "00:01:57",
+   "speedofsound": 306.60910945371467,
+   "altitude": 33.9
+ },
+ {
+   "time": "00:01:58",
+   "speedofsound": 307.89068514653053,
+   "altitude": 34.6
+ },
+ {
+   "time": "00:02:00",
+   "speedofsound": 309.1669484275445,
+   "altitude": 35.3
+ },
+ {
+   "time": "00:02:01",
+   "speedofsound": 310.4379648174494,
+   "altitude": 36
+ },
+ {
+   "time": "00:02:02",
+   "speedofsound": 311.70379850107696,
+   "altitude": 36.7
+ },
+ {
+   "time": "00:02:03",
+   "speedofsound": 312.96451236522006,
+   "altitude": 37.4
+ },
+ {
+   "time": "00:02:04",
+   "speedofsound": 314.2201680350896,
+   "altitude": 38.1
+ },
+ {
+   "time": "00:02:04",
+   "speedofsound": 315.470825909465,
+   "altitude": 38.8
+ },
+ {
+   "time": "00:02:06",
+   "speedofsound": 316.7165451945951,
+   "altitude": 39.5
+ },
+ {
+   "time": "00:02:07",
+   "speedofsound": 318.13425153541704,
+   "altitude": 40.3
+ },
+ {
+   "time": "00:02:08",
+   "speedofsound": 319.5456680976914,
+   "altitude": 41.1
+ },
+ {
+   "time": "00:02:08",
+   "speedofsound": 321.00345356397645,
+   "altitude": 41.93
+ },
+ {
+   "time": "00:02:09",
+   "speedofsound": 322.1754087449878,
+   "altitude": 42.6
+ },
+ {
+   "time": "00:02:10",
+   "speedofsound": 323.56919816323676,
+   "altitude": 43.4
+ },
+ {
+   "time": "00:02:11",
+   "speedofsound": 324.9570094643289,
+   "altitude": 44.2
+ },
+ {
+   "time": "00:02:12",
+   "speedofsound": 326.3389189171282,
+   "altitude": 45
+ },
+ {
+   "time": "00:02:14",
+   "speedofsound": 327.8866053988787,
+   "altitude": 45.9
+ },
+ {
+   "time": "00:02:15",
+   "speedofsound": 329.25621937937626,
+   "altitude": 46.7
+ },
+ {
+   "time": "00:02:15",
+   "speedofsound": 329.76835809398085,
+   "altitude": 47.6
+ },
+ {
+   "time": "00:02:18",
+   "speedofsound": 329.76835809398085,
+   "altitude": 49.4
+ },
+ {
+   "time": "00:02:19",
+   "speedofsound": 329.76835809398085,
+   "altitude": 50.3
+ },
+ {
+   "time": "00:02:20",
+   "speedofsound": 329.59773360871276,
+   "altitude": 51.1
+ },
+ {
+   "time": "00:02:21",
+   "speedofsound": 327.8866053988787,
+   "altitude": 52.1
+ },
+ {
+   "time": "00:02:21",
+   "speedofsound": 325.30303718225565,
+   "altitude": 53.6
+ },
+ {
+   "time": "00:02:22",
+   "speedofsound": 324.78385735747395,
+   "altitude": 53.9
+ },
+ {
+   "time": "00:02:23",
+   "speedofsound": 323.0472318407944,
+   "altitude": 54.9
+ },
+ {
+   "time": "00:02:24",
+   "speedofsound": 321.4762479562059,
+   "altitude": 55.8
+ },
+ {
+   "time": "00:02:25",
+   "speedofsound": 319.72165707064636,
+   "altitude": 56.8
+ },
+ {
+   "time": "00:02:28",
+   "speedofsound": 316.36112593047835,
+   "altitude": 58.7
+ },
+ {
+   "time": "00:02:29",
+   "speedofsound": 314.39913803953084,
+   "altitude": 59.8
+ },
+ {
+   "time": "00:02:30",
+   "speedofsound": 312.60482721800696,
+   "altitude": 60.8
+ },
+ {
+   "time": "00:02:31",
+   "speedofsound": 310.80015765761766,
+   "altitude": 61.8
+ },
+ {
+   "time": "00:02:32",
+   "speedofsound": 308.802840012847,
+   "altitude": 62.9
+ },
+ {
+   "time": "00:02:33",
+   "speedofsound": 306.97581989466204,
+   "altitude": 63.9
+ },
+ {
+   "time": "00:02:34",
+   "speedofsound": 304.95345546492825,
+   "altitude": 65
+ },
+ {
+   "time": "00:02:35",
+   "speedofsound": 303.10323323910615,
+   "altitude": 66
+ },
+ {
+   "time": "00:02:36",
+   "speedofsound": 301.0548554665744,
+   "altitude": 67.1
+ },
+ {
+   "time": "00:02:36",
+   "speedofsound": 299.1805240987454,
+   "altitude": 68.1
+ },
+ {
+   "time": "00:02:37",
+   "speedofsound": 297.10510261521927,
+   "altitude": 69.2
+ },
+ {
+   "time": "00:02:38",
+   "speedofsound": 295.2056943895222,
+   "altitude": 70.2
+ },
+ {
+   "time": "00:02:39",
+   "speedofsound": 293.2665852087482,
+   "altitude": 71.3
+ },
+ {
+   "time": "00:02:40",
+   "speedofsound": 291.8932852944719,
+   "altitude": 72.3
+ },
+ {
+   "time": "00:02:41",
+   "speedofsound": 290.51349366251475,
+   "altitude": 73.3
+ },
+ {
+   "time": "00:02:43",
+   "speedofsound": 288.98811394242495,
+   "altitude": 74.4
+ },
+ {
+   "time": "00:02:44",
+   "speedofsound": 287.5943845070692,
+   "altitude": 75.4
+ },
+ {
+   "time": "00:02:45",
+   "speedofsound": 286.19386785883444,
+   "altitude": 76.4
+ },
+ {
+   "time": "00:02:47",
+   "speedofsound": 283.37206990104016,
+   "altitude": 78.4
+ },
+ {
+   "time": "00:02:48",
+   "speedofsound": 282.0930520236186,
+   "altitude": 79.3
+ },
+ {
+   "time": "00:02:49",
+   "speedofsound": 280.66508511034993,
+   "altitude": 80.3
+ },
+ {
+   "time": "00:02:49",
+   "speedofsound": 279.3736744934998,
+   "altitude": 81.2
+ },
+ {
+   "time": "00:02:50",
+   "speedofsound": 277.9317362231236,
+   "altitude": 82.2
+ },
+ {
+   "time": "00:02:51",
+   "speedofsound": 276.4822779130698,
+   "altitude": 83.2
+ },
+ {
+   "time": "00:02:52",
+   "speedofsound": 275.1712375957923,
+   "altitude": 84.1
+ }
+]
