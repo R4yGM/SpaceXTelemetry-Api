@@ -13,7 +13,7 @@ This is the section related to the telemetry and predictions data
 ## Query for telemetries
 
 * `https://spacextelemetry.cf/{{project}}/{{mission-name}}/api/{{file}}.{{format}}`
-* Example : `https://spacextelemetry.cf/starlink/starlink-6/api/`
+* Example : `https://spacextelemetry.cf/starlink/starlink-6/api/telemetry.json`
 
 ## Query parameters for telemetries
 | parameter | example |  type |  description |
