@@ -25,10 +25,10 @@ This is the section related to the telemetry and predictions data
 
 # Graphs
 This is the section related to the graphs and predicted graphs
-## Query for telemetries
+## Query for graphs
 
 * `https://spacextelemetry.cf/{{project}}/{{mission-name}}/api/{{file}}.{{format}}`
-* Example : `https://spacextelemetry.cf/starlink/starlink-6/api/telemetry.json`
+* Example : `https://spacextelemetry.cf/starlink/starlink-6/api/graphs/graptime-vs-altitude.png`
 
 ## Query parameters for graphs
 | parameter | example |  type |  required |  description |
@@ -36,4 +36,4 @@ This is the section related to the graphs and predicted graphs
 | project | `crew-dragon` | `string` | `yes` | The project name (ex. starlink, crew-dragon) |
 | mission_name | `starlink-6` | `string` | `yes` | The mission name (ex. starlink-5, dm-2) |
 | file | `density`,`telemetry`,`pressure`,`speed_of_sound`,`temperature`,`phase` | `string` | `yes` |The type of data you want to retrieve (ex. starlink, crew-dragon) |
-| format | `.json, .csv` | `string` |  `yes` | The format of the data, can be only .csv or .json |
+| format | `.png` | `string` |  `yes` | The format of the image, can be only .png |
