@@ -16,9 +16,24 @@ This is the section related to the telemetry and predictions data
 * Example : `https://spacextelemetry.cf/starlink/starlink-6/api/telemetry.json`
 
 ## Query parameters for telemetries
-| parameter | example |  type |  description |
-|       --- |     --- |   --- |          --- | 
-| project | `crew-dragon` | `string` | The project name (ex. starlink, crew-dragon) |
-| mission_name | `starlink-6` | `string` | The mission name (ex. starlink-5, dm-2) |
-| file | `density`,`telemetry`,`pressure`,`speed_of_sound`,`temperature`,`phase` | `string` | The type of data you want to retrieve (ex. starlink, crew-dragon) |
-| format | `.json, .csv` | `string` | The format of the data, can be only .csv or .json |
+| parameter | example |  type | required |  description |
+|       --- |     --- |   --- |      --- |          --- | 
+| project | `crew-dragon` | `string` | `yes` | The project name (ex. starlink, crew-dragon) |
+| mission_name | `starlink-6` | `string` | `yes` | The mission name (ex. starlink-5, dm-2) |
+| file | `density`,`telemetry`,`pressure`,`speed_of_sound`,`temperature`,`phase` | `string` | `yes` | The type of data you want to retrieve (ex. starlink, crew-dragon) |
+| format | `.json, .csv` | `string` | `yes` | The format of the data, can be only .csv or .json |
+
+# Graphs
+This is the section related to the graphs and predicted graphs
+## Query for telemetries
+
+* `https://spacextelemetry.cf/{{project}}/{{mission-name}}/api/{{file}}.{{format}}`
+* Example : `https://spacextelemetry.cf/starlink/starlink-6/api/telemetry.json`
+
+## Query parameters for graphs
+| parameter | example |  type |  required |  description |
+|       --- |     --- |   --- |    --- |          --- | 
+| project | `crew-dragon` | `string` | `yes` | The project name (ex. starlink, crew-dragon) |
+| mission_name | `starlink-6` | `string` | `yes` | The mission name (ex. starlink-5, dm-2) |
+| file | `density`,`telemetry`,`pressure`,`speed_of_sound`,`temperature`,`phase` | `string` | `yes` |The type of data you want to retrieve (ex. starlink, crew-dragon) |
+| format | `.json, .csv` | `string` |  `yes` | The format of the data, can be only .csv or .json |
