@@ -21,5 +21,4 @@ This is the section related to the telemetry and predictions data
 | project | `crew-dragon` | `string` | The project name (ex. starlink, crew-dragon) |
 | mission_name | `starlink-6` | `string` | The mission name (ex. starlink-5, dm-2) |
 | file | `density`,`telemetry`,`pressure`,`speed_of_sound`,`temperature`,`phase` | `string` | The type of data you want to retrieve (ex. starlink, crew-dragon) |
-| format | `.json, .csv` | `string` | The project name (ex. starlink, crew-dragon) |
-| `git diff` | Show file differences that **haven't been** staged |
+| format | `.json, .csv` | `string` | The format of the data, can be only .csv or .json |
