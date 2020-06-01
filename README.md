@@ -33,8 +33,8 @@ This is the section related to the graphs and predicted graphs
 ## Query parameters for graphs
 | parameter | example |  type |  required |  description |
 |       --- |     --- |   --- |    --- |          --- | 
-| project | `crew-dragon` | `string` | `yes` | The project name (ex. starlink, crew-dragon) |
-| mission_name | `starlink-6` | `string` | `yes` | The mission name (ex. starlink-5, dm-2) |
+| project | `starlink` | `string` | `yes` | The project name (ex. starlink, crew-dragon) |
+| mission_name | `starlink-5` | `string` | `yes` | The mission name (ex. starlink-5, dm-2) |
 | file | `density-vs-altitude`,`pressure-vs-altitude`,`speed-of-sound-vs-altitude`,`speed-of-sound-vs-total-time`,`temperature-vs-altitude`,`total-seconds-vs-altitude`,`total-seconds-vs-speed` | `string` | `yes` |The type of graph you want to retrieve |
 | format | `.png` | `string` |  `yes` | The format of the image, can be only .png |
 
