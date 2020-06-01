@@ -28,7 +28,7 @@ This is the section related to the graphs and predicted graphs
 ## Query for graphs
 
 * `https://spacextelemetry.cf/{{project}}/{{mission-name}}/api/graphs/{{file}}.{{format}}`
-* Example : `https://spacextelemetry.cf/starlink/starlink-6/api/graphs/total-seconds-vs-speed.png
+* Example : `https://spacextelemetry.cf/starlink/starlink-6/api/graphs/total-seconds-vs-speed.png`
 
 ## Query parameters for graphs
 | parameter | example |  type |  required |  description |
