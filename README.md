@@ -18,7 +18,7 @@ This is the section related to the telemetry and predictions data
 ## Query parameters for telemetries
 | parameter | example |  type | required |  description |
 |       --- |     --- |   --- |      --- |          --- | 
-| project | `crew-dragon` | `string` | `yes` | The project name (ex. starlink, crew-dragon) |
+| project | `starlink` | `string` | `yes` | The project name (ex. starlink, crew-dragon) |
 | mission_name | `starlink-6` | `string` | `yes` | The mission name (ex. starlink-5, dm-2) |
 | file | `density`,`phase` | `string` | `yes` | The type of data you want to retrieve (ex. starlink, crew-dragon) |
 | format | `.json, .csv` | `string` | `yes` | The format of the data, can be only .csv or .json |
@@ -49,7 +49,7 @@ This is the section related to ISA Calculations that returns `density`,`pressure
 | parameter | example |  type | required |  description |
 |       --- |     --- |   --- |      --- |          --- | 
 | project | `crew-dragon` | `string` | `yes` | The project name (ex. starlink, crew-dragon) |
-| mission_name | `starlink-6` | `string` | `yes` | The mission name (ex. starlink-5, dm-2) |
+| mission_name | `dm-2` | `string` | `yes` | The mission name (ex. starlink-5, dm-2) |
 | file | `density`,`pressure`,`speed_of_sound`,`temperature` | `string` | `yes` | The type of data you want to retrieve (ex. starlink, crew-dragon) |
 | format | `.json, .csv` | `string` | `yes` | The format of the data, can be only .csv or .json |
 
