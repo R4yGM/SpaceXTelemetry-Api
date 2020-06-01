@@ -45,7 +45,7 @@ This is the section related to ISA Calculations that returns `density`,`pressure
 * `https://spacextelemetry.cf/{{project}}/{{mission-name}}/api/{{file}}.{{format}}`
 * Example : `https://spacextelemetry.cf/starlink/starlink-6/api/pressure.json`
 
-## Query parameters for telemetries
+## Query parameters for ISA Calculations 
 | parameter | example |  type | required |  description |
 |       --- |     --- |   --- |      --- |          --- | 
 | project | `crew-dragon` | `string` | `yes` | The project name (ex. starlink, crew-dragon) |
