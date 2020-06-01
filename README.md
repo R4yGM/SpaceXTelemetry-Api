@@ -20,20 +20,36 @@ This is the section related to the telemetry and predictions data
 |       --- |     --- |   --- |      --- |          --- | 
 | project | `crew-dragon` | `string` | `yes` | The project name (ex. starlink, crew-dragon) |
 | mission_name | `starlink-6` | `string` | `yes` | The mission name (ex. starlink-5, dm-2) |
-| file | `density`,`telemetry`,`pressure`,`speed_of_sound`,`temperature`,`phase` | `string` | `yes` | The type of data you want to retrieve (ex. starlink, crew-dragon) |
+| file | `density`,`phase` | `string` | `yes` | The type of data you want to retrieve (ex. starlink, crew-dragon) |
 | format | `.json, .csv` | `string` | `yes` | The format of the data, can be only .csv or .json |
 
 # Graphs
 This is the section related to the graphs and predicted graphs
 ## Query for graphs
 
-* `https://spacextelemetry.cf/{{project}}/{{mission-name}}/api/{{file}}.{{format}}`
-* Example : `https://spacextelemetry.cf/starlink/starlink-6/api/graphs/graptime-vs-altitude.png`
+* `https://spacextelemetry.cf/{{project}}/{{mission-name}}/api/graphs/{{file}}.{{format}}`
+* Example : `https://spacextelemetry.cf/starlink/starlink-6/api/graphs/total-seconds-vs-speed.png
 
 ## Query parameters for graphs
 | parameter | example |  type |  required |  description |
 |       --- |     --- |   --- |    --- |          --- | 
 | project | `crew-dragon` | `string` | `yes` | The project name (ex. starlink, crew-dragon) |
 | mission_name | `starlink-6` | `string` | `yes` | The mission name (ex. starlink-5, dm-2) |
-| file | `density`,`telemetry`,`pressure`,`speed_of_sound`,`temperature`,`phase` | `string` | `yes` |The type of data you want to retrieve (ex. starlink, crew-dragon) |
+| file | `density-vs-altitude`,`pressure-vs-altitude`,`speed-of-sound-vs-altitude`,`speed-of-sound-vs-total-time`,`temperature-vs-altitude`,`total-seconds-vs-altitude`,`total-seconds-vs-speed` | `string` | `yes` |The type of graph you want to retrieve |
 | format | `.png` | `string` |  `yes` | The format of the image, can be only .png |
+
+# ISA Calculations (international standard altitude)
+This is the section related to ISA Calculations that returns `density`,`pressure`,`speed_of_sound`,`temperature`
+## Query for ISA Calculations 
+
+* `https://spacextelemetry.cf/{{project}}/{{mission-name}}/api/{{file}}.{{format}}`
+* Example : `https://spacextelemetry.cf/starlink/starlink-6/api/pressure.json`
+
+## Query parameters for telemetries
+| parameter | example |  type | required |  description |
+|       --- |     --- |   --- |      --- |          --- | 
+| project | `crew-dragon` | `string` | `yes` | The project name (ex. starlink, crew-dragon) |
+| mission_name | `starlink-6` | `string` | `yes` | The mission name (ex. starlink-5, dm-2) |
+| file | `density`,`pressure`,`speed_of_sound`,`temperature` | `string` | `yes` | The type of data you want to retrieve (ex. starlink, crew-dragon) |
+| format | `.json, .csv` | `string` | `yes` | The format of the data, can be only .csv or .json |
+
