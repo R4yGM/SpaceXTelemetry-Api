@@ -20,7 +20,7 @@ This is the section related to the telemetry and predictions data
 |       --- |     --- |   --- |      --- |          --- | 
 | project | `starlink` | `string` | `yes` | The project name (ex. starlink, crew-dragon) |
 | mission_name | `starlink-6` | `string` | `yes` | The mission name (ex. starlink-5, dm-2) |
-| file | `density`,`phase` | `string` | `yes` | The type of data you want to retrieve (ex. starlink, crew-dragon) |
+| file | `density`,`phase` | `string` | `yes` | The type of data you want to retrieve |
 | format | `.json, .csv` | `string` | `yes` | The format of the data, can be only .csv or .json |
 
 # Graphs
@@ -50,6 +50,20 @@ This is the section related to ISA Calculations that returns `density`,`pressure
 |       --- |     --- |   --- |      --- |          --- | 
 | project | `crew-dragon` | `string` | `yes` | The project name (ex. starlink, crew-dragon) |
 | mission_name | `dm-2` | `string` | `yes` | The mission name (ex. starlink-5, dm-2) |
-| file | `density`,`pressure`,`speed_of_sound`,`temperature` | `string` | `yes` | The type of data you want to retrieve (ex. starlink, crew-dragon) |
+| file | `density`,`pressure`,`speed_of_sound`,`temperature` | `string` | `yes` | The type of data you want to retrieve |
+| format | `.json, .csv` | `string` | `yes` | The format of the data, can be only .csv or .json |
+
+
+## Query for predicted calculations
+
+* `https://spacextelemetry.cf/{{project}}/{{mission-name}}/api/{{file}}.{{format}}`
+* Example : `https://spacextelemetry.cf/starlink/starlink-6/api/acceleration.json`
+
+## Query parameters for predicted calculations
+| parameter | example |  type | required |  description |
+|       --- |     --- |   --- |      --- |          --- | 
+| project | `crew-dragon` | `string` | `yes` | The project name (ex. starlink, crew-dragon) |
+| mission_name | `dm-2` | `string` | `yes` | The mission name (ex. starlink-5, dm-2) |
+| file | `acceleration` | `string` | `yes` | The type of data you want to retrieve (only acceleration avaible) |
 | format | `.json, .csv` | `string` | `yes` | The format of the data, can be only .csv or .json |
 
