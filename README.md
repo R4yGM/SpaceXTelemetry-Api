@@ -6,8 +6,8 @@ SpaceXDB-Api is a Open Source REST API, the api used in http://www.spacexdb.cf ,
 </p>
 
 # Documentation
-this is the documentation of spacexdb-api to retrieve telemetries and calculations to launches
-
+this is the documentation of spacexdb-api to retrieve telemetries and calculations to launches\
+**not all the launches have the same data** this is because they couldn't be calculate or they weren't calculated yet
 # Telemetries
 This is the section related to the telemetry and predictions data
 ## Query for telemetries
