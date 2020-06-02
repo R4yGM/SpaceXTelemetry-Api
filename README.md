@@ -67,3 +67,6 @@ This is the section related to ISA Calculations that returns `density`,`pressure
 | file | `acceleration` | `string` | `yes` | The type of data you want to retrieve (only acceleration avaible) |
 | format | `.json, .csv` | `string` | `yes` | The format of the data, can be only .csv or .json |
 
+# Apps that use this API
+* [SpaceXDB](https://www.spacexdb.cf/)
+
