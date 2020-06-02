@@ -68,5 +68,6 @@ This is the section related to ISA Calculations that returns `density`,`pressure
 | format | `.json, .csv` | `string` | `yes` | The format of the data, can be only .csv or .json |
 
 # Apps that use this API
+a list of applications that uses this api
 * [SpaceXDB](https://www.spacexdb.cf/)
 
