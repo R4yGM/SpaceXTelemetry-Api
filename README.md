@@ -35,7 +35,7 @@ This is the section related to the graphs and predicted graphs
 |       --- |     --- |   --- |    --- |          --- | 
 | project | `starlink` | `string` | `yes` | The project name (ex. starlink, crew-dragon) |
 | mission_name | `starlink-5` | `string` | `yes` | The mission name (ex. starlink-5, dm-2) |
-| file | `density-vs-altitude`,`pressure-vs-altitude`,`speed-of-sound-vs-altitude`,`speed-of-sound-vs-total-time`,`temperature-vs-altitude`,`total-seconds-vs-altitude`,`total-seconds-vs-speed` | `string` | `yes` |The type of graph you want to retrieve |
+| file | `density-vs-altitude`,`pressure-vs-altitude`,`speed-of-sound-vs-altitude`,`speed-of-sound-vs-total-time`,`temperature-vs-altitude`,`total-seconds-vs-altitude`,`total-seconds-vs-speed`,`acceleration-vs-total-time` | `string` | `yes` |The type of graph you want to retrieve |
 | format | `.png` | `string` |  `yes` | The format of the image, can be only .png |
 
 # ISA Calculations (international standard altitude)
@@ -50,7 +50,7 @@ This is the section related to ISA Calculations that returns `density`,`pressure
 |       --- |     --- |   --- |      --- |          --- | 
 | project | `crew-dragon` | `string` | `yes` | The project name (ex. starlink, crew-dragon) |
 | mission_name | `dm-2` | `string` | `yes` | The mission name (ex. starlink-5, dm-2) |
-| file | `density`,`pressure`,`speed_of_sound`,`temperature` | `string` | `yes` | The type of data you want to retrieve |
+| file | `density`,`pressure`,`speed_of_sound`,`temperature`, | `string` | `yes` | The type of data you want to retrieve |
 | format | `.json, .csv` | `string` | `yes` | The format of the data, can be only .csv or .json |
 
 
