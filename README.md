@@ -68,6 +68,15 @@ This is the section related to ISA Calculations that returns `density`,`pressure
 | file | `density`,`pressure`,`speed_of_sound`,`temperature`, | `string` | `yes` | The type of data you want to retrieve |
 | format | `.json, .csv` | `string` | `yes` | The format of the data, can be only .csv or .json |
 
+# List of extracted and analysed launches
+**Starlink**
+
+* [Starlink-5](https://github.com/R4yGM/SpaceXDB-Api/tree/master/starlink/starlink-5/api)
+* [Starlink-6](https://github.com/R4yGM/SpaceXDB-Api/tree/master/starlink/starlink-6/api)
+
+**Crew Dragon**
+* [dm-2](https://github.com/R4yGM/SpaceXDB-Api/tree/master/crew-dragon/dm-2/api)
+
 # Apps that use this API
 a list of applications that uses this api
 * [SpaceXDB](https://www.spacexdb.cf/)
