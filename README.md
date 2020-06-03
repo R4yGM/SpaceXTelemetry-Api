@@ -7,10 +7,12 @@ SpaceXDB-Api is a Open Source REST API, the api used in http://www.spacexdb.cf ,
 
 # Documentation
 this is the documentation of spacexdb-api to retrieve telemetries and calculations to launches\
-**not all the launches have the same data** this is because they couldn't be calculate or they weren't calculated yet
+
+
+### **not all the launches have the same data** this is because they couldn't be calculated or they weren't calculated yet, and not all the launches were extracted
 # Telemetries
 This is the section related to the telemetry and predictions data
-## Query for telemetries
+# Query for telemetries
 
 * `https://spacextelemetry.cf/{{project}}/{{mission-name}}/api/{{file}}.{{format}}`
 * Example : `https://spacextelemetry.cf/starlink/starlink-6/api/telemetry.json`
