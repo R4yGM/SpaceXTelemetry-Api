@@ -6,6 +6,34 @@ SpaceXDB-Api is a Open Source REST API, the api used in http://www.spacexdb.cf ,
 </p>
 
 
+# Usage
+
+```bash
+curl https://spacextelemetry.cf/starlink/starlink-6/api/telemetry.json | jq
+```
+**Example Response**
+```json
+[
+  {
+    "time": "00:00:01",
+    "altitude": 0,
+    "speed": 5
+  },
+  {
+    "time": "00:00:03",
+    "altitude": 0,
+    "speed": 17
+  },
+  {
+    "time": "00:00:06",
+    "altitude": 0,
+    "speed": 52
+  }
+  ...
+]
+```
+
+
 # Content of this page
 
 * [Documentation](https://github.com/R4yGM/SpaceXDB-Api#documentation)
