@@ -62,7 +62,7 @@ This is the section related to the graphs and predicted graphs
 
 # ISA Calculations (international standard altitude)
 This is the section related to ISA Calculations that returns `density`,`pressure`,`speed_of_sound`,`temperature`
-## Query for ISA Calculations 
+## Query for ISA Calculations (only a few launches have this)
 
 * `https://spacextelemetry.cf/{{project}}/{{mission-name}}/api/{{file}}.{{format}}`
 * Example : `https://spacextelemetry.cf/starlink/starlink-6/api/pressure.json`
