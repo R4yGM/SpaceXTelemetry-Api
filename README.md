@@ -46,10 +46,11 @@ This is the section related to the telemetry and predictions data
 | format | `.json, .csv` | `string` | `yes` | The format of the data, can be only .csv or .json |
 
 ## Avaible files for predicted calculations
-* acceleration - the acceleration of the rocket in m/s^2
-* vertical_speed - the vertical speed of the rocket in m/s
-* horizontal_speed - the horizontal speed of the rocket in m/s
-* downrange - distance from the launch pad in Km
+* **acceleration** : the acceleration of the rocket in m/s^2
+* **vertical_speed** : the vertical speed of the rocket in m/s
+* **horizontal_speed** : the horizontal speed of the rocket in m/s
+* **downrange** : distance from the launch pad in Km
+* **analysis** : complete analysis containing vertical speed,horizontal speed and downrange
 
 # Graphs
 This is the section related to the graphs and predicted graphs
@@ -68,13 +69,13 @@ This is the section related to the graphs and predicted graphs
 | format | `.png` | `string` |  `yes` | The format of the image, can be only .png |
 
 ## Avaible files for graphs
-* acceleration-vs-total-time - the acceleration of the rocket compared to time
-* downrange-vs-total-time - distance to the launchpad compared to time
-* horizontal-speed-vs-total-time - comparision between horizontal speed and time
-* total-seconds-vs-altitude - comparision between time and altitude
-* total-seconds-vs-speed - total seconds compared to the speed
-* vertical-horizontal-speed - comparision of vertical and horizontal speed
-* vertical-speed-vs-total-time - plot of the vertical speed and the total time
+* **acceleration-vs-total-time** : the acceleration of the rocket compared to time
+* **downrange-vs-total-time** : distance to the launchpad compared to time
+* **horizontal-speed-vs-total-time** : comparision between horizontal speed and time
+* **total-seconds-vs-altitude** : comparision between time and altitude
+* **total-seconds-vs-speed** : total seconds compared to the speed
+* **vertical-horizontal-speed** : comparision of vertical and horizontal speed
+* **vertical-speed-vs-total-time** : plot of the vertical speed and the total time
 
 # List of extracted and analysed launches
 **Starlink**
