@@ -60,9 +60,9 @@ This is the section related to the graphs and predicted graphs
 | file | `density-vs-altitude`,`pressure-vs-altitude`,`speed-of-sound-vs-altitude`,`speed-of-sound-vs-total-time`,`temperature-vs-altitude`,`total-seconds-vs-altitude`,`total-seconds-vs-speed`,`acceleration-vs-total-time` | `string` | `yes` |The type of graph you want to retrieve |
 | format | `.png` | `string` |  `yes` | The format of the image, can be only .png |
 
-# ISA Calculations (international standard altitude)
+# ISA Calculations (international standard altitude) **(only a few launches have this)**
 This is the section related to ISA Calculations that returns `density`,`pressure`,`speed_of_sound`,`temperature`
-## Query for ISA Calculations (only a few launches have this)
+## Query for ISA Calculations 
 
 * `https://spacextelemetry.cf/{{project}}/{{mission-name}}/api/{{file}}.{{format}}`
 * Example : `https://spacextelemetry.cf/starlink/starlink-6/api/pressure.json`
