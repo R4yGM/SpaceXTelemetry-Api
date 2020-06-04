@@ -17,6 +17,10 @@ this is the documentation of spacexdb-api to retrieve telemetries and calculatio
 
 
 ### **not all the launches have the same data** this is because they couldn't be calculated or they weren't calculated yet, and not all the launches were extracted
+
+if you want to check if data exist you could see it by going on the launch folder
+
+
 # Telemetries
 This is the section related to the telemetry and predictions data
 ## Query for telemetries
