@@ -53,7 +53,7 @@ if you want to check if data exist you could see it by going on the launch folde
 This is the section related to the telemetry and predictions data
 ## Query for telemetries
 
-* `https://spacextelemetry.cf/{{project}}/{{mission-name}}/api/{{file}}.{{format}}`
+* `https://spacextelemetry.cf/{project}/{mission-name}/api/{file}.{format}`
 * Example : `https://spacextelemetry.cf/starlink/starlink-6/api/telemetry.json`
 
 ## Query parameters for telemetries
@@ -67,7 +67,7 @@ This is the section related to the telemetry and predictions data
 
 ## Query for predicted calculations
 
-* `https://spacextelemetry.cf/{{project}}/{{mission-name}}/api/{{file}}.{{format}}`
+* `https://spacextelemetry.cf/{project}/{mission-name}/api/{file}.{format}`
 * Example : `https://spacextelemetry.cf/starlink/starlink-6/api/acceleration.json`
 
 ## Query parameters for predicted calculations
@@ -93,7 +93,7 @@ This is the section related to the graphs and predicted graphs
 
 ## Query for graphs
 
-* `https://spacextelemetry.cf/{{project}}/{{mission-name}}/api/graphs/{{file}}.{{format}}`
+* `https://spacextelemetry.cf/{project}/{mission-name}/api/graphs/{file}.{format}`
 * Example : `https://spacextelemetry.cf/starlink/starlink-6/api/graphs/total-seconds-vs-speed.png`
 
 ## Query parameters for graphs
@@ -138,7 +138,7 @@ This is the section related to ISA Calculations that returns `density`,`pressure
 
 ## Query for ISA Calculations 
 
-* `https://spacextelemetry.cf/{{project}}/{{mission-name}}/api/{{file}}.{{format}}`
+* `https://spacextelemetry.cf/{project}/{mission-name}/api/{file}.{format}`
 * Example : `https://spacextelemetry.cf/starlink/starlink-6/api/pressure.json`
 
 ## Query parameters for ISA Calculations 
