@@ -82,8 +82,8 @@ This is the section related to the telemetry and predictions data
 ## Avaible files for predicted calculations
 
 * **acceleration** : the acceleration of the rocket in m/s^2
-* **vertical_speed** : the vertical speed of the rocket in m/s
-* **horizontal_speed** : the horizontal speed of the rocket in m/s
+* **vertical_speed** : the vertical speed of the rocket in km/s
+* **horizontal_speed** : the horizontal speed of the rocket in km/s
 * **downrange** : distance from the launch pad in Km
 * **analysis** : complete analysis containing vertical speed,horizontal speed and downrange
 
