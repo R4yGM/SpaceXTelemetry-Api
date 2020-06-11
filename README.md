@@ -65,6 +65,10 @@ curl https://spacextelemetry.cf/launch/latest.json | jq
 # Content of this page
 
 * [Documentation](https://github.com/R4yGM/SpaceXDB-Api#documentation)
+  * [Telemetry](https://github.com/R4yGM/SpaceXDB-Api#query-for-telemetries)
+  * [Predicted calculations](https://github.com/R4yGM/SpaceXDB-Api#query-for-predicted-calculations)
+  * [Latest](https://github.com/R4yGM/SpaceXDB-Api#query-for-latest)
+  * [Graphs](https://github.com/R4yGM/SpaceXDB-Api#graphs)
 * [List of all the analysed launched](https://github.com/R4yGM/SpaceXDB-Api#list-of-extracted-and-analysed-launches)
 * [Apps using this API](https://github.com/R4yGM/SpaceXDB-Api#apps-that-use-this-api)
 
