@@ -115,6 +115,13 @@ This is the section related to the telemetry and predictions data
 * **downrange** : distance from the launch pad in Km
 * **analysis** : complete analysis containing vertical speed,horizontal speed and downrange
 
+## Query for latest
+
+returns telemetry and analysis of the latest analysed launch
+
+* Latest Telemetry : `https://spacextelemetry.cf/launch/telemetry.json`
+* Latest Telemetry Analysis : `https://spacextelemetry.cf/launch/analysis.json`
+
 # Graphs
 
 This is the section related to the graphs and predicted graphs
