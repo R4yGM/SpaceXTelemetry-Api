@@ -161,6 +161,7 @@ This is the section related to the graphs and predicted graphs
 * [Starlink-5](https://github.com/R4yGM/SpaceXDB-Api/tree/master/starlink/starlink-5/api)
 * [Starlink-6](https://github.com/R4yGM/SpaceXDB-Api/tree/master/starlink/starlink-6/api)
 * [Starlink-7](https://github.com/R4yGM/SpaceXDB-Api/tree/master/starlink/starlink-7/api)
+* [Starlink-8](https://github.com/R4yGM/SpaceXDB-Api/tree/master/starlink/starlink-8/api)
 
 **Crew Dragon**
 * [dm-2](https://github.com/R4yGM/SpaceXDB-Api/tree/master/crew-dragon/dm-2/api)
