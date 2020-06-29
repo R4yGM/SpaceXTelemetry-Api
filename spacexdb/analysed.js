@@ -1,7 +1,7 @@
 function main(){
 var uri = window.location;
  if(uri.includes("?")){
-  var payload = uri.split('?')[1];
+  var payload = uri.toString().split('?')[1].toString();
    if(payload.includes("mission_name=")){
      var mission_name = payload.replace("mission_name=")
      fetch('https://spacextelemetry.cf/spacexdb/analysed.json')
