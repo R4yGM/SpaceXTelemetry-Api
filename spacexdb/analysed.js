@@ -25,3 +25,4 @@ fetch('https://spacextelemetry.cf/spacexdb/analysed.json')
     });
   }  
 }
+main()
