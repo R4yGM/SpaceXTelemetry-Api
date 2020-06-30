@@ -1,6 +1,6 @@
 function main(){
 var uri = window.location;
- if(uri.includes("?")){
+ if(uri.toString().includes("?")){
   var payload = uri.toString().split('?')[1].toString();
    if(payload.includes("mission_name=")){
      var mission_name = payload.replace("mission_name=")
