@@ -1,0 +1,2657 @@
+[
+ {
+   "time": 0,
+   "vertical_speed": 33.3846589089,
+   "altitude": 0
+ },
+ {
+   "time": 1,
+   "vertical_speed": 47.1715138715,
+   "altitude": 0
+ },
+ {
+   "time": 2,
+   "vertical_speed": 61.2013532932,
+   "altitude": 0
+ },
+ {
+   "time": 3,
+   "vertical_speed": 80.8440079521,
+   "altitude": 0
+ },
+ {
+   "time": 4,
+   "vertical_speed": 106.367003213,
+   "altitude": 0.1
+ },
+ {
+   "time": 5,
+   "vertical_speed": 132.548095901,
+   "altitude": 0.2
+ },
+ {
+   "time": 6,
+   "vertical_speed": 154.331491722,
+   "altitude": 0.2
+ },
+ {
+   "time": 7,
+   "vertical_speed": 193.744937651,
+   "altitude": 0.3
+ },
+ {
+   "time": 8,
+   "vertical_speed": 240.270922402,
+   "altitude": 0.6
+ },
+ {
+   "time": 9,
+   "vertical_speed": 287.48212141,
+   "altitude": 0.7
+ },
+ {
+   "time": 10,
+   "vertical_speed": 312.893116268,
+   "altitude": 0.8
+ },
+ {
+   "time": 11,
+   "vertical_speed": 332.471434606,
+   "altitude": 0.9
+ },
+ {
+   "time": 12,
+   "vertical_speed": 365.014102715,
+   "altitude": 1
+ },
+ {
+   "time": 13,
+   "vertical_speed": 398.012760664,
+   "altitude": 1.3
+ },
+ {
+   "time": 14,
+   "vertical_speed": 431.209334776,
+   "altitude": 1.5
+ },
+ {
+   "time": 15,
+   "vertical_speed": 451.679427331,
+   "altitude": 1.6
+ },
+ {
+   "time": 16,
+   "vertical_speed": 472.344934773,
+   "altitude": 1.7
+ },
+ {
+   "time": 17,
+   "vertical_speed": 493.357695438,
+   "altitude": 1.8
+ },
+ {
+   "time": 18,
+   "vertical_speed": 515.022194723,
+   "altitude": 2
+ },
+ {
+   "time": 19,
+   "vertical_speed": 537.445049617,
+   "altitude": 2.1
+ },
+ {
+   "time": 20,
+   "vertical_speed": 568.01713475,
+   "altitude": 2.3
+ },
+ {
+   "time": 21,
+   "vertical_speed": 599.3398748,
+   "altitude": 2.6
+ },
+ {
+   "time": 22,
+   "vertical_speed": 630.914353057,
+   "altitude": 2.8
+ },
+ {
+   "time": 23,
+   "vertical_speed": 654.698620027,
+   "altitude": 2.9
+ },
+ {
+   "time": 24,
+   "vertical_speed": 671.03195336,
+   "altitude": 3.1
+ },
+ {
+   "time": 25,
+   "vertical_speed": 679.356352103,
+   "altitude": 3.3
+ },
+ {
+   "time": 26,
+   "vertical_speed": 680,
+   "altitude": 3.5
+ },
+ {
+   "time": 27,
+   "vertical_speed": 680,
+   "altitude": 3.7
+ },
+ {
+   "time": 28,
+   "vertical_speed": 680,
+   "altitude": 3.9
+ },
+ {
+   "time": 29,
+   "vertical_speed": 680,
+   "altitude": 4.1
+ },
+ {
+   "time": 30,
+   "vertical_speed": 680,
+   "altitude": 4.8
+ },
+ {
+   "time": 31,
+   "vertical_speed": 680,
+   "altitude": 5
+ },
+ {
+   "time": 32,
+   "vertical_speed": 680,
+   "altitude": 5.5
+ },
+ {
+   "time": 33,
+   "vertical_speed": 680,
+   "altitude": 5.7
+ },
+ {
+   "time": 34,
+   "vertical_speed": 680,
+   "altitude": 5.3
+ },
+ {
+   "time": 35,
+   "vertical_speed": 680,
+   "altitude": 6.2
+ },
+ {
+   "time": 36,
+   "vertical_speed": 680,
+   "altitude": 6.4
+ },
+ {
+   "time": 37,
+   "vertical_speed": 680,
+   "altitude": 6.6
+ },
+ {
+   "time": 38,
+   "vertical_speed": 680,
+   "altitude": 6.9
+ },
+ {
+   "time": 39,
+   "vertical_speed": 680,
+   "altitude": 7.2
+ },
+ {
+   "time": 40,
+   "vertical_speed": 680,
+   "altitude": 7.4
+ },
+ {
+   "time": 41,
+   "vertical_speed": 680,
+   "altitude": 7.7
+ },
+ {
+   "time": 42,
+   "vertical_speed": 680,
+   "altitude": 8
+ },
+ {
+   "time": 43,
+   "vertical_speed": 680,
+   "altitude": 8.5
+ },
+ {
+   "time": 44,
+   "vertical_speed": 680,
+   "altitude": 8.8
+ },
+ {
+   "time": 45,
+   "vertical_speed": 680,
+   "altitude": 3.1
+ },
+ {
+   "time": 46,
+   "vertical_speed": 680,
+   "altitude": 9.8
+ },
+ {
+   "time": 47,
+   "vertical_speed": 680,
+   "altitude": 10.1
+ },
+ {
+   "time": 48,
+   "vertical_speed": 680,
+   "altitude": 10.4
+ },
+ {
+   "time": 49,
+   "vertical_speed": 680,
+   "altitude": 10.7
+ },
+ {
+   "time": 50,
+   "vertical_speed": 680,
+   "altitude": 11.1
+ },
+ {
+   "time": 51,
+   "vertical_speed": 680,
+   "altitude": 11.5
+ },
+ {
+   "time": 52,
+   "vertical_speed": 680,
+   "altitude": 11.8
+ },
+ {
+   "time": 53,
+   "vertical_speed": 680,
+   "altitude": 12.5
+ },
+ {
+   "time": 54,
+   "vertical_speed": 680,
+   "altitude": 12.9
+ },
+ {
+   "time": 55,
+   "vertical_speed": 680,
+   "altitude": 13.3
+ },
+ {
+   "time": 56,
+   "vertical_speed": 680,
+   "altitude": 13.7
+ },
+ {
+   "time": 57,
+   "vertical_speed": 680,
+   "altitude": 14.1
+ },
+ {
+   "time": 58,
+   "vertical_speed": 680,
+   "altitude": 14.5
+ },
+ {
+   "time": 59,
+   "vertical_speed": 680,
+   "altitude": 14.9
+ },
+ {
+   "time": 60,
+   "vertical_speed": 680,
+   "altitude": 15.3
+ },
+ {
+   "time": 61,
+   "vertical_speed": 680,
+   "altitude": 15.7
+ },
+ {
+   "time": 62,
+   "vertical_speed": 680,
+   "altitude": 16.1
+ },
+ {
+   "time": 63,
+   "vertical_speed": 680,
+   "altitude": 16.6
+ },
+ {
+   "time": 64,
+   "vertical_speed": 680,
+   "altitude": 17
+ },
+ {
+   "time": 65,
+   "vertical_speed": 680,
+   "altitude": 17.9
+ },
+ {
+   "time": 66,
+   "vertical_speed": 680,
+   "altitude": 19.3
+ },
+ {
+   "time": 67,
+   "vertical_speed": 680,
+   "altitude": 19.8
+ },
+ {
+   "time": 68,
+   "vertical_speed": 680,
+   "altitude": 20.3
+ },
+ {
+   "time": 69,
+   "vertical_speed": 680,
+   "altitude": 20.8
+ },
+ {
+   "time": 70,
+   "vertical_speed": 680,
+   "altitude": 21.3
+ },
+ {
+   "time": 71,
+   "vertical_speed": 680,
+   "altitude": 21.8
+ },
+ {
+   "time": 72,
+   "vertical_speed": 680,
+   "altitude": 22.4
+ },
+ {
+   "time": 73,
+   "vertical_speed": 680,
+   "altitude": 22.9
+ },
+ {
+   "time": 74,
+   "vertical_speed": 680,
+   "altitude": 23.4
+ },
+ {
+   "time": 75,
+   "vertical_speed": 680,
+   "altitude": 24
+ },
+ {
+   "time": 76,
+   "vertical_speed": 680,
+   "altitude": 24.5
+ },
+ {
+   "time": 77,
+   "vertical_speed": 680,
+   "altitude": 25.1
+ },
+ {
+   "time": 78,
+   "vertical_speed": 680,
+   "altitude": 25.6
+ },
+ {
+   "time": 79,
+   "vertical_speed": 680,
+   "altitude": 26.2
+ },
+ {
+   "time": 80,
+   "vertical_speed": 680,
+   "altitude": 27.4
+ },
+ {
+   "time": 81,
+   "vertical_speed": 680,
+   "altitude": 28
+ },
+ {
+   "time": 82,
+   "vertical_speed": 680,
+   "altitude": 28.6
+ },
+ {
+   "time": 83,
+   "vertical_speed": 680,
+   "altitude": 29.2
+ },
+ {
+   "time": 84,
+   "vertical_speed": 680,
+   "altitude": 29.8
+ },
+ {
+   "time": 85,
+   "vertical_speed": 680,
+   "altitude": 30.4
+ },
+ {
+   "time": 86,
+   "vertical_speed": 680,
+   "altitude": 31
+ },
+ {
+   "time": 87,
+   "vertical_speed": 680,
+   "altitude": 32.3
+ },
+ {
+   "time": 88,
+   "vertical_speed": 680,
+   "altitude": 33
+ },
+ {
+   "time": 89,
+   "vertical_speed": 680,
+   "altitude": 33.7
+ },
+ {
+   "time": 90,
+   "vertical_speed": 680,
+   "altitude": 34.3
+ },
+ {
+   "time": 91,
+   "vertical_speed": 680,
+   "altitude": 35
+ },
+ {
+   "time": 92,
+   "vertical_speed": 680,
+   "altitude": 35.7
+ },
+ {
+   "time": 93,
+   "vertical_speed": 680,
+   "altitude": 36.4
+ },
+ {
+   "time": 94,
+   "vertical_speed": 680,
+   "altitude": 37.1
+ },
+ {
+   "time": 95,
+   "vertical_speed": 680,
+   "altitude": 37.8
+ },
+ {
+   "time": 96,
+   "vertical_speed": 680,
+   "altitude": 38.6
+ },
+ {
+   "time": 97,
+   "vertical_speed": 680,
+   "altitude": 39.2
+ },
+ {
+   "time": 98,
+   "vertical_speed": 680,
+   "altitude": 40
+ },
+ {
+   "time": 99,
+   "vertical_speed": 680,
+   "altitude": 40.7
+ },
+ {
+   "time": 100,
+   "vertical_speed": 680.555555556,
+   "altitude": 41.4
+ },
+ {
+   "time": 101,
+   "vertical_speed": 681.666666667,
+   "altitude": 42.2
+ },
+ {
+   "time": 102,
+   "vertical_speed": 683.777777778,
+   "altitude": 43
+ },
+ {
+   "time": 103,
+   "vertical_speed": 685.833333333,
+   "altitude": 43.7
+ },
+ {
+   "time": 104,
+   "vertical_speed": 688.111111111,
+   "altitude": 44.5
+ },
+ {
+   "time": 105,
+   "vertical_speed": 689.888888889,
+   "altitude": 45.3
+ },
+ {
+   "time": 106,
+   "vertical_speed": 691.666666667,
+   "altitude": 46.1
+ },
+ {
+   "time": 107,
+   "vertical_speed": 693.111111111,
+   "altitude": 46.9
+ },
+ {
+   "time": 108,
+   "vertical_speed": 694.388888889,
+   "altitude": 47.7
+ },
+ {
+   "time": 109,
+   "vertical_speed": 695.833333333,
+   "altitude": 48.5
+ },
+ {
+   "time": 110,
+   "vertical_speed": 697.333333333,
+   "altitude": 51
+ },
+ {
+   "time": 111,
+   "vertical_speed": 699.111111111,
+   "altitude": 51.39
+ },
+ {
+   "time": 112,
+   "vertical_speed": 700.5,
+   "altitude": 52.8
+ },
+ {
+   "time": 113,
+   "vertical_speed": 701.722222222,
+   "altitude": 53.6
+ },
+ {
+   "time": 114,
+   "vertical_speed": 702.666666667,
+   "altitude": 54.5
+ },
+ {
+   "time": 115,
+   "vertical_speed": 703.722222222,
+   "altitude": 55.4
+ },
+ {
+   "time": 116,
+   "vertical_speed": 704.777777778,
+   "altitude": 56.3
+ },
+ {
+   "time": 117,
+   "vertical_speed": 705.888888889,
+   "altitude": 57.1
+ },
+ {
+   "time": 118,
+   "vertical_speed": 707,
+   "altitude": 58
+ },
+ {
+   "time": 119,
+   "vertical_speed": 708.222222222,
+   "altitude": 58.9
+ },
+ {
+   "time": 120,
+   "vertical_speed": 709.333333333,
+   "altitude": 59.8
+ },
+ {
+   "time": 121,
+   "vertical_speed": 710.333333333,
+   "altitude": 60.7
+ },
+ {
+   "time": 122,
+   "vertical_speed": 711.111111111,
+   "altitude": 62.6
+ },
+ {
+   "time": 123,
+   "vertical_speed": 711.888888889,
+   "altitude": 63.5
+ },
+ {
+   "time": 124,
+   "vertical_speed": 712.666666667,
+   "altitude": 65.4
+ },
+ {
+   "time": 125,
+   "vertical_speed": 713.555555556,
+   "altitude": 66.4
+ },
+ {
+   "time": 126,
+   "vertical_speed": 714.388888889,
+   "altitude": 67.3
+ },
+ {
+   "time": 127,
+   "vertical_speed": 715.111111111,
+   "altitude": 68.3
+ },
+ {
+   "time": 128,
+   "vertical_speed": 715.611111111,
+   "altitude": 69.3
+ },
+ {
+   "time": 129,
+   "vertical_speed": 716,
+   "altitude": 70.2
+ },
+ {
+   "time": 130,
+   "vertical_speed": 716.388888889,
+   "altitude": 71.1
+ },
+ {
+   "time": 131,
+   "vertical_speed": 716.777777778,
+   "altitude": 72
+ },
+ {
+   "time": 132,
+   "vertical_speed": 717.222222222,
+   "altitude": 72.3
+ },
+ {
+   "time": 133,
+   "vertical_speed": 717.611111111,
+   "altitude": 73.8
+ },
+ {
+   "time": 134,
+   "vertical_speed": 718.055555556,
+   "altitude": 74.7
+ },
+ {
+   "time": 135,
+   "vertical_speed": 718.444444444,
+   "altitude": 75.6
+ },
+ {
+   "time": 136,
+   "vertical_speed": 718.777777778,
+   "altitude": 76.5
+ },
+ {
+   "time": 137,
+   "vertical_speed": 719.055555556,
+   "altitude": 77.4
+ },
+ {
+   "time": 138,
+   "vertical_speed": 719.333333333,
+   "altitude": 78.2
+ },
+ {
+   "time": 139,
+   "vertical_speed": 719.666666667,
+   "altitude": 79.1
+ },
+ {
+   "time": 140,
+   "vertical_speed": 719.888888889,
+   "altitude": 79.9
+ },
+ {
+   "time": 141,
+   "vertical_speed": 720,
+   "altitude": 80.8
+ },
+ {
+   "time": 142,
+   "vertical_speed": 720,
+   "altitude": 81.6
+ },
+ {
+   "time": 143,
+   "vertical_speed": 719.944444444,
+   "altitude": 82.4
+ },
+ {
+   "time": 144,
+   "vertical_speed": 719.666666667,
+   "altitude": 84.9
+ },
+ {
+   "time": 145,
+   "vertical_speed": 719.166666667,
+   "altitude": 88.2
+ },
+ {
+   "time": 146,
+   "vertical_speed": 718.5,
+   "altitude": 89
+ },
+ {
+   "time": 147,
+   "vertical_speed": 717.888888889,
+   "altitude": 89.8
+ },
+ {
+   "time": 148,
+   "vertical_speed": 717.333333333,
+   "altitude": 90.6
+ },
+ {
+   "time": 149,
+   "vertical_speed": 716.833333333,
+   "altitude": 91.3
+ },
+ {
+   "time": 150,
+   "vertical_speed": 716.388888889,
+   "altitude": 93.7
+ },
+ {
+   "time": 151,
+   "vertical_speed": 715.888888889,
+   "altitude": 94.4
+ },
+ {
+   "time": 152,
+   "vertical_speed": 715.277777778,
+   "altitude": 95.2
+ },
+ {
+   "time": 153,
+   "vertical_speed": 714.444444444,
+   "altitude": 95.9
+ },
+ {
+   "time": 154,
+   "vertical_speed": 713.611111111,
+   "altitude": 96.6
+ },
+ {
+   "time": 155,
+   "vertical_speed": 712.833333333,
+   "altitude": 97.4
+ },
+ {
+   "time": 156,
+   "vertical_speed": 712.166666667,
+   "altitude": 98.1
+ },
+ {
+   "time": 157,
+   "vertical_speed": 711.388888889,
+   "altitude": 98.9
+ },
+ {
+   "time": 158,
+   "vertical_speed": 710.611111111,
+   "altitude": 100
+ },
+ {
+   "time": 159,
+   "vertical_speed": 709.833333333,
+   "altitude": 100
+ },
+ {
+   "time": 160,
+   "vertical_speed": 709.111111111,
+   "altitude": 101
+ },
+ {
+   "time": 161,
+   "vertical_speed": 708.277777778,
+   "altitude": 102
+ },
+ {
+   "time": 162,
+   "vertical_speed": 707.277777778,
+   "altitude": 102
+ },
+ {
+   "time": 163,
+   "vertical_speed": 705.833333333,
+   "altitude": 103
+ },
+ {
+   "time": 164,
+   "vertical_speed": 703.555555556,
+   "altitude": 104
+ },
+ {
+   "time": 165,
+   "vertical_speed": 700.388888889,
+   "altitude": 107
+ },
+ {
+   "time": 166,
+   "vertical_speed": 697.166666667,
+   "altitude": 107
+ },
+ {
+   "time": 167,
+   "vertical_speed": 694.555555556,
+   "altitude": 108
+ },
+ {
+   "time": 168,
+   "vertical_speed": 692.944444444,
+   "altitude": 109
+ },
+ {
+   "time": 169,
+   "vertical_speed": 691.555555556,
+   "altitude": 109
+ },
+ {
+   "time": 170,
+   "vertical_speed": 690.388888889,
+   "altitude": 110
+ },
+ {
+   "time": 171,
+   "vertical_speed": 688.888888889,
+   "altitude": 113
+ },
+ {
+   "time": 172,
+   "vertical_speed": 687.333333333,
+   "altitude": 113
+ },
+ {
+   "time": 173,
+   "vertical_speed": 685.5,
+   "altitude": 116
+ },
+ {
+   "time": 174,
+   "vertical_speed": 683.666666667,
+   "altitude": 117
+ },
+ {
+   "time": 175,
+   "vertical_speed": 682.055555556,
+   "altitude": 119
+ },
+ {
+   "time": 176,
+   "vertical_speed": 680.444444444,
+   "altitude": 120
+ },
+ {
+   "time": 177,
+   "vertical_speed": 678.777777778,
+   "altitude": 121
+ },
+ {
+   "time": 178,
+   "vertical_speed": 676.444444444,
+   "altitude": 123
+ },
+ {
+   "time": 179,
+   "vertical_speed": 673.722222222,
+   "altitude": 123
+ },
+ {
+   "time": 180,
+   "vertical_speed": 670.888888889,
+   "altitude": 124
+ },
+ {
+   "time": 181,
+   "vertical_speed": 668.444444444,
+   "altitude": 124
+ },
+ {
+   "time": 182,
+   "vertical_speed": 666.222222222,
+   "altitude": 125
+ },
+ {
+   "time": 183,
+   "vertical_speed": 663.777777778,
+   "altitude": 126
+ },
+ {
+   "time": 184,
+   "vertical_speed": 661,
+   "altitude": 127
+ },
+ {
+   "time": 185,
+   "vertical_speed": 658.166666667,
+   "altitude": 127
+ },
+ {
+   "time": 186,
+   "vertical_speed": 655.444444444,
+   "altitude": 128
+ },
+ {
+   "time": 187,
+   "vertical_speed": 652.777777778,
+   "altitude": 129
+ },
+ {
+   "time": 188,
+   "vertical_speed": 649.833333333,
+   "altitude": 129
+ },
+ {
+   "time": 189,
+   "vertical_speed": 646.666666667,
+   "altitude": 130
+ },
+ {
+   "time": 190,
+   "vertical_speed": 643.5,
+   "altitude": 130
+ },
+ {
+   "time": 191,
+   "vertical_speed": 640.666666667,
+   "altitude": 131
+ },
+ {
+   "time": 192,
+   "vertical_speed": 638.333333333,
+   "altitude": 132
+ },
+ {
+   "time": 193,
+   "vertical_speed": 636.166666667,
+   "altitude": 132
+ },
+ {
+   "time": 194,
+   "vertical_speed": 633.722222222,
+   "altitude": 133
+ },
+ {
+   "time": 195,
+   "vertical_speed": 630.722222222,
+   "altitude": 133
+ },
+ {
+   "time": 196,
+   "vertical_speed": 627.277777778,
+   "altitude": 134
+ },
+ {
+   "time": 197,
+   "vertical_speed": 623.888888889,
+   "altitude": 135
+ },
+ {
+   "time": 198,
+   "vertical_speed": 620.833333333,
+   "altitude": 135
+ },
+ {
+   "time": 199,
+   "vertical_speed": 618.333333333,
+   "altitude": 135
+ },
+ {
+   "time": 200,
+   "vertical_speed": 615.944444444,
+   "altitude": 136
+ },
+ {
+   "time": 201,
+   "vertical_speed": 613.277777778,
+   "altitude": 136
+ },
+ {
+   "time": 202,
+   "vertical_speed": 610,
+   "altitude": 137
+ },
+ {
+   "time": 203,
+   "vertical_speed": 606.333333333,
+   "altitude": 137
+ },
+ {
+   "time": 204,
+   "vertical_speed": 602.555555556,
+   "altitude": 138
+ },
+ {
+   "time": 205,
+   "vertical_speed": 599.166666667,
+   "altitude": 138
+ },
+ {
+   "time": 206,
+   "vertical_speed": 596.277777778,
+   "altitude": 139
+ },
+ {
+   "time": 207,
+   "vertical_speed": 593.722222222,
+   "altitude": 139
+ },
+ {
+   "time": 208,
+   "vertical_speed": 590.217921958,
+   "altitude": 139
+ },
+ {
+   "time": 209,
+   "vertical_speed": 584.860625849,
+   "altitude": 140
+ },
+ {
+   "time": 210,
+   "vertical_speed": 578.255070293,
+   "altitude": 140
+ },
+ {
+   "time": 211,
+   "vertical_speed": 572.04270389,
+   "altitude": 141
+ },
+ {
+   "time": 212,
+   "vertical_speed": 566.733333333,
+   "altitude": 141
+ },
+ {
+   "time": 213,
+   "vertical_speed": 562.116666667,
+   "altitude": 142
+ },
+ {
+   "time": 214,
+   "vertical_speed": 557.555555556,
+   "altitude": 142
+ },
+ {
+   "time": 215,
+   "vertical_speed": 553.722222222,
+   "altitude": 142
+ },
+ {
+   "time": 216,
+   "vertical_speed": 550.444444444,
+   "altitude": 143
+ },
+ {
+   "time": 217,
+   "vertical_speed": 547.555555556,
+   "altitude": 143
+ },
+ {
+   "time": 218,
+   "vertical_speed": 544.277777778,
+   "altitude": 143
+ },
+ {
+   "time": 219,
+   "vertical_speed": 540.388888889,
+   "altitude": 144
+ },
+ {
+   "time": 220,
+   "vertical_speed": 535.475001715,
+   "altitude": 144
+ },
+ {
+   "time": 221,
+   "vertical_speed": 529.833333333,
+   "altitude": 145
+ },
+ {
+   "time": 222,
+   "vertical_speed": 523.141668382,
+   "altitude": 145
+ },
+ {
+   "time": 223,
+   "vertical_speed": 516.278251235,
+   "altitude": 145
+ },
+ {
+   "time": 224,
+   "vertical_speed": 509.475475172,
+   "altitude": 146
+ },
+ {
+   "time": 225,
+   "vertical_speed": 503.611584568,
+   "altitude": 146
+ },
+ {
+   "time": 226,
+   "vertical_speed": 498.388888889,
+   "altitude": 146
+ },
+ {
+   "time": 227,
+   "vertical_speed": 494.111111111,
+   "altitude": 147
+ },
+ {
+   "time": 228,
+   "vertical_speed": 490.444444444,
+   "altitude": 147
+ },
+ {
+   "time": 229,
+   "vertical_speed": 487.333333333,
+   "altitude": 148
+ },
+ {
+   "time": 230,
+   "vertical_speed": 484.222222222,
+   "altitude": 148
+ },
+ {
+   "time": 231,
+   "vertical_speed": 480.611111111,
+   "altitude": 148
+ },
+ {
+   "time": 232,
+   "vertical_speed": 476.5,
+   "altitude": 149
+ },
+ {
+   "time": 233,
+   "vertical_speed": 471.666666667,
+   "altitude": 149
+ },
+ {
+   "time": 234,
+   "vertical_speed": 466.833333333,
+   "altitude": 149
+ },
+ {
+   "time": 235,
+   "vertical_speed": 462,
+   "altitude": 150
+ },
+ {
+   "time": 236,
+   "vertical_speed": 457.555555556,
+   "altitude": 150
+ },
+ {
+   "time": 237,
+   "vertical_speed": 453.166666667,
+   "altitude": 151
+ },
+ {
+   "time": 238,
+   "vertical_speed": 448.888888889,
+   "altitude": 151
+ },
+ {
+   "time": 239,
+   "vertical_speed": 444.611111111,
+   "altitude": 151
+ },
+ {
+   "time": 240,
+   "vertical_speed": 440.388888889,
+   "altitude": 151
+ },
+ {
+   "time": 241,
+   "vertical_speed": 436.166666667,
+   "altitude": 152
+ },
+ {
+   "time": 242,
+   "vertical_speed": 431.44014418,
+   "altitude": 152
+ },
+ {
+   "time": 243,
+   "vertical_speed": 424.449853496,
+   "altitude": 152
+ },
+ {
+   "time": 244,
+   "vertical_speed": 414.017644513,
+   "altitude": 153
+ },
+ {
+   "time": 245,
+   "vertical_speed": 403.633055888,
+   "altitude": 153
+ },
+ {
+   "time": 246,
+   "vertical_speed": 395.567791017,
+   "altitude": 153
+ },
+ {
+   "time": 247,
+   "vertical_speed": 391.055555556,
+   "altitude": 154
+ },
+ {
+   "time": 248,
+   "vertical_speed": 386.833333333,
+   "altitude": 154
+ },
+ {
+   "time": 249,
+   "vertical_speed": 382.388888889,
+   "altitude": 154
+ },
+ {
+   "time": 250,
+   "vertical_speed": 377.611111111,
+   "altitude": 154
+ },
+ {
+   "time": 251,
+   "vertical_speed": 373.222222222,
+   "altitude": 155
+ },
+ {
+   "time": 252,
+   "vertical_speed": 369.166666667,
+   "altitude": 155
+ },
+ {
+   "time": 253,
+   "vertical_speed": 365.5,
+   "altitude": 155
+ },
+ {
+   "time": 254,
+   "vertical_speed": 361.833333333,
+   "altitude": 156
+ },
+ {
+   "time": 255,
+   "vertical_speed": 358.111111111,
+   "altitude": 156
+ },
+ {
+   "time": 256,
+   "vertical_speed": 354.166666667,
+   "altitude": 156
+ },
+ {
+   "time": 257,
+   "vertical_speed": 350.388888889,
+   "altitude": 156
+ },
+ {
+   "time": 258,
+   "vertical_speed": 346.722222222,
+   "altitude": 157
+ },
+ {
+   "time": 259,
+   "vertical_speed": 343.388888889,
+   "altitude": 157
+ },
+ {
+   "time": 260,
+   "vertical_speed": 340,
+   "altitude": 157
+ },
+ {
+   "time": 261,
+   "vertical_speed": 336.666666667,
+   "altitude": 157
+ },
+ {
+   "time": 262,
+   "vertical_speed": 333.333333333,
+   "altitude": 158
+ },
+ {
+   "time": 263,
+   "vertical_speed": 328.949330677,
+   "altitude": 158
+ },
+ {
+   "time": 264,
+   "vertical_speed": 322.244299395,
+   "altitude": 158
+ },
+ {
+   "time": 265,
+   "vertical_speed": 315.022077173,
+   "altitude": 158
+ },
+ {
+   "time": 266,
+   "vertical_speed": 308.850524273,
+   "altitude": 158
+ },
+ {
+   "time": 267,
+   "vertical_speed": 305,
+   "altitude": 159
+ },
+ {
+   "time": 268,
+   "vertical_speed": 301.666666667,
+   "altitude": 159
+ },
+ {
+   "time": 269,
+   "vertical_speed": 297.838219566,
+   "altitude": 159
+ },
+ {
+   "time": 270,
+   "vertical_speed": 291.688743839,
+   "altitude": 159
+ },
+ {
+   "time": 271,
+   "vertical_speed": 284.504886233,
+   "altitude": 160
+ },
+ {
+   "time": 272,
+   "vertical_speed": 275.495113767,
+   "altitude": 160
+ },
+ {
+   "time": 273,
+   "vertical_speed": 267.295952107,
+   "altitude": 160
+ },
+ {
+   "time": 274,
+   "vertical_speed": 258.8284471,
+   "altitude": 160
+ },
+ {
+   "time": 275,
+   "vertical_speed": 251.666666667,
+   "altitude": 160
+ },
+ {
+   "time": 276,
+   "vertical_speed": 245,
+   "altitude": 161
+ },
+ {
+   "time": 277,
+   "vertical_speed": 238.984695947,
+   "altitude": 161
+ },
+ {
+   "time": 278,
+   "vertical_speed": 233.429140391,
+   "altitude": 161
+ },
+ {
+   "time": 279,
+   "vertical_speed": 229.444444444,
+   "altitude": 161
+ },
+ {
+   "time": 280,
+   "vertical_speed": 226.111111111,
+   "altitude": 161
+ },
+ {
+   "time": 281,
+   "vertical_speed": 223.333333333,
+   "altitude": 162
+ },
+ {
+   "time": 282,
+   "vertical_speed": 219.444444444,
+   "altitude": 162
+ },
+ {
+   "time": 283,
+   "vertical_speed": 215.555555556,
+   "altitude": 162
+ },
+ {
+   "time": 284,
+   "vertical_speed": 211.666666667,
+   "altitude": 162
+ },
+ {
+   "time": 285,
+   "vertical_speed": 208.333333333,
+   "altitude": 162
+ },
+ {
+   "time": 286,
+   "vertical_speed": 205,
+   "altitude": 162
+ },
+ {
+   "time": 287,
+   "vertical_speed": 201.111111111,
+   "altitude": 163
+ },
+ {
+   "time": 288,
+   "vertical_speed": 197.222222222,
+   "altitude": 163
+ },
+ {
+   "time": 289,
+   "vertical_speed": 192.777777778,
+   "altitude": 163
+ },
+ {
+   "time": 290,
+   "vertical_speed": 188.888888889,
+   "altitude": 163
+ },
+ {
+   "time": 291,
+   "vertical_speed": 185,
+   "altitude": 163
+ },
+ {
+   "time": 292,
+   "vertical_speed": 181.666666667,
+   "altitude": 163
+ },
+ {
+   "time": 293,
+   "vertical_speed": 178.888888889,
+   "altitude": 164
+ },
+ {
+   "time": 294,
+   "vertical_speed": 176.111111111,
+   "altitude": 164
+ },
+ {
+   "time": 295,
+   "vertical_speed": 173.333333333,
+   "altitude": 164
+ },
+ {
+   "time": 296,
+   "vertical_speed": 170,
+   "altitude": 164
+ },
+ {
+   "time": 297,
+   "vertical_speed": 167.222222222,
+   "altitude": 164
+ },
+ {
+   "time": 298,
+   "vertical_speed": 165,
+   "altitude": 164
+ },
+ {
+   "time": 299,
+   "vertical_speed": 163.333333333,
+   "altitude": 164
+ },
+ {
+   "time": 300,
+   "vertical_speed": 161.111111111,
+   "altitude": 165
+ },
+ {
+   "time": 301,
+   "vertical_speed": 158.888888889,
+   "altitude": 165
+ },
+ {
+   "time": 302,
+   "vertical_speed": 156.111111111,
+   "altitude": 165
+ },
+ {
+   "time": 303,
+   "vertical_speed": 153.888888889,
+   "altitude": 165
+ },
+ {
+   "time": 304,
+   "vertical_speed": 151.111111111,
+   "altitude": 165
+ },
+ {
+   "time": 305,
+   "vertical_speed": 148.888888889,
+   "altitude": 165
+ },
+ {
+   "time": 306,
+   "vertical_speed": 146.666666667,
+   "altitude": 165
+ },
+ {
+   "time": 307,
+   "vertical_speed": 145,
+   "altitude": 166
+ },
+ {
+   "time": 308,
+   "vertical_speed": 143.333333333,
+   "altitude": 166
+ },
+ {
+   "time": 309,
+   "vertical_speed": 141.111111111,
+   "altitude": 166
+ },
+ {
+   "time": 310,
+   "vertical_speed": 138.888888889,
+   "altitude": 166
+ },
+ {
+   "time": 311,
+   "vertical_speed": 136.111111111,
+   "altitude": 166
+ },
+ {
+   "time": 312,
+   "vertical_speed": 133.888888889,
+   "altitude": 166
+ },
+ {
+   "time": 313,
+   "vertical_speed": 131.666666667,
+   "altitude": 166
+ },
+ {
+   "time": 314,
+   "vertical_speed": 130,
+   "altitude": 166
+ },
+ {
+   "time": 315,
+   "vertical_speed": 128.333333333,
+   "altitude": 166
+ },
+ {
+   "time": 316,
+   "vertical_speed": 126.666666667,
+   "altitude": 166
+ },
+ {
+   "time": 317,
+   "vertical_speed": 125,
+   "altitude": 167
+ },
+ {
+   "time": 318,
+   "vertical_speed": 123.333333333,
+   "altitude": 167
+ },
+ {
+   "time": 319,
+   "vertical_speed": 121.111111111,
+   "altitude": 167
+ },
+ {
+   "time": 320,
+   "vertical_speed": 118.888888889,
+   "altitude": 167
+ },
+ {
+   "time": 321,
+   "vertical_speed": 116.666666667,
+   "altitude": 167
+ },
+ {
+   "time": 322,
+   "vertical_speed": 115,
+   "altitude": 167
+ },
+ {
+   "time": 323,
+   "vertical_speed": 113.333333333,
+   "altitude": 167
+ },
+ {
+   "time": 324,
+   "vertical_speed": 111.666666667,
+   "altitude": 167
+ },
+ {
+   "time": 325,
+   "vertical_speed": 110,
+   "altitude": 167
+ },
+ {
+   "time": 326,
+   "vertical_speed": 108.333333333,
+   "altitude": 167
+ },
+ {
+   "time": 327,
+   "vertical_speed": 106.111111111,
+   "altitude": 167
+ },
+ {
+   "time": 328,
+   "vertical_speed": 103.888888889,
+   "altitude": 167
+ },
+ {
+   "time": 329,
+   "vertical_speed": 101.666666667,
+   "altitude": 168
+ },
+ {
+   "time": 330,
+   "vertical_speed": 100,
+   "altitude": 168
+ },
+ {
+   "time": 331,
+   "vertical_speed": 98.3333333333,
+   "altitude": 168
+ },
+ {
+   "time": 332,
+   "vertical_speed": 96.6666666667,
+   "altitude": 168
+ },
+ {
+   "time": 333,
+   "vertical_speed": 95,
+   "altitude": 168
+ },
+ {
+   "time": 334,
+   "vertical_speed": 93.3333333333,
+   "altitude": 168
+ },
+ {
+   "time": 335,
+   "vertical_speed": 91.1111111111,
+   "altitude": 168
+ },
+ {
+   "time": 336,
+   "vertical_speed": 88.8888888889,
+   "altitude": 168
+ },
+ {
+   "time": 337,
+   "vertical_speed": 86.6666666667,
+   "altitude": 168
+ },
+ {
+   "time": 338,
+   "vertical_speed": 85.5555555556,
+   "altitude": 168
+ },
+ {
+   "time": 339,
+   "vertical_speed": 84.4444444444,
+   "altitude": 168
+ },
+ {
+   "time": 340,
+   "vertical_speed": 83.3333333333,
+   "altitude": 168
+ },
+ {
+   "time": 341,
+   "vertical_speed": 81.6666666667,
+   "altitude": 168
+ },
+ {
+   "time": 342,
+   "vertical_speed": 80,
+   "altitude": 168
+ },
+ {
+   "time": 343,
+   "vertical_speed": 78.3333333333,
+   "altitude": 168
+ },
+ {
+   "time": 344,
+   "vertical_speed": 76.6666666667,
+   "altitude": 168
+ },
+ {
+   "time": 345,
+   "vertical_speed": 75,
+   "altitude": 168
+ },
+ {
+   "time": 346,
+   "vertical_speed": 73.3333333333,
+   "altitude": 168
+ },
+ {
+   "time": 347,
+   "vertical_speed": 71.6666666667,
+   "altitude": 168
+ },
+ {
+   "time": 348,
+   "vertical_speed": 70.5555555556,
+   "altitude": 168
+ },
+ {
+   "time": 349,
+   "vertical_speed": 69.4444444444,
+   "altitude": 168
+ },
+ {
+   "time": 350,
+   "vertical_speed": 68.3333333333,
+   "altitude": 169
+ },
+ {
+   "time": 351,
+   "vertical_speed": 66.6666666667,
+   "altitude": 169
+ },
+ {
+   "time": 352,
+   "vertical_speed": 65,
+   "altitude": 169
+ },
+ {
+   "time": 353,
+   "vertical_speed": 63.3333333333,
+   "altitude": 169
+ },
+ {
+   "time": 354,
+   "vertical_speed": 61.6666666667,
+   "altitude": 169
+ },
+ {
+   "time": 355,
+   "vertical_speed": 60.5555555556,
+   "altitude": 169
+ },
+ {
+   "time": 356,
+   "vertical_speed": 59.4444444444,
+   "altitude": 169
+ },
+ {
+   "time": 357,
+   "vertical_speed": 58.3333333333,
+   "altitude": 169
+ },
+ {
+   "time": 358,
+   "vertical_speed": 56.6666666667,
+   "altitude": 169
+ },
+ {
+   "time": 359,
+   "vertical_speed": 55.5555555556,
+   "altitude": 169
+ },
+ {
+   "time": 360,
+   "vertical_speed": 54.4444444444,
+   "altitude": 169
+ },
+ {
+   "time": 361,
+   "vertical_speed": 53.3333333333,
+   "altitude": 169
+ },
+ {
+   "time": 362,
+   "vertical_speed": 51.6666666667,
+   "altitude": 169
+ },
+ {
+   "time": 363,
+   "vertical_speed": 50.5555555556,
+   "altitude": 169
+ },
+ {
+   "time": 364,
+   "vertical_speed": 50,
+   "altitude": 169
+ },
+ {
+   "time": 365,
+   "vertical_speed": 49.4444444444,
+   "altitude": 169
+ },
+ {
+   "time": 366,
+   "vertical_speed": 48.3333333333,
+   "altitude": 169
+ },
+ {
+   "time": 367,
+   "vertical_speed": 46.6666666667,
+   "altitude": 169
+ },
+ {
+   "time": 368,
+   "vertical_speed": 45.5555555556,
+   "altitude": 169
+ },
+ {
+   "time": 369,
+   "vertical_speed": 45,
+   "altitude": 169
+ },
+ {
+   "time": 370,
+   "vertical_speed": 45,
+   "altitude": 169
+ },
+ {
+   "time": 371,
+   "vertical_speed": 45,
+   "altitude": 169
+ },
+ {
+   "time": 372,
+   "vertical_speed": 45,
+   "altitude": 169
+ },
+ {
+   "time": 373,
+   "vertical_speed": 45,
+   "altitude": 169
+ },
+ {
+   "time": 374,
+   "vertical_speed": 44.4444444444,
+   "altitude": 169
+ },
+ {
+   "time": 375,
+   "vertical_speed": 43.3333333333,
+   "altitude": 169
+ },
+ {
+   "time": 376,
+   "vertical_speed": 41.6666666667,
+   "altitude": 169
+ },
+ {
+   "time": 377,
+   "vertical_speed": 40.5555555556,
+   "altitude": 169
+ },
+ {
+   "time": 378,
+   "vertical_speed": 40,
+   "altitude": 169
+ },
+ {
+   "time": 379,
+   "vertical_speed": 39.4444444444,
+   "altitude": 169
+ },
+ {
+   "time": 380,
+   "vertical_speed": 38.3333333333,
+   "altitude": 169
+ },
+ {
+   "time": 381,
+   "vertical_speed": 36.6666666667,
+   "altitude": 169
+ },
+ {
+   "time": 382,
+   "vertical_speed": 35.5555555556,
+   "altitude": 169
+ },
+ {
+   "time": 383,
+   "vertical_speed": 35,
+   "altitude": 169
+ },
+ {
+   "time": 384,
+   "vertical_speed": 35,
+   "altitude": 169
+ },
+ {
+   "time": 385,
+   "vertical_speed": 34.4444444444,
+   "altitude": 169
+ },
+ {
+   "time": 386,
+   "vertical_speed": 33.3333333333,
+   "altitude": 169
+ },
+ {
+   "time": 387,
+   "vertical_speed": 31.6666666667,
+   "altitude": 169
+ },
+ {
+   "time": 388,
+   "vertical_speed": 30.5555555556,
+   "altitude": 169
+ },
+ {
+   "time": 389,
+   "vertical_speed": 30,
+   "altitude": 168
+ },
+ {
+   "time": 390,
+   "vertical_speed": 30,
+   "altitude": 168
+ },
+ {
+   "time": 391,
+   "vertical_speed": 29.4444444444,
+   "altitude": 168
+ },
+ {
+   "time": 392,
+   "vertical_speed": 28.3333333333,
+   "altitude": 168
+ },
+ {
+   "time": 393,
+   "vertical_speed": 26.6666666667,
+   "altitude": 168
+ },
+ {
+   "time": 394,
+   "vertical_speed": 25.5555555556,
+   "altitude": 168
+ },
+ {
+   "time": 395,
+   "vertical_speed": 25,
+   "altitude": 168
+ },
+ {
+   "time": 396,
+   "vertical_speed": 25,
+   "altitude": 168
+ },
+ {
+   "time": 397,
+   "vertical_speed": 25,
+   "altitude": 168
+ },
+ {
+   "time": 398,
+   "vertical_speed": 24.4444444444,
+   "altitude": 168
+ },
+ {
+   "time": 399,
+   "vertical_speed": 23.3333333333,
+   "altitude": 168
+ },
+ {
+   "time": 400,
+   "vertical_speed": 21.6666666667,
+   "altitude": 168
+ },
+ {
+   "time": 401,
+   "vertical_speed": 20.5555555556,
+   "altitude": 168
+ },
+ {
+   "time": 402,
+   "vertical_speed": 20,
+   "altitude": 168
+ },
+ {
+   "time": 403,
+   "vertical_speed": 20,
+   "altitude": 168
+ },
+ {
+   "time": 404,
+   "vertical_speed": 20,
+   "altitude": 168
+ },
+ {
+   "time": 405,
+   "vertical_speed": 19.4444444444,
+   "altitude": 168
+ },
+ {
+   "time": 406,
+   "vertical_speed": 18.3333333333,
+   "altitude": 168
+ },
+ {
+   "time": 407,
+   "vertical_speed": 16.6666666667,
+   "altitude": 168
+ },
+ {
+   "time": 408,
+   "vertical_speed": 15.5555555556,
+   "altitude": 168
+ },
+ {
+   "time": 409,
+   "vertical_speed": 15.5555555556,
+   "altitude": 168
+ },
+ {
+   "time": 410,
+   "vertical_speed": 16.6666666667,
+   "altitude": 168
+ },
+ {
+   "time": 411,
+   "vertical_speed": 18.3333333333,
+   "altitude": 168
+ },
+ {
+   "time": 412,
+   "vertical_speed": 19.4444444444,
+   "altitude": 168
+ },
+ {
+   "time": 413,
+   "vertical_speed": 20,
+   "altitude": 168
+ },
+ {
+   "time": 414,
+   "vertical_speed": 20,
+   "altitude": 168
+ },
+ {
+   "time": 415,
+   "vertical_speed": 19.4444444444,
+   "altitude": 168
+ },
+ {
+   "time": 416,
+   "vertical_speed": 18.3333333333,
+   "altitude": 168
+ },
+ {
+   "time": 417,
+   "vertical_speed": 16.6666666667,
+   "altitude": 168
+ },
+ {
+   "time": 418,
+   "vertical_speed": 15.5555555556,
+   "altitude": 168
+ },
+ {
+   "time": 419,
+   "vertical_speed": 15,
+   "altitude": 168
+ },
+ {
+   "time": 420,
+   "vertical_speed": 15,
+   "altitude": 168
+ },
+ {
+   "time": 421,
+   "vertical_speed": 15,
+   "altitude": 168
+ },
+ {
+   "time": 422,
+   "vertical_speed": 15,
+   "altitude": 168
+ },
+ {
+   "time": 423,
+   "vertical_speed": 15,
+   "altitude": 168
+ },
+ {
+   "time": 424,
+   "vertical_speed": 15,
+   "altitude": 168
+ },
+ {
+   "time": 425,
+   "vertical_speed": 15,
+   "altitude": 168
+ },
+ {
+   "time": 426,
+   "vertical_speed": 15,
+   "altitude": 168
+ },
+ {
+   "time": 427,
+   "vertical_speed": 14.4444444444,
+   "altitude": 168
+ },
+ {
+   "time": 428,
+   "vertical_speed": 13.3333333333,
+   "altitude": 168
+ },
+ {
+   "time": 429,
+   "vertical_speed": 11.6666666667,
+   "altitude": 168
+ },
+ {
+   "time": 430,
+   "vertical_speed": 10.5555555556,
+   "altitude": 168
+ },
+ {
+   "time": 431,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 432,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 433,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 434,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 435,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 436,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 437,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 438,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 439,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 440,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 441,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 442,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 443,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 444,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 445,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 446,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 447,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 448,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 449,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 450,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 451,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 452,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 453,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 454,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 455,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 456,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 457,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 458,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 459,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 460,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 461,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 462,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 463,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 464,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 465,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 466,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 467,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 468,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 469,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 470,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 471,
+   "vertical_speed": 10,
+   "altitude": 168
+ },
+ {
+   "time": 472,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 473,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 474,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 475,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 476,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 477,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 478,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 479,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 480,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 481,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 482,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 483,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 484,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 485,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 486,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 487,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 488,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 489,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 490,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 491,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 492,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 493,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 494,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 495,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 496,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 497,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 498,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 499,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 500,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 501,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 502,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 503,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 504,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 505,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 506,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 507,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 508,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 509,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 510,
+   "vertical_speed": 10,
+   "altitude": 169
+ },
+ {
+   "time": 511,
+   "vertical_speed": 10,
+   "altitude": 170
+ },
+ {
+   "time": 512,
+   "vertical_speed": 10,
+   "altitude": 170
+ },
+ {
+   "time": 513,
+   "vertical_speed": 10,
+   "altitude": 170
+ },
+ {
+   "time": 514,
+   "vertical_speed": 10,
+   "altitude": 170
+ },
+ {
+   "time": 515,
+   "vertical_speed": 10,
+   "altitude": 170
+ },
+ {
+   "time": 516,
+   "vertical_speed": 10,
+   "altitude": 170
+ },
+ {
+   "time": 517,
+   "vertical_speed": 10,
+   "altitude": 170
+ },
+ {
+   "time": 518,
+   "vertical_speed": 10,
+   "altitude": 170
+ },
+ {
+   "time": 519,
+   "vertical_speed": 10,
+   "altitude": 170
+ },
+ {
+   "time": 520,
+   "vertical_speed": 10,
+   "altitude": 170
+ },
+ {
+   "time": 521,
+   "vertical_speed": 10,
+   "altitude": 170
+ },
+ {
+   "time": 522,
+   "vertical_speed": 10,
+   "altitude": 170
+ },
+ {
+   "time": 523,
+   "vertical_speed": 10,
+   "altitude": 170
+ },
+ {
+   "time": 524,
+   "vertical_speed": 10,
+   "altitude": 170
+ },
+ {
+   "time": 525,
+   "vertical_speed": 10,
+   "altitude": 170
+ },
+ {
+   "time": 526,
+   "vertical_speed": 10,
+   "altitude": 170
+ },
+ {
+   "time": 527,
+   "vertical_speed": 10,
+   "altitude": 170
+ },
+ {
+   "time": 528,
+   "vertical_speed": 10,
+   "altitude": 170
+ },
+ {
+   "time": 529,
+   "vertical_speed": 8.88888888889,
+   "altitude": 170
+ },
+ {
+   "time": 530,
+   "vertical_speed": 7.22222222222,
+   "altitude": 170
+ }
+]
