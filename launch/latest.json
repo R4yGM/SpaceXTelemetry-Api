@@ -1,4110 +1,2660 @@
 {
-   "mission_name":"Starlink 8",
+   "mission_name":"GPS III SV03",
    "telemetry":[
  {
-   "time": "00:00:01",
+   "time": "00:00:05",
    "altitude": 0,
-   "speed": 5
- },
- {
-   "time": "00:00:03",
-   "altitude": 0,
-   "speed": 17
+   "speed": 34
  },
  {
    "time": "00:00:06",
    "altitude": 0,
-   "speed": 52
+   "speed": 47
+ },
+ {
+   "time": "00:00:07",
+   "altitude": 0,
+   "speed": 61
  },
  {
    "time": "00:00:08",
    "altitude": 0,
-   "speed": 66
- },
- {
-   "time": "00:00:08",
-   "altitude": 0,
-   "speed": 80
+   "speed": 75
  },
  {
    "time": "00:00:10",
-   "altitude": 0.2,
-   "speed": 109
+   "altitude": 0.1,
+   "speed": 106
  },
  {
    "time": "00:00:12",
    "altitude": 0.2,
-   "speed": 123
+   "speed": 138
  },
  {
    "time": "00:00:13",
    "altitude": 0.2,
-   "speed": 138
+   "speed": 154
  },
  {
    "time": "00:00:14",
    "altitude": 0.3,
-   "speed": 153
- },
- {
-   "time": "00:00:15",
-   "altitude": 0.3,
-   "speed": 169
- },
- {
-   "time": "00:00:15",
-   "altitude": 0.4,
-   "speed": 183
- },
- {
-   "time": "00:00:17",
-   "altitude": 0.4,
-   "speed": 1399
- },
- {
-   "time": "00:00:18",
-   "altitude": 0.5,
-   "speed": 215
+   "speed": 171
  },
  {
    "time": "00:00:19",
-   "altitude": 0.5,
-   "speed": 232
+   "altitude": 0.6,
+   "speed": 256
  },
  {
    "time": "00:00:21",
    "altitude": 0.7,
-   "speed": 266
+   "speed": 294
  },
  {
    "time": "00:00:22",
-   "altitude": 0.7,
-   "speed": 284
+   "altitude": 0.8,
+   "speed": 313
  },
  {
    "time": "00:00:23",
-   "altitude": 0.8,
-   "speed": 301
+   "altitude": 0.9,
+   "speed": 332
  },
  {
-   "time": "00:00:25",
+   "time": "00:00:24",
    "altitude": 1,
-   "speed": 337
+   "speed": 352
  },
  {
-   "time": "00:00:26",
-   "altitude": 1.1,
-   "speed": 355
- },
- {
-   "time": "00:00:28",
+   "time": "00:00:27",
    "altitude": 1.3,
-   "speed": 393
+   "speed": 411
  },
  {
    "time": "00:00:28",
-   "altitude": 1.4,
-   "speed": 412
+   "altitude": 1.5,
+   "speed": 431
  },
  {
    "time": "00:00:29",
-   "altitude": 1.5,
-   "speed": 432
+   "altitude": 1.6,
+   "speed": 452
  },
  {
    "time": "00:00:30",
-   "altitude": 1.6,
-   "speed": 453
+   "altitude": 1.7,
+   "speed": 472
  },
  {
    "time": "00:00:31",
    "altitude": 1.8,
-   "speed": 474
+   "speed": 493
  },
  {
    "time": "00:00:32",
-   "altitude": 1.9,
-   "speed": 495
+   "altitude": 2,
+   "speed": 515
  },
  {
    "time": "00:00:33",
    "altitude": 2.1,
-   "speed": 516
- },
- {
-   "time": "00:00:34",
-   "altitude": 2.2,
    "speed": 537
  },
  {
-   "time": "00:00:35",
+   "time": "00:00:34",
    "altitude": 2.3,
-   "speed": 558
+   "speed": 560
  },
  {
    "time": "00:00:36",
-   "altitude": 2.5,
-   "speed": 586
+   "altitude": 2.6,
+   "speed": 607
  },
  {
    "time": "00:00:37",
-   "altitude": 2.7,
-   "speed": 603
+   "altitude": 2.8,
+   "speed": 631
  },
  {
    "time": "00:00:38",
-   "altitude": 2.8,
-   "speed": 626
+   "altitude": 2.9,
+   "speed": 655
  },
  {
    "time": "00:00:39",
-   "altitude": 3,
-   "speed": 650
+   "altitude": 3.1,
+   "speed": 680
  },
  {
    "time": "00:00:40",
-   "altitude": 3.2,
-   "speed": 674
+   "altitude": 3.3,
+   "speed": 704
  },
  {
    "time": "00:00:41",
-   "altitude": 3.4,
-   "speed": 698
+   "altitude": 3.5,
+   "speed": 728
+ },
+ {
+   "time": "00:00:42",
+   "altitude": 3.7,
+   "speed": 753
  },
  {
    "time": "00:00:43",
-   "altitude": 3.8,
-   "speed": 749
+   "altitude": 3.9,
+   "speed": 773
  },
  {
    "time": "00:00:44",
-   "altitude": 4.4,
-   "speed": 774
- },
- {
-   "time": "00:00:45",
-   "altitude": 4.2,
-   "speed": 800
- },
- {
-   "time": "00:00:46",
-   "altitude": 4.4,
-   "speed": 825
+   "altitude": 4.1,
+   "speed": 789
  },
  {
    "time": "00:00:47",
-   "altitude": 4.6,
-   "speed": 851
+   "altitude": 4.8,
+   "speed": 828
  },
  {
    "time": "00:00:48",
-   "altitude": 4.8,
-   "speed": 879
+   "altitude": 5,
+   "speed": 841
  },
  {
    "time": "00:00:50",
-   "altitude": 5.3,
-   "speed": 933
+   "altitude": 5.5,
+   "speed": 868
  },
  {
    "time": "00:00:51",
-   "altitude": 5.5,
-   "speed": 961
+   "altitude": 5.7,
+   "speed": 881
  },
  {
    "time": "00:00:52",
-   "altitude": 5.8,
-   "speed": 986
+   "altitude": 5.3,
+   "speed": 895
  },
  {
    "time": "00:00:53",
-   "altitude": 6.1,
-   "speed": 1009
+   "altitude": 6.2,
+   "speed": 910
  },
  {
    "time": "00:00:54",
-   "altitude": 6.3,
-   "speed": 1029
+   "altitude": 6.4,
+   "speed": 926
  },
  {
    "time": "00:00:55",
    "altitude": 6.6,
-   "speed": 1048
+   "speed": 946
  },
  {
    "time": "00:00:56",
    "altitude": 6.9,
-   "speed": 1066
+   "speed": 972
  },
  {
    "time": "00:00:57",
-   "altitude": 7.1,
-   "speed": 1082
+   "altitude": 7.2,
+   "speed": 1000
  },
  {
    "time": "00:00:58",
    "altitude": 7.4,
-   "speed": 1098
+   "speed": 1031
  },
  {
    "time": "00:00:59",
    "altitude": 7.7,
-   "speed": 1117
+   "speed": 1063
  },
  {
    "time": "00:01:00",
    "altitude": 8,
-   "speed": 1138
- },
- {
-   "time": "00:01:01",
-   "altitude": 8.2,
-   "speed": 1163
+   "speed": 1095
  },
  {
    "time": "00:01:02",
    "altitude": 8.5,
-   "speed": 1193
+   "speed": 1161
  },
  {
    "time": "00:01:03",
    "altitude": 8.8,
-   "speed": 1223
+   "speed": 1195
  },
  {
-   "time": "00:01:06",
-   "altitude": 9.5,
-   "speed": 1291
+   "time": "00:01:04",
+   "altitude": 3.1,
+   "speed": 1228
  },
  {
    "time": "00:01:06",
    "altitude": 9.8,
-   "speed": 1325
+   "speed": 1297
  },
  {
    "time": "00:01:07",
    "altitude": 10.1,
-   "speed": 1358
+   "speed": 1332
  },
  {
    "time": "00:01:08",
    "altitude": 10.4,
-   "speed": 1394
+   "speed": 1368
  },
  {
    "time": "00:01:09",
    "altitude": 10.7,
-   "speed": 1430
+   "speed": 1405
+ },
+ {
+   "time": "00:01:10",
+   "altitude": 11.1,
+   "speed": 1442
  },
  {
    "time": "00:01:11",
-   "altitude": 11.1,
-   "speed": 1467
+   "altitude": 11.5,
+   "speed": 1480
  },
  {
    "time": "00:01:12",
-   "altitude": 11.4,
-   "speed": 1504
- },
- {
-   "time": "00:01:13",
    "altitude": 11.8,
-   "speed": 1542
+   "speed": 1517
  },
  {
    "time": "00:01:14",
-   "altitude": 12.1,
-   "speed": 1581
+   "altitude": 12.5,
+   "speed": 1596
  },
  {
    "time": "00:01:15",
-   "altitude": 12.5,
-   "speed": 16820
+   "altitude": 12.9,
+   "speed": 1636
  },
  {
    "time": "00:01:16",
-   "altitude": 12.9,
-   "speed": 1658
+   "altitude": 13.3,
+   "speed": 1678
  },
  {
    "time": "00:01:17",
-   "altitude": 13.2,
-   "speed": 16893
+   "altitude": 13.7,
+   "speed": 1718
  },
  {
    "time": "00:01:18",
-   "altitude": 13.6,
-   "speed": 1738
+   "altitude": 14.1,
+   "speed": 1762
  },
  {
    "time": "00:01:19",
-   "altitude": 14,
-   "speed": 17739
+   "altitude": 14.5,
+   "speed": 1806
  },
  {
    "time": "00:01:20",
-   "altitude": 14.4,
-   "speed": 1821
+   "altitude": 14.9,
+   "speed": 1849
  },
  {
    "time": "00:01:21",
-   "altitude": 14.8,
-   "speed": 1865
+   "altitude": 15.3,
+   "speed": 1893
  },
  {
    "time": "00:01:22",
-   "altitude": 15.2,
-   "speed": 1909
+   "altitude": 15.7,
+   "speed": 1937
  },
  {
    "time": "00:01:23",
-   "altitude": 15.6,
-   "speed": 1954
+   "altitude": 16.1,
+   "speed": 1983
  },
  {
    "time": "00:01:24",
-   "altitude": 16,
-   "speed": 1999
+   "altitude": 16.6,
+   "speed": 2030
  },
  {
-   "time": "00:01:24",
-   "altitude": 16.5,
-   "speed": 2045
- },
- {
-   "time": "00:01:26",
-   "altitude": 17.3,
-   "speed": 2140
+   "time": "00:01:25",
+   "altitude": 17,
+   "speed": 2078
  },
  {
    "time": "00:01:27",
-   "altitude": 17.7,
-   "speed": 2189
+   "altitude": 17.9,
+   "speed": 2180
+ },
+ {
+   "time": "00:01:30",
+   "altitude": 19.3,
+   "speed": 2335
  },
  {
    "time": "00:01:31",
-   "altitude": 19.6,
-   "speed": 2396
+   "altitude": 19.8,
+   "speed": 2390
  },
  {
    "time": "00:01:32",
-   "altitude": 20,
-   "speed": 2450
+   "altitude": 20.3,
+   "speed": 2444
+ },
+ {
+   "time": "00:01:33",
+   "altitude": 20.8,
+   "speed": 2500
  },
  {
    "time": "00:01:34",
-   "altitude": 21,
-   "speed": 2560
+   "altitude": 21.3,
+   "speed": 2558
  },
  {
    "time": "00:01:35",
-   "altitude": 21.5,
+   "altitude": 21.8,
    "speed": 2618
  },
  {
    "time": "00:01:36",
-   "altitude": 22,
-   "speed": 2676
+   "altitude": 22.4,
+   "speed": 2677
  },
  {
    "time": "00:01:37",
-   "altitude": 22.5,
-   "speed": 2735
+   "altitude": 22.9,
+   "speed": 2738
+ },
+ {
+   "time": "00:01:38",
+   "altitude": 23.4,
+   "speed": 2799
  },
  {
    "time": "00:01:39",
-   "altitude": 23.5,
-   "speed": 2855
+   "altitude": 24,
+   "speed": 2861
  },
  {
    "time": "00:01:40",
-   "altitude": 24.1,
-   "speed": 29316
+   "altitude": 24.5,
+   "speed": 2923
  },
  {
    "time": "00:01:41",
-   "altitude": 24.6,
-   "speed": 2980
+   "altitude": 25.1,
+   "speed": 2987
  },
  {
    "time": "00:01:42",
-   "altitude": 25.2,
-   "speed": 3044
+   "altitude": 25.6,
+   "speed": 3052
  },
  {
    "time": "00:01:43",
-   "altitude": 25.7,
-   "speed": 3108
+   "altitude": 26.2,
+   "speed": 3118
  },
  {
    "time": "00:01:45",
-   "altitude": 26.8,
-   "speed": 3236
+   "altitude": 27.4,
+   "speed": 3247
  },
  {
    "time": "00:01:46",
-   "altitude": 27.3,
-   "speed": 3302
+   "altitude": 28,
+   "speed": 3316
  },
  {
    "time": "00:01:47",
-   "altitude": 27.3,
-   "speed": 3368
+   "altitude": 28.6,
+   "speed": 3386
  },
  {
    "time": "00:01:48",
-   "altitude": 28.5,
-   "speed": 3436
+   "altitude": 29.2,
+   "speed": 3454
  },
  {
    "time": "00:01:49",
-   "altitude": 29.1,
-   "speed": 3505
+   "altitude": 29.8,
+   "speed": 3528
  },
  {
    "time": "00:01:50",
-   "altitude": 29.7,
-   "speed": 3574
+   "altitude": 30.4,
+   "speed": 3603
  },
  {
    "time": "00:01:51",
-   "altitude": 30.3,
-   "speed": 3645
- },
- {
-   "time": "00:01:52",
-   "altitude": 30.8,
-   "speed": 3719
+   "altitude": 31,
+   "speed": 3676
  },
  {
    "time": "00:01:53",
-   "altitude": 31.5,
-   "speed": 3793
+   "altitude": 32.3,
+   "speed": 3828
+ },
+ {
+   "time": "00:01:54",
+   "altitude": 33,
+   "speed": 3910
  },
  {
    "time": "00:01:55",
-   "altitude": 32.8,
-   "speed": 3946
+   "altitude": 33.7,
+   "speed": 3994
  },
  {
    "time": "00:01:56",
-   "altitude": 33.5,
-   "speed": 4023
+   "altitude": 34.3,
+   "speed": 4070
  },
  {
    "time": "00:01:57",
-   "altitude": 34.1,
-   "speed": 4101
+   "altitude": 35,
+   "speed": 4150
  },
  {
    "time": "00:01:58",
-   "altitude": 34.8,
-   "speed": 4185
+   "altitude": 35.7,
+   "speed": 4232
+ },
+ {
+   "time": "00:01:59",
+   "altitude": 36.4,
+   "speed": 4316
+ },
+ {
+   "time": "00:02:00",
+   "altitude": 37.1,
+   "speed": 4405
+ },
+ {
+   "time": "00:02:01",
+   "altitude": 37.8,
+   "speed": 4493
  },
  {
    "time": "00:02:02",
-   "altitude": 36.9,
-   "speed": 4433
+   "altitude": 38.6,
+   "speed": 4584
  },
  {
    "time": "00:02:03",
-   "altitude": 37.6,
-   "speed": 4518
+   "altitude": 39.2,
+   "speed": 4667
  },
  {
    "time": "00:02:04",
-   "altitude": 38.3,
-   "speed": 4600
+   "altitude": 40,
+   "speed": 4756
  },
  {
    "time": "00:02:05",
-   "altitude": 39,
-   "speed": 4686
+   "altitude": 40.7,
+   "speed": 4847
  },
  {
    "time": "00:02:06",
-   "altitude": 39.8,
-   "speed": 4773
+   "altitude": 41.4,
+   "speed": 4939
+ },
+ {
+   "time": "00:02:07",
+   "altitude": 42.2,
+   "speed": 5034
  },
  {
    "time": "00:02:08",
-   "altitude": 41.3,
-   "speed": 4950
+   "altitude": 43,
+   "speed": 5132
  },
  {
    "time": "00:02:09",
-   "altitude": 42,
-   "speed": 5040
+   "altitude": 43.7,
+   "speed": 5230
  },
  {
    "time": "00:02:10",
-   "altitude": 42.8,
-   "speed": 5131
+   "altitude": 44.5,
+   "speed": 5329
+ },
+ {
+   "time": "00:02:11",
+   "altitude": 45.3,
+   "speed": 5428
  },
  {
    "time": "00:02:12",
-   "altitude": 44.4,
-   "speed": 5320
+   "altitude": 46.1,
+   "speed": 5530
  },
  {
    "time": "00:02:13",
-   "altitude": 45.2,
-   "speed": 5417
+   "altitude": 46.9,
+   "speed": 5633
  },
  {
    "time": "00:02:14",
-   "altitude": 46.1,
-   "speed": 5519
+   "altitude": 47.7,
+   "speed": 5737
  },
  {
    "time": "00:02:15",
-   "altitude": 46.39,
-   "speed": 5617
- },
- {
-   "time": "00:02:15",
-   "altitude": 47.8,
-   "speed": 5716
- },
- {
-   "time": "00:02:17",
-   "altitude": 48.6,
-   "speed": 5818
+   "altitude": 48.5,
+   "speed": 5844
  },
  {
    "time": "00:02:18",
-   "altitude": 49.5,
-   "speed": 5920
+   "altitude": 51,
+   "speed": 6180
  },
  {
    "time": "00:02:19",
-   "altitude": 50.4,
-   "speed": 6025
+   "altitude": 51.39,
+   "speed": 6293
  },
  {
    "time": "00:02:20",
-   "altitude": 51.3,
-   "speed": 6131
+   "altitude": 52.8,
+   "speed": 6409
+ },
+ {
+   "time": "00:02:21",
+   "altitude": 53.6,
+   "speed": 6527
  },
  {
    "time": "00:02:22",
-   "altitude": 53.1,
-   "speed": 6345
+   "altitude": 54.5,
+   "speed": 6645
  },
  {
    "time": "00:02:23",
-   "altitude": 54,
-   "speed": 6456
- },
- {
-   "time": "00:02:23",
-   "altitude": 54.3,
-   "speed": 6571
+   "altitude": 55.4,
+   "speed": 6755
  },
  {
    "time": "00:02:24",
-   "altitude": 55.8,
-   "speed": 6681
+   "altitude": 56.3,
+   "speed": 6860
  },
  {
    "time": "00:02:25",
-   "altitude": 56.8,
-   "speed": 6798
+   "altitude": 57.1,
+   "speed": 6960
  },
  {
    "time": "00:02:26",
-   "altitude": 57.8,
-   "speed": 63913
+   "altitude": 58,
+   "speed": 7059
  },
  {
    "time": "00:02:27",
-   "altitude": 58.8,
-   "speed": 7024
+   "altitude": 58.9,
+   "speed": 7156
  },
  {
    "time": "00:02:28",
    "altitude": 59.8,
-   "speed": 7131
+   "speed": 7257
  },
  {
-   "time": "00:02:30",
-   "altitude": 61.8,
-   "speed": 7347
+   "time": "00:02:29",
+   "altitude": 60.7,
+   "speed": 7359
  },
  {
    "time": "00:02:31",
-   "altitude": 62.8,
-   "speed": 7453
+   "altitude": 62.6,
+   "speed": 7568
  },
  {
    "time": "00:02:32",
-   "altitude": 63.3,
-   "speed": 7564
- },
- {
-   "time": "00:02:33",
-   "altitude": 64.39,
-   "speed": 7674
+   "altitude": 63.5,
+   "speed": 7673
  },
  {
    "time": "00:02:34",
-   "altitude": 65.3,
-   "speed": 7785
+   "altitude": 65.4,
+   "speed": 7892
  },
  {
    "time": "00:02:35",
-   "altitude": 67,
-   "speed": 7873
+   "altitude": 66.4,
+   "speed": 7977
  },
  {
    "time": "00:02:36",
-   "altitude": 68,
-   "speed": 7899
+   "altitude": 67.3,
+   "speed": 8001
  },
  {
    "time": "00:02:37",
-   "altitude": 69.1,
-   "speed": 7896
+   "altitude": 68.3,
+   "speed": 7999
  },
  {
    "time": "00:02:38",
-   "altitude": 70.1,
-   "speed": 7885
- },
- {
-   "time": "00:02:40",
-   "altitude": 72.2,
-   "speed": 7857
- },
- {
-   "time": "00:02:41",
-   "altitude": 73.2,
-   "speed": 7841
- },
- {
-   "time": "00:02:42",
-   "altitude": 74.2,
-   "speed": 7825
- },
- {
-   "time": "00:02:43",
-   "altitude": 75.2,
-   "speed": 7809
- },
- {
-   "time": "00:02:44",
-   "altitude": 76.2,
-   "speed": 7793
- },
- {
-   "time": "00:02:45",
-   "altitude": 77.2,
-   "speed": 7777
- },
- {
-   "time": "00:02:46",
-   "altitude": 78.2,
-   "speed": 7770
- },
- {
-   "time": "00:02:47",
-   "altitude": 79.2,
-   "speed": 7774
- },
- {
-   "time": "00:02:48",
-   "altitude": 80.1,
-   "speed": 7783
- },
- {
-   "time": "00:02:49",
-   "altitude": 81.1,
-   "speed": 7794
- },
- {
-   "time": "00:02:50",
-   "altitude": 82,
-   "speed": 7805
- },
- {
-   "time": "00:02:51",
-   "altitude": 83,
-   "speed": 7817
- },
- {
-   "time": "00:02:52",
-   "altitude": 83.9,
-   "speed": 7830
- },
- {
-   "time": "00:02:53",
-   "altitude": 84.9,
-   "speed": 7842
- },
- {
-   "time": "00:02:54",
-   "altitude": 85.8,
-   "speed": 7854
- },
- {
-   "time": "00:02:55",
-   "altitude": 86.8,
-   "speed": 7867
- },
- {
-   "time": "00:02:56",
-   "altitude": 87.7,
-   "speed": 7880
- },
- {
-   "time": "00:02:58",
-   "altitude": 89.4,
-   "speed": 7905
- },
- {
-   "time": "00:02:59",
-   "altitude": 90.3,
-   "speed": 7919
- },
- {
-   "time": "00:03:01",
-   "altitude": 92.1,
-   "speed": 7946
- },
- {
-   "time": "00:03:03",
-   "altitude": 93.6,
-   "speed": 7960
- },
- {
-   "time": "00:03:04",
-   "altitude": 93.9,
-   "speed": 7974
- },
- {
-   "time": "00:03:04",
-   "altitude": 94.8,
+   "altitude": 69.3,
    "speed": 7989
  },
  {
-   "time": "00:03:06",
-   "altitude": 95.7,
-   "speed": 8003
+   "time": "00:02:39",
+   "altitude": 70.2,
+   "speed": 7978
+ },
+ {
+   "time": "00:02:40",
+   "altitude": 71.1,
+   "speed": 7965
+ },
+ {
+   "time": "00:02:41",
+   "altitude": 72,
+   "speed": 7951
+ },
+ {
+   "time": "00:02:42",
+   "altitude": 72.3,
+   "speed": 7937
+ },
+ {
+   "time": "00:02:43",
+   "altitude": 73.8,
+   "speed": 7922
+ },
+ {
+   "time": "00:02:44",
+   "altitude": 74.7,
+   "speed": 7908
+ },
+ {
+   "time": "00:02:45",
+   "altitude": 75.6,
+   "speed": 7894
+ },
+ {
+   "time": "00:02:46",
+   "altitude": 76.5,
+   "speed": 7890
+ },
+ {
+   "time": "00:02:47",
+   "altitude": 77.4,
+   "speed": 7898
+ },
+ {
+   "time": "00:02:48",
+   "altitude": 78.2,
+   "speed": 7911
+ },
+ {
+   "time": "00:02:49",
+   "altitude": 79.1,
+   "speed": 7926
+ },
+ {
+   "time": "00:02:50",
+   "altitude": 79.9,
+   "speed": 7942
+ },
+ {
+   "time": "00:02:51",
+   "altitude": 80.8,
+   "speed": 7958
+ },
+ {
+   "time": "00:02:52",
+   "altitude": 81.6,
+   "speed": 7975
+ },
+ {
+   "time": "00:02:53",
+   "altitude": 82.4,
+   "speed": 7992
+ },
+ {
+   "time": "00:02:56",
+   "altitude": 84.9,
+   "speed": 8044
+ },
+ {
+   "time": "00:03:00",
+   "altitude": 88.2,
+   "speed": 8116
+ },
+ {
+   "time": "00:03:01",
+   "altitude": 89,
+   "speed": 8135
+ },
+ {
+   "time": "00:03:02",
+   "altitude": 89.8,
+   "speed": 8154
+ },
+ {
+   "time": "00:03:03",
+   "altitude": 90.6,
+   "speed": 8173
+ },
+ {
+   "time": "00:03:04",
+   "altitude": 91.3,
+   "speed": 8192
  },
  {
    "time": "00:03:07",
-   "altitude": 96.6,
-   "speed": 8018
+   "altitude": 93.7,
+   "speed": 8251
+ },
+ {
+   "time": "00:03:08",
+   "altitude": 94.4,
+   "speed": 8271
  },
  {
    "time": "00:03:09",
-   "altitude": 98.3,
-   "speed": 8047
+   "altitude": 95.2,
+   "speed": 8291
  },
  {
    "time": "00:03:10",
-   "altitude": 99.2,
-   "speed": 8063
+   "altitude": 95.9,
+   "speed": 8310
+ },
+ {
+   "time": "00:03:11",
+   "altitude": 96.6,
+   "speed": 8330
+ },
+ {
+   "time": "00:03:12",
+   "altitude": 97.4,
+   "speed": 8351
+ },
+ {
+   "time": "00:03:13",
+   "altitude": 98.1,
+   "speed": 8372
  },
  {
    "time": "00:03:14",
-   "altitude": 103,
-   "speed": 8123
+   "altitude": 98.9,
+   "speed": 8393
  },
  {
    "time": "00:03:15",
-   "altitude": 103,
-   "speed": 8140
+   "altitude": 100,
+   "speed": 8414
  },
  {
    "time": "00:03:16",
-   "altitude": 104,
-   "speed": 8156
+   "altitude": 100,
+   "speed": 8436
  },
  {
    "time": "00:03:17",
-   "altitude": 105,
-   "speed": 8174
+   "altitude": 101,
+   "speed": 8457
  },
  {
    "time": "00:03:18",
-   "altitude": 106,
-   "speed": 8190
+   "altitude": 102,
+   "speed": 8473
+ },
+ {
+   "time": "00:03:19",
+   "altitude": 102,
+   "speed": 8501
+ },
+ {
+   "time": "00:03:20",
+   "altitude": 103,
+   "speed": 8523
  },
  {
    "time": "00:03:21",
-   "altitude": 108,
-   "speed": 8241
+   "altitude": 104,
+   "speed": 8544
  },
  {
-   "time": "00:03:23",
-   "altitude": 110,
-   "speed": 8278
- },
- {
-   "time": "00:03:24",
-   "altitude": 111,
-   "speed": 8296
+   "time": "00:03:25",
+   "altitude": 107,
+   "speed": 8634
  },
  {
    "time": "00:03:26",
-   "altitude": 113,
-   "speed": 8349
+   "altitude": 107,
+   "speed": 8657
  },
  {
    "time": "00:03:27",
-   "altitude": 114,
-   "speed": 8367
+   "altitude": 108,
+   "speed": 8679
  },
  {
    "time": "00:03:28",
-   "altitude": 115,
-   "speed": 8386
- },
- {
-   "time": "00:03:29",
-   "altitude": 115,
-   "speed": 8405
- },
- {
-   "time": "00:03:30",
-   "altitude": 116,
-   "speed": 8424
- },
- {
-   "time": "00:03:31",
-   "altitude": 117,
-   "speed": 8443
- },
- {
-   "time": "00:03:32",
-   "altitude": 118,
-   "speed": 8463
- },
- {
-   "time": "00:03:33",
-   "altitude": 118,
-   "speed": 8482
- },
- {
-   "time": "00:03:34",
-   "altitude": 119,
-   "speed": 85601
- },
- {
-   "time": "00:03:36",
-   "altitude": 121,
-   "speed": 8541
- },
- {
-   "time": "00:03:41",
-   "altitude": 124,
-   "speed": 8641
- },
- {
-   "time": "00:03:42",
-   "altitude": 125,
-   "speed": 8662
- },
- {
-   "time": "00:03:43",
-   "altitude": 126,
-   "speed": 8682
- },
- {
-   "time": "00:03:44",
-   "altitude": 126,
+   "altitude": 109,
    "speed": 8703
  },
  {
-   "time": "00:03:45",
-   "altitude": 127,
-   "speed": 8724
+   "time": "00:03:29",
+   "altitude": 109,
+   "speed": 8726
  },
  {
-   "time": "00:03:46",
-   "altitude": 128,
-   "speed": 8745
+   "time": "00:03:30",
+   "altitude": 110,
+   "speed": 8751
  },
  {
-   "time": "00:03:47",
-   "altitude": 129,
-   "speed": 8766
- },
- {
-   "time": "00:03:48",
-   "altitude": 129,
-   "speed": 8787
- },
- {
-   "time": "00:03:50",
-   "altitude": 131,
-   "speed": 8831
- },
- {
-   "time": "00:03:51",
-   "altitude": 131,
+   "time": "00:03:34",
+   "altitude": 113,
    "speed": 8853
  },
  {
-   "time": "00:03:52",
-   "altitude": 132,
-   "speed": 8875
+   "time": "00:03:35",
+   "altitude": 113,
+   "speed": 8879
  },
  {
-   "time": "00:03:58",
-   "altitude": 136,
-   "speed": 9010
+   "time": "00:03:40",
+   "altitude": 116,
+   "speed": 9013
  },
  {
-   "time": "00:03:59",
-   "altitude": 137,
-   "speed": 9033
+   "time": "00:03:42",
+   "altitude": 117,
+   "speed": 9067
  },
  {
-   "time": "00:04:00",
-   "altitude": 137,
-   "speed": 9056
+   "time": "00:03:45",
+   "altitude": 119,
+   "speed": 9149
  },
  {
-   "time": "00:04:01",
-   "altitude": 138,
-   "speed": 9079
+   "time": "00:03:46",
+   "altitude": 120,
+   "speed": 9177
  },
  {
-   "time": "00:04:02",
-   "altitude": 139,
-   "speed": 9103
+   "time": "00:03:48",
+   "altitude": 121,
+   "speed": 9233
  },
  {
-   "time": "00:04:04",
-   "altitude": 139,
-   "speed": 9126
- },
- {
-   "time": "00:04:05",
-   "altitude": 140,
-   "speed": 9150
- },
- {
-   "time": "00:04:06",
-   "altitude": 140,
-   "speed": 9174
- },
- {
-   "time": "00:04:07",
-   "altitude": 141,
-   "speed": 9198
- },
- {
-   "time": "00:04:09",
-   "altitude": 142,
-   "speed": 9246
- },
- {
-   "time": "00:04:10",
-   "altitude": 143,
-   "speed": 9270
- },
- {
-   "time": "00:04:12",
-   "altitude": 144,
+   "time": "00:03:51",
+   "altitude": 123,
    "speed": 9319
  },
  {
-   "time": "00:04:13",
-   "altitude": 145,
-   "speed": 9344
+   "time": "00:03:52",
+   "altitude": 123,
+   "speed": 9348
  },
  {
-   "time": "00:04:14",
-   "altitude": 145,
-   "speed": 9369
+   "time": "00:03:53",
+   "altitude": 124,
+   "speed": 9377
  },
  {
-   "time": "00:04:15",
-   "altitude": 146,
-   "speed": 9394
+   "time": "00:03:54",
+   "altitude": 124,
+   "speed": 9407
  },
  {
-   "time": "00:04:16",
-   "altitude": 147,
-   "speed": 9420
+   "time": "00:03:55",
+   "altitude": 125,
+   "speed": 9436
  },
  {
-   "time": "00:04:17",
-   "altitude": 147,
-   "speed": 9444
- },
- {
-   "time": "00:04:18",
-   "altitude": 148,
-   "speed": 9470
- },
- {
-   "time": "00:04:19",
-   "altitude": 148,
+   "time": "00:03:57",
+   "altitude": 126,
    "speed": 9496
  },
  {
-   "time": "00:04:20",
-   "altitude": 149,
-   "speed": 9547
+   "time": "00:03:58",
+   "altitude": 127,
+   "speed": 9527
  },
  {
-   "time": "00:04:21",
-   "altitude": 150,
-   "speed": 9573
+   "time": "00:03:59",
+   "altitude": 127,
+   "speed": 9557
  },
  {
-   "time": "00:04:23",
-   "altitude": 151,
-   "speed": 9627
+   "time": "00:04:01",
+   "altitude": 128,
+   "speed": 9618
  },
  {
-   "time": "00:04:24",
-   "altitude": 152,
-   "speed": 9654
+   "time": "00:04:02",
+   "altitude": 129,
+   "speed": 9648
  },
  {
-   "time": "00:04:25",
-   "altitude": 152,
-   "speed": 9680
+   "time": "00:04:03",
+   "altitude": 129,
+   "speed": 9679
  },
  {
-   "time": "00:04:26",
-   "altitude": 153,
-   "speed": 9707
+   "time": "00:04:04",
+   "altitude": 130,
+   "speed": 9710
  },
  {
-   "time": "00:04:27",
-   "altitude": 153,
-   "speed": 9735
+   "time": "00:04:05",
+   "altitude": 130,
+   "speed": 9742
  },
  {
-   "time": "00:04:29",
-   "altitude": 155,
-   "speed": 9789
+   "time": "00:04:06",
+   "altitude": 131,
+   "speed": 9773
  },
  {
-   "time": "00:04:30",
-   "altitude": 155,
-   "speed": 9816
+   "time": "00:04:08",
+   "altitude": 132,
+   "speed": 9838
  },
  {
-   "time": "00:04:31",
-   "altitude": 156,
-   "speed": 9844
+   "time": "00:04:09",
+   "altitude": 132,
+   "speed": 9870
  },
  {
-   "time": "00:04:32",
-   "altitude": 156,
-   "speed": 9872
+   "time": "00:04:10",
+   "altitude": 133,
+   "speed": 9901
  },
  {
-   "time": "00:04:34",
-   "altitude": 157,
-   "speed": 9927
+   "time": "00:04:11",
+   "altitude": 133,
+   "speed": 9933
  },
  {
-   "time": "00:04:35",
-   "altitude": 158,
-   "speed": 9955
+   "time": "00:04:12",
+   "altitude": 134,
+   "speed": 9965
  },
  {
-   "time": "00:04:36",
-   "altitude": 158,
-   "speed": 9983
+   "time": "00:04:14",
+   "altitude": 135,
+   "speed": 10031
  },
  {
-   "time": "00:04:37",
-   "altitude": 159,
-   "speed": 10013
+   "time": "00:04:15",
+   "altitude": 135,
+   "speed": 10065
  },
  {
-   "time": "00:04:38",
-   "altitude": 159,
-   "speed": 10042
- },
- {
-   "time": "00:04:39",
-   "altitude": 160,
-   "speed": 10069
- },
- {
-   "time": "00:04:40",
-   "altitude": 160,
+   "time": "00:04:16",
+   "altitude": 135,
    "speed": 10097
  },
  {
+   "time": "00:04:17",
+   "altitude": 136,
+   "speed": 10130
+ },
+ {
+   "time": "00:04:18",
+   "altitude": 136,
+   "speed": 10165
+ },
+ {
+   "time": "00:04:19",
+   "altitude": 137,
+   "speed": 10199
+ },
+ {
+   "time": "00:04:20",
+   "altitude": 137,
+   "speed": 10233
+ },
+ {
+   "time": "00:04:21",
+   "altitude": 138,
+   "speed": 10267
+ },
+ {
+   "time": "00:04:22",
+   "altitude": 138,
+   "speed": 10302
+ },
+ {
+   "time": "00:04:23",
+   "altitude": 139,
+   "speed": 10337
+ },
+ {
+   "time": "00:04:24",
+   "altitude": 139,
+   "speed": 10370
+ },
+ {
+   "time": "00:04:25",
+   "altitude": 139,
+   "speed": 10405
+ },
+ {
+   "time": "00:04:26",
+   "altitude": 140,
+   "speed": 10442
+ },
+ {
+   "time": "00:04:27",
+   "altitude": 140,
+   "speed": 10478
+ },
+ {
+   "time": "00:04:28",
+   "altitude": 141,
+   "speed": 10512
+ },
+ {
+   "time": "00:04:29",
+   "altitude": 141,
+   "speed": 10547
+ },
+ {
+   "time": "00:04:30",
+   "altitude": 142,
+   "speed": 10583
+ },
+ {
+   "time": "00:04:31",
+   "altitude": 142,
+   "speed": 10621
+ },
+ {
+   "time": "00:04:32",
+   "altitude": 142,
+   "speed": 10655
+ },
+ {
+   "time": "00:04:33",
+   "altitude": 143,
+   "speed": 10691
+ },
+ {
+   "time": "00:04:34",
+   "altitude": 143,
+   "speed": 10728
+ },
+ {
+   "time": "00:04:35",
+   "altitude": 143,
+   "speed": 10765
+ },
+ {
+   "time": "00:04:36",
+   "altitude": 144,
+   "speed": 10803
+ },
+ {
+   "time": "00:04:37",
+   "altitude": 144,
+   "speed": 10840
+ },
+ {
+   "time": "00:04:38",
+   "altitude": 145,
+   "speed": 10879
+ },
+ {
+   "time": "00:04:39",
+   "altitude": 145,
+   "speed": 10915
+ },
+ {
+   "time": "00:04:40",
+   "altitude": 145,
+   "speed": 10952
+ },
+ {
    "time": "00:04:41",
-   "altitude": 161,
-   "speed": 10126
+   "altitude": 146,
+   "speed": 10990
  },
  {
    "time": "00:04:42",
-   "altitude": 161,
-   "speed": 10155
+   "altitude": 146,
+   "speed": 11028
  },
  {
    "time": "00:04:43",
-   "altitude": 162,
-   "speed": 10185
+   "altitude": 146,
+   "speed": 11067
  },
  {
    "time": "00:04:44",
-   "altitude": 162,
-   "speed": 10215
+   "altitude": 147,
+   "speed": 11106
  },
  {
    "time": "00:04:45",
-   "altitude": 163,
-   "speed": 10246
+   "altitude": 147,
+   "speed": 11145
  },
  {
    "time": "00:04:46",
-   "altitude": 163,
-   "speed": 10276
+   "altitude": 148,
+   "speed": 11183
  },
  {
    "time": "00:04:47",
-   "altitude": 164,
-   "speed": 10306
- },
- {
-   "time": "00:04:48",
-   "altitude": 164,
-   "speed": 10335
- },
- {
-   "time": "00:04:49",
-   "altitude": 165,
-   "speed": 10367
- },
- {
-   "time": "00:04:50",
-   "altitude": 165,
-   "speed": 10398
- },
- {
-   "time": "00:04:51",
-   "altitude": 166,
-   "speed": 10429
- },
- {
-   "time": "00:04:52",
-   "altitude": 166,
-   "speed": 10459
- },
- {
-   "time": "00:04:53",
-   "altitude": 167,
-   "speed": 10491
- },
- {
-   "time": "00:04:54",
-   "altitude": 167,
-   "speed": 10523
- },
- {
-   "time": "00:04:55",
-   "altitude": 168,
-   "speed": 10554
- },
- {
-   "time": "00:04:56",
-   "altitude": 168,
-   "speed": 10585
- },
- {
-   "time": "00:04:57",
-   "altitude": 169,
-   "speed": 10617
- },
- {
-   "time": "00:04:58",
-   "altitude": 169,
-   "speed": 10649
- },
- {
-   "time": "00:04:59",
-   "altitude": 170,
-   "speed": 10682
- },
- {
-   "time": "00:05:00",
-   "altitude": 170,
-   "speed": 10714
- },
- {
-   "time": "00:05:01",
-   "altitude": 171,
-   "speed": 10746
- },
- {
-   "time": "00:05:03",
-   "altitude": 171,
-   "speed": 10779
- },
- {
-   "time": "00:05:04",
-   "altitude": 171,
-   "speed": 10812
- },
- {
-   "time": "00:05:05",
-   "altitude": 172,
-   "speed": 10847
- },
- {
-   "time": "00:05:06",
-   "altitude": 172,
-   "speed": 10881
- },
- {
-   "time": "00:05:07",
-   "altitude": 173,
-   "speed": 10914
- },
- {
-   "time": "00:05:08",
-   "altitude": 173,
-   "speed": 10948
- },
- {
-   "time": "00:05:09",
-   "altitude": 174,
-   "speed": 10981
- },
- {
-   "time": "00:05:10",
-   "altitude": 174,
-   "speed": 11614
- },
- {
-   "time": "00:05:11",
-   "altitude": 175,
-   "speed": 11648
- },
- {
-   "time": "00:05:12",
-   "altitude": 175,
-   "speed": 11082
- },
- {
-   "time": "00:05:13",
-   "altitude": 175,
-   "speed": 11116
- },
- {
-   "time": "00:05:14",
-   "altitude": 176,
-   "speed": 11152
- },
- {
-   "time": "00:05:15",
-   "altitude": 176,
-   "speed": 11188
- },
- {
-   "time": "00:05:15",
-   "altitude": 177,
+   "altitude": 148,
    "speed": 11222
  },
  {
-   "time": "00:05:16",
-   "altitude": 177,
-   "speed": 11257
+   "time": "00:04:48",
+   "altitude": 148,
+   "speed": 11262
  },
  {
-   "time": "00:05:17",
-   "altitude": 178,
-   "speed": 11292
+   "time": "00:04:49",
+   "altitude": 149,
+   "speed": 11300
  },
  {
-   "time": "00:05:18",
-   "altitude": 178,
-   "speed": 11326
+   "time": "00:04:50",
+   "altitude": 149,
+   "speed": 11340
  },
  {
-   "time": "00:05:19",
-   "altitude": 178,
-   "speed": 11362
+   "time": "00:04:51",
+   "altitude": 149,
+   "speed": 11379
  },
  {
-   "time": "00:05:20",
-   "altitude": 179,
-   "speed": 11399
+   "time": "00:04:53",
+   "altitude": 150,
+   "speed": 11460
  },
  {
-   "time": "00:05:21",
-   "altitude": 179,
-   "speed": 11434
+   "time": "00:04:54",
+   "altitude": 150,
+   "speed": 11501
  },
  {
-   "time": "00:05:22",
-   "altitude": 180,
-   "speed": 11471
+   "time": "00:04:55",
+   "altitude": 151,
+   "speed": 11542
  },
  {
-   "time": "00:05:23",
-   "altitude": 180,
-   "speed": 11508
+   "time": "00:04:56",
+   "altitude": 151,
+   "speed": 11582
  },
  {
-   "time": "00:05:24",
-   "altitude": 180,
-   "speed": 11545
+   "time": "00:04:57",
+   "altitude": 151,
+   "speed": 11623
  },
  {
-   "time": "00:05:25",
-   "altitude": 181,
-   "speed": 11583
+   "time": "00:04:58",
+   "altitude": 151,
+   "speed": 11664
  },
  {
-   "time": "00:05:26",
-   "altitude": 181,
-   "speed": 11621
+   "time": "00:04:59",
+   "altitude": 152,
+   "speed": 11706
  },
  {
-   "time": "00:05:27",
-   "altitude": 182,
-   "speed": 11658
+   "time": "00:05:00",
+   "altitude": 152,
+   "speed": 11747
  },
  {
-   "time": "00:05:28",
-   "altitude": 182,
-   "speed": 11696
+   "time": "00:05:01",
+   "altitude": 152,
+   "speed": 11790
  },
  {
-   "time": "00:05:29",
-   "altitude": 182,
-   "speed": 11733
+   "time": "00:05:02",
+   "altitude": 153,
+   "speed": 11833
  },
  {
-   "time": "00:05:30",
-   "altitude": 183,
-   "speed": 11772
+   "time": "00:05:03",
+   "altitude": 153,
+   "speed": 11874
  },
  {
-   "time": "00:05:31",
-   "altitude": 183,
-   "speed": 11810
+   "time": "00:05:04",
+   "altitude": 153,
+   "speed": 11917
  },
  {
-   "time": "00:05:32",
-   "altitude": 183,
-   "speed": 11849
+   "time": "00:05:05",
+   "altitude": 154,
+   "speed": 11961
  },
  {
-   "time": "00:05:33",
-   "altitude": 184,
-   "speed": 11888
- },
- {
-   "time": "00:05:34",
-   "altitude": 184,
-   "speed": 11927
- },
- {
-   "time": "00:05:35",
-   "altitude": 185,
-   "speed": 11966
- },
- {
-   "time": "00:05:36",
-   "altitude": 185,
+   "time": "00:05:06",
+   "altitude": 154,
    "speed": 12004
  },
  {
+   "time": "00:05:07",
+   "altitude": 154,
+   "speed": 12047
+ },
+ {
+   "time": "00:05:08",
+   "altitude": 154,
+   "speed": 12091
+ },
+ {
+   "time": "00:05:09",
+   "altitude": 155,
+   "speed": 12135
+ },
+ {
+   "time": "00:05:10",
+   "altitude": 155,
+   "speed": 12179
+ },
+ {
+   "time": "00:05:11",
+   "altitude": 155,
+   "speed": 12225
+ },
+ {
+   "time": "00:05:12",
+   "altitude": 156,
+   "speed": 12270
+ },
+ {
+   "time": "00:05:13",
+   "altitude": 156,
+   "speed": 12315
+ },
+ {
+   "time": "00:05:14",
+   "altitude": 156,
+   "speed": 12360
+ },
+ {
+   "time": "00:05:15",
+   "altitude": 156,
+   "speed": 12405
+ },
+ {
+   "time": "00:05:16",
+   "altitude": 157,
+   "speed": 12451
+ },
+ {
+   "time": "00:05:17",
+   "altitude": 157,
+   "speed": 12497
+ },
+ {
+   "time": "00:05:18",
+   "altitude": 157,
+   "speed": 12543
+ },
+ {
+   "time": "00:05:19",
+   "altitude": 157,
+   "speed": 12589
+ },
+ {
+   "time": "00:05:20",
+   "altitude": 158,
+   "speed": 12635
+ },
+ {
+   "time": "00:05:21",
+   "altitude": 158,
+   "speed": 12682
+ },
+ {
+   "time": "00:05:22",
+   "altitude": 158,
+   "speed": 12727
+ },
+ {
+   "time": "00:05:23",
+   "altitude": 158,
+   "speed": 12775
+ },
+ {
+   "time": "00:05:24",
+   "altitude": 158,
+   "speed": 12822
+ },
+ {
+   "time": "00:05:25",
+   "altitude": 159,
+   "speed": 12870
+ },
+ {
+   "time": "00:05:26",
+   "altitude": 159,
+   "speed": 12918
+ },
+ {
+   "time": "00:05:27",
+   "altitude": 159,
+   "speed": 12965
+ },
+ {
+   "time": "00:05:28",
+   "altitude": 159,
+   "speed": 13013
+ },
+ {
+   "time": "00:05:29",
+   "altitude": 160,
+   "speed": 13062
+ },
+ {
+   "time": "00:05:30",
+   "altitude": 160,
+   "speed": 13112
+ },
+ {
+   "time": "00:05:31",
+   "altitude": 160,
+   "speed": 13162
+ },
+ {
+   "time": "00:05:32",
+   "altitude": 160,
+   "speed": 13211
+ },
+ {
+   "time": "00:05:33",
+   "altitude": 160,
+   "speed": 13261
+ },
+ {
+   "time": "00:05:34",
+   "altitude": 161,
+   "speed": 13311
+ },
+ {
+   "time": "00:05:35",
+   "altitude": 161,
+   "speed": 13363
+ },
+ {
+   "time": "00:05:36",
+   "altitude": 161,
+   "speed": 13414
+ },
+ {
    "time": "00:05:37",
-   "altitude": 185,
-   "speed": 12043
+   "altitude": 161,
+   "speed": 13464
  },
  {
    "time": "00:05:38",
-   "altitude": 186,
-   "speed": 12084
+   "altitude": 161,
+   "speed": 13515
  },
  {
    "time": "00:05:39",
-   "altitude": 186,
-   "speed": 12124
+   "altitude": 162,
+   "speed": 13568
  },
  {
    "time": "00:05:40",
-   "altitude": 186,
-   "speed": 12165
- },
- {
-   "time": "00:05:41",
-   "altitude": 187,
-   "speed": 12206
- },
- {
-   "time": "00:05:42",
-   "altitude": 187,
-   "speed": 12246
- },
- {
-   "time": "00:05:43",
-   "altitude": 187,
-   "speed": 12286
- },
- {
-   "time": "00:05:44",
-   "altitude": 188,
-   "speed": 12327
- },
- {
-   "time": "00:05:45",
-   "altitude": 188,
-   "speed": 12370
- },
- {
-   "time": "00:05:46",
-   "altitude": 188,
-   "speed": 12411
- },
- {
-   "time": "00:05:47",
-   "altitude": 189,
-   "speed": 12453
- },
- {
-   "time": "00:05:48",
-   "altitude": 189,
-   "speed": 12495
- },
- {
-   "time": "00:05:49",
-   "altitude": 189,
-   "speed": 12537
- },
- {
-   "time": "00:05:50",
-   "altitude": 190,
-   "speed": 12579
- },
- {
-   "time": "00:05:51",
-   "altitude": 190,
-   "speed": 12621
- },
- {
-   "time": "00:05:52",
-   "altitude": 190,
-   "speed": 12663
- },
- {
-   "time": "00:05:53",
-   "altitude": 191,
-   "speed": 12707
- },
- {
-   "time": "00:05:55",
-   "altitude": 191,
-   "speed": 12751
- },
- {
-   "time": "00:05:55",
-   "altitude": 191,
-   "speed": 12794
- },
- {
-   "time": "00:05:56",
-   "altitude": 192,
-   "speed": 12838
- },
- {
-   "time": "00:05:57",
-   "altitude": 192,
-   "speed": 12883
- },
- {
-   "time": "00:05:59",
-   "altitude": 192,
-   "speed": 12926
- },
- {
-   "time": "00:05:59",
-   "altitude": 193,
-   "speed": 12971
- },
- {
-   "time": "00:06:01",
-   "altitude": 193,
-   "speed": 13016
- },
- {
-   "time": "00:06:02",
-   "altitude": 193,
-   "speed": 13061
- },
- {
-   "time": "00:06:03",
-   "altitude": 194,
-   "speed": 13107
- },
- {
-   "time": "00:06:04",
-   "altitude": 194,
-   "speed": 13153
- },
- {
-   "time": "00:06:05",
-   "altitude": 194,
-   "speed": 13199
- },
- {
-   "time": "00:06:06",
-   "altitude": 194,
-   "speed": 13245
- },
- {
-   "time": "00:06:07",
-   "altitude": 195,
-   "speed": 13291
- },
- {
-   "time": "00:06:08",
-   "altitude": 195,
-   "speed": 13337
- },
- {
-   "time": "00:06:09",
-   "altitude": 195,
-   "speed": 13385
- },
- {
-   "time": "00:06:10",
-   "altitude": 196,
-   "speed": 13431
- },
- {
-   "time": "00:06:11",
-   "altitude": 196,
-   "speed": 13477
- },
- {
-   "time": "00:06:12",
-   "altitude": 196,
-   "speed": 13524
- },
- {
-   "time": "00:06:13",
-   "altitude": 196,
-   "speed": 13572
- },
- {
-   "time": "00:06:14",
-   "altitude": 197,
+   "altitude": 162,
    "speed": 13620
  },
  {
+   "time": "00:05:41",
+   "altitude": 162,
+   "speed": 13673
+ },
+ {
+   "time": "00:05:42",
+   "altitude": 162,
+   "speed": 13725
+ },
+ {
+   "time": "00:05:43",
+   "altitude": 162,
+   "speed": 13778
+ },
+ {
+   "time": "00:05:44",
+   "altitude": 162,
+   "speed": 13830
+ },
+ {
+   "time": "00:05:45",
+   "altitude": 163,
+   "speed": 13883
+ },
+ {
+   "time": "00:05:46",
+   "altitude": 163,
+   "speed": 13937
+ },
+ {
+   "time": "00:05:47",
+   "altitude": 163,
+   "speed": 13990
+ },
+ {
+   "time": "00:05:48",
+   "altitude": 163,
+   "speed": 14604
+ },
+ {
+   "time": "00:05:49",
+   "altitude": 163,
+   "speed": 14099
+ },
+ {
+   "time": "00:05:50",
+   "altitude": 163,
+   "speed": 14153
+ },
+ {
+   "time": "00:05:51",
+   "altitude": 164,
+   "speed": 14208
+ },
+ {
+   "time": "00:05:52",
+   "altitude": 164,
+   "speed": 14264
+ },
+ {
+   "time": "00:05:53",
+   "altitude": 164,
+   "speed": 14317
+ },
+ {
+   "time": "00:05:54",
+   "altitude": 164,
+   "speed": 14372
+ },
+ {
+   "time": "00:05:55",
+   "altitude": 164,
+   "speed": 14426
+ },
+ {
+   "time": "00:05:56",
+   "altitude": 164,
+   "speed": 14482
+ },
+ {
+   "time": "00:05:57",
+   "altitude": 164,
+   "speed": 14540
+ },
+ {
+   "time": "00:05:58",
+   "altitude": 165,
+   "speed": 14598
+ },
+ {
+   "time": "00:05:59",
+   "altitude": 165,
+   "speed": 14655
+ },
+ {
+   "time": "00:06:00",
+   "altitude": 165,
+   "speed": 14713
+ },
+ {
+   "time": "00:06:01",
+   "altitude": 165,
+   "speed": 14770
+ },
+ {
+   "time": "00:06:02",
+   "altitude": 165,
+   "speed": 14828
+ },
+ {
+   "time": "00:06:03",
+   "altitude": 165,
+   "speed": 14887
+ },
+ {
+   "time": "00:06:04",
+   "altitude": 165,
+   "speed": 14948
+ },
+ {
+   "time": "00:06:05",
+   "altitude": 166,
+   "speed": 15005
+ },
+ {
+   "time": "00:06:06",
+   "altitude": 166,
+   "speed": 15064
+ },
+ {
+   "time": "00:06:07",
+   "altitude": 166,
+   "speed": 15124
+ },
+ {
+   "time": "00:06:08",
+   "altitude": 166,
+   "speed": 15186
+ },
+ {
+   "time": "00:06:09",
+   "altitude": 166,
+   "speed": 15250
+ },
+ {
+   "time": "00:06:10",
+   "altitude": 166,
+   "speed": 15312
+ },
+ {
+   "time": "00:06:11",
+   "altitude": 166,
+   "speed": 15374
+ },
+ {
+   "time": "00:06:12",
+   "altitude": 166,
+   "speed": 15435
+ },
+ {
+   "time": "00:06:13",
+   "altitude": 166,
+   "speed": 15497
+ },
+ {
+   "time": "00:06:14",
+   "altitude": 166,
+   "speed": 15560
+ },
+ {
    "time": "00:06:15",
-   "altitude": 197,
-   "speed": 13669
+   "altitude": 167,
+   "speed": 15625
  },
  {
    "time": "00:06:16",
-   "altitude": 197,
-   "speed": 13716
+   "altitude": 167,
+   "speed": 15688
  },
  {
    "time": "00:06:17",
-   "altitude": 198,
-   "speed": 13766
+   "altitude": 167,
+   "speed": 15755
  },
  {
    "time": "00:06:18",
-   "altitude": 198,
-   "speed": 13815
+   "altitude": 167,
+   "speed": 15821
  },
  {
    "time": "00:06:19",
-   "altitude": 198,
-   "speed": 13865
- },
- {
-   "time": "00:06:19",
-   "altitude": 198,
-   "speed": 13913
+   "altitude": 167,
+   "speed": 15887
  },
  {
    "time": "00:06:20",
-   "altitude": 199,
-   "speed": 13962
+   "altitude": 167,
+   "speed": 15951
  },
  {
    "time": "00:06:21",
-   "altitude": 199,
-   "speed": 14012
+   "altitude": 167,
+   "speed": 16015
  },
  {
    "time": "00:06:22",
-   "altitude": 199,
-   "speed": 14062
+   "altitude": 167,
+   "speed": 16083
  },
  {
    "time": "00:06:23",
-   "altitude": 199,
-   "speed": 14112
+   "altitude": 167,
+   "speed": 16150
  },
  {
    "time": "00:06:24",
-   "altitude": 200,
-   "speed": 14164
+   "altitude": 167,
+   "speed": 16217
  },
  {
    "time": "00:06:25",
-   "altitude": 200,
-   "speed": 14215
+   "altitude": 167,
+   "speed": 16280
  },
  {
    "time": "00:06:26",
-   "altitude": 200,
-   "speed": 14266
+   "altitude": 167,
+   "speed": 16344
  },
  {
    "time": "00:06:27",
-   "altitude": 200,
-   "speed": 14319
+   "altitude": 168,
+   "speed": 16414
  },
  {
    "time": "00:06:28",
-   "altitude": 201,
-   "speed": 14371
+   "altitude": 168,
+   "speed": 16483
  },
  {
    "time": "00:06:29",
-   "altitude": 201,
-   "speed": 14423
+   "altitude": 168,
+   "speed": 16553
  },
  {
    "time": "00:06:30",
-   "altitude": 201,
-   "speed": 14477
+   "altitude": 168,
+   "speed": 16622
  },
  {
    "time": "00:06:31",
-   "altitude": 201,
-   "speed": 14528
+   "altitude": 168,
+   "speed": 16691
  },
  {
    "time": "00:06:32",
-   "altitude": 202,
-   "speed": 14580
+   "altitude": 168,
+   "speed": 16761
  },
  {
    "time": "00:06:33",
-   "altitude": 202,
-   "speed": 14636
+   "altitude": 168,
+   "speed": 16832
  },
  {
    "time": "00:06:34",
-   "altitude": 202,
-   "speed": 14690
+   "altitude": 168,
+   "speed": 16903
  },
  {
    "time": "00:06:35",
-   "altitude": 202,
-   "speed": 14744
+   "altitude": 168,
+   "speed": 16972
  },
  {
    "time": "00:06:36",
-   "altitude": 203,
-   "speed": 14798
+   "altitude": 168,
+   "speed": 17046
  },
  {
    "time": "00:06:37",
-   "altitude": 203,
-   "speed": 14852
+   "altitude": 168,
+   "speed": 17120
  },
  {
    "time": "00:06:38",
-   "altitude": 203,
-   "speed": 14907
+   "altitude": 168,
+   "speed": 17194
  },
  {
    "time": "00:06:39",
-   "altitude": 203,
-   "speed": 14961
+   "altitude": 168,
+   "speed": 17268
  },
  {
    "time": "00:06:40",
-   "altitude": 203,
-   "speed": 15018
+   "altitude": 168,
+   "speed": 17341
  },
  {
    "time": "00:06:41",
-   "altitude": 204,
-   "speed": 15074
+   "altitude": 168,
+   "speed": 17415
  },
  {
    "time": "00:06:42",
-   "altitude": 204,
-   "speed": 15131
+   "altitude": 168,
+   "speed": 17489
  },
  {
    "time": "00:06:43",
-   "altitude": 204,
-   "speed": 15189
+   "altitude": 168,
+   "speed": 17564
  },
  {
    "time": "00:06:44",
-   "altitude": 204,
-   "speed": 15248
+   "altitude": 168,
+   "speed": 17639
  },
  {
    "time": "00:06:45",
-   "altitude": 204,
-   "speed": 15306
+   "altitude": 168,
+   "speed": 17716
  },
  {
    "time": "00:06:46",
-   "altitude": 205,
-   "speed": 15364
+   "altitude": 168,
+   "speed": 17792
  },
  {
    "time": "00:06:47",
-   "altitude": 205,
-   "speed": 15423
+   "altitude": 168,
+   "speed": 17870
  },
  {
    "time": "00:06:48",
-   "altitude": 205,
-   "speed": 15478
+   "altitude": 169,
+   "speed": 17949
  },
  {
    "time": "00:06:49",
-   "altitude": 205,
-   "speed": 15537
+   "altitude": 169,
+   "speed": 18027
  },
  {
    "time": "00:06:50",
-   "altitude": 205,
-   "speed": 15595
+   "altitude": 169,
+   "speed": 18105
  },
  {
    "time": "00:06:51",
-   "altitude": 206,
-   "speed": 15654
+   "altitude": 169,
+   "speed": 18186
  },
  {
    "time": "00:06:52",
-   "altitude": 206,
-   "speed": 15714
+   "altitude": 169,
+   "speed": 18266
  },
  {
    "time": "00:06:53",
-   "altitude": 206,
-   "speed": 15774
+   "altitude": 169,
+   "speed": 18346
  },
  {
    "time": "00:06:54",
-   "altitude": 206,
-   "speed": 15834
+   "altitude": 169,
+   "speed": 18427
  },
  {
    "time": "00:06:55",
-   "altitude": 206,
-   "speed": 15895
+   "altitude": 169,
+   "speed": 18507
  },
  {
    "time": "00:06:56",
-   "altitude": 207,
-   "speed": 15956
+   "altitude": 169,
+   "speed": 18589
  },
  {
    "time": "00:06:57",
-   "altitude": 207,
-   "speed": 16019
+   "altitude": 169,
+   "speed": 18673
  },
  {
    "time": "00:06:58",
-   "altitude": 207,
-   "speed": 16082
+   "altitude": 169,
+   "speed": 18757
  },
  {
    "time": "00:06:59",
-   "altitude": 207,
-   "speed": 16143
+   "altitude": 169,
+   "speed": 18841
  },
  {
    "time": "00:07:00",
-   "altitude": 207,
-   "speed": 16207
+   "altitude": 169,
+   "speed": 18926
  },
  {
    "time": "00:07:01",
-   "altitude": 207,
-   "speed": 16270
+   "altitude": 169,
+   "speed": 19011
  },
  {
    "time": "00:07:02",
-   "altitude": 208,
-   "speed": 16333
+   "altitude": 169,
+   "speed": 19094
  },
  {
    "time": "00:07:03",
-   "altitude": 208,
-   "speed": 16397
+   "altitude": 169,
+   "speed": 19177
  },
  {
    "time": "00:07:04",
-   "altitude": 208,
-   "speed": 16461
+   "altitude": 169,
+   "speed": 19261
  },
  {
    "time": "00:07:05",
-   "altitude": 208,
-   "speed": 16527
+   "altitude": 169,
+   "speed": 19350
  },
  {
    "time": "00:07:06",
-   "altitude": 208,
-   "speed": 16592
+   "altitude": 169,
+   "speed": 19439
  },
  {
    "time": "00:07:07",
-   "altitude": 209,
-   "speed": 16656
+   "altitude": 169,
+   "speed": 19529
  },
  {
    "time": "00:07:08",
-   "altitude": 209,
-   "speed": 16721
+   "altitude": 169,
+   "speed": 19618
  },
  {
    "time": "00:07:09",
-   "altitude": 209,
-   "speed": 16787
+   "altitude": 169,
+   "speed": 19709
  },
  {
    "time": "00:07:10",
-   "altitude": 209,
-   "speed": 16853
+   "altitude": 169,
+   "speed": 19804
  },
  {
    "time": "00:07:11",
-   "altitude": 209,
-   "speed": 16920
+   "altitude": 169,
+   "speed": 19898
  },
  {
    "time": "00:07:12",
-   "altitude": 209,
-   "speed": 16989
+   "altitude": 169,
+   "speed": 19988
+ },
+ {
+   "time": "00:07:13",
+   "altitude": 169,
+   "speed": 20607
  },
  {
    "time": "00:07:14",
-   "altitude": 209,
-   "speed": 17056
+   "altitude": 169,
+   "speed": 20171
  },
  {
    "time": "00:07:15",
-   "altitude": 210,
-   "speed": 17124
+   "altitude": 169,
+   "speed": 20265
  },
  {
-   "time": "00:07:15",
-   "altitude": 210,
-   "speed": 17193
+   "time": "00:07:16",
+   "altitude": 169,
+   "speed": 20363
  },
  {
    "time": "00:07:17",
-   "altitude": 210,
-   "speed": 17263
- },
- {
-   "time": "00:07:18",
-   "altitude": 210,
-   "speed": 17333
+   "altitude": 169,
+   "speed": 20462
  },
  {
    "time": "00:07:19",
-   "altitude": 210,
-   "speed": 17405
+   "altitude": 169,
+   "speed": 20660
  },
  {
    "time": "00:07:20",
-   "altitude": 210,
-   "speed": 17475
+   "altitude": 169,
+   "speed": 20755
  },
  {
    "time": "00:07:21",
-   "altitude": 210,
-   "speed": 17547
+   "altitude": 169,
+   "speed": 20854
  },
  {
    "time": "00:07:22",
-   "altitude": 211,
-   "speed": 17617
+   "altitude": 169,
+   "speed": 20953
+ },
+ {
+   "time": "00:07:23",
+   "altitude": 169,
+   "speed": 21062
+ },
+ {
+   "time": "00:07:24",
+   "altitude": 169,
+   "speed": 21164
+ },
+ {
+   "time": "00:07:25",
+   "altitude": 169,
+   "speed": 21267
+ },
+ {
+   "time": "00:07:26",
+   "altitude": 169,
+   "speed": 21371
+ },
+ {
+   "time": "00:07:27",
+   "altitude": 169,
+   "speed": 21476
  },
  {
    "time": "00:07:28",
-   "altitude": 212,
-   "speed": 18129
+   "altitude": 168,
+   "speed": 21582
  },
  {
    "time": "00:07:29",
-   "altitude": 212,
-   "speed": 18203
+   "altitude": 168,
+   "speed": 21689
  },
  {
    "time": "00:07:30",
-   "altitude": 212,
-   "speed": 18278
+   "altitude": 168,
+   "speed": 21795
  },
  {
    "time": "00:07:31",
-   "altitude": 212,
-   "speed": 18354
+   "altitude": 168,
+   "speed": 21902
  },
  {
    "time": "00:07:32",
-   "altitude": 212,
-   "speed": 18431
+   "altitude": 168,
+   "speed": 22010
+ },
+ {
+   "time": "00:07:33",
+   "altitude": 168,
+   "speed": 22122
+ },
+ {
+   "time": "00:07:34",
+   "altitude": 168,
+   "speed": 22234
  },
  {
    "time": "00:07:35",
-   "altitude": 212,
-   "speed": 18665
+   "altitude": 168,
+   "speed": 22345
  },
  {
    "time": "00:07:36",
-   "altitude": 212,
-   "speed": 18744
+   "altitude": 168,
+   "speed": 22459
  },
  {
    "time": "00:07:37",
-   "altitude": 213,
-   "speed": 18823
+   "altitude": 168,
+   "speed": 22575
  },
  {
    "time": "00:07:38",
-   "altitude": 213,
-   "speed": 18905
+   "altitude": 168,
+   "speed": 22691
  },
  {
    "time": "00:07:39",
-   "altitude": 213,
-   "speed": 18988
+   "altitude": 168,
+   "speed": 22810
  },
  {
    "time": "00:07:40",
-   "altitude": 213,
-   "speed": 19069
+   "altitude": 168,
+   "speed": 22929
  },
  {
    "time": "00:07:41",
-   "altitude": 213,
-   "speed": 19150
+   "altitude": 168,
+   "speed": 23049
  },
  {
    "time": "00:07:42",
-   "altitude": 213,
-   "speed": 19232
+   "altitude": 168,
+   "speed": 23170
  },
  {
    "time": "00:07:43",
-   "altitude": 213,
-   "speed": 19311
+   "altitude": 168,
+   "speed": 23293
  },
  {
    "time": "00:07:44",
-   "altitude": 213,
-   "speed": 19388
+   "altitude": 168,
+   "speed": 23416
  },
  {
    "time": "00:07:45",
-   "altitude": 213,
-   "speed": 19465
+   "altitude": 168,
+   "speed": 23541
  },
  {
    "time": "00:07:46",
-   "altitude": 214,
-   "speed": 19540
+   "altitude": 168,
+   "speed": 23666
  },
  {
    "time": "00:07:47",
-   "altitude": 214,
-   "speed": 19616
+   "altitude": 168,
+   "speed": 23792
  },
  {
    "time": "00:07:48",
-   "altitude": 214,
-   "speed": 19693
+   "altitude": 168,
+   "speed": 23919
  },
  {
    "time": "00:07:49",
-   "altitude": 214,
-   "speed": 19772
+   "altitude": 168,
+   "speed": 24052
  },
  {
    "time": "00:07:50",
-   "altitude": 214,
-   "speed": 19850
+   "altitude": 168,
+   "speed": 24186
  },
  {
    "time": "00:07:51",
-   "altitude": 214,
-   "speed": 19931
+   "altitude": 168,
+   "speed": 24320
  },
  {
    "time": "00:07:52",
-   "altitude": 214,
-   "speed": 20009
+   "altitude": 168,
+   "speed": 24453
  },
  {
    "time": "00:07:53",
-   "altitude": 214,
-   "speed": 20083
+   "altitude": 168,
+   "speed": 24588
  },
  {
    "time": "00:07:54",
-   "altitude": 214,
-   "speed": 20161
+   "altitude": 168,
+   "speed": 24724
  },
  {
    "time": "00:07:55",
-   "altitude": 214,
-   "speed": 20237
+   "altitude": 168,
+   "speed": 24862
  },
  {
    "time": "00:07:56",
-   "altitude": 214,
-   "speed": 20316
+   "altitude": 168,
+   "speed": 25004
  },
  {
    "time": "00:07:57",
-   "altitude": 214,
-   "speed": 20399
+   "altitude": 168,
+   "speed": 25146
  },
  {
    "time": "00:07:58",
-   "altitude": 215,
-   "speed": 20481
+   "altitude": 168,
+   "speed": 25290
  },
  {
    "time": "00:07:59",
-   "altitude": 215,
-   "speed": 20564
+   "altitude": 168,
+   "speed": 25435
  },
  {
    "time": "00:08:00",
-   "altitude": 215,
-   "speed": 20644
+   "altitude": 168,
+   "speed": 25582
  },
  {
    "time": "00:08:01",
-   "altitude": 215,
-   "speed": 20727
+   "altitude": 168,
+   "speed": 25732
  },
  {
    "time": "00:08:02",
-   "altitude": 215,
-   "speed": 20811
+   "altitude": 168,
+   "speed": 25884
  },
  {
    "time": "00:08:03",
-   "altitude": 215,
-   "speed": 20895
+   "altitude": 168,
+   "speed": 26042
+ },
+ {
+   "time": "00:08:04",
+   "altitude": 168,
+   "speed": 26195
  },
  {
    "time": "00:08:05",
-   "altitude": 215,
-   "speed": 21068
+   "altitude": 168,
+   "speed": 26350
  },
  {
    "time": "00:08:06",
-   "altitude": 215,
-   "speed": 21153
+   "altitude": 168,
+   "speed": 26505
  },
  {
    "time": "00:08:07",
-   "altitude": 215,
-   "speed": 21238
+   "altitude": 168,
+   "speed": 26662
  },
  {
    "time": "00:08:08",
-   "altitude": 215,
-   "speed": 21324
+   "altitude": 168,
+   "speed": 26822
  },
  {
    "time": "00:08:09",
-   "altitude": 215,
-   "speed": 21412
+   "altitude": 168,
+   "speed": 26998
  },
  {
    "time": "00:08:10",
-   "altitude": 215,
-   "speed": 21500
+   "altitude": 168,
+   "speed": 27128
  },
  {
    "time": "00:08:11",
-   "altitude": 215,
-   "speed": 21589
+   "altitude": 168,
+   "speed": 27290
  },
  {
    "time": "00:08:12",
-   "altitude": 215,
-   "speed": 21680
+   "altitude": 168,
+   "speed": 27387
  },
  {
    "time": "00:08:13",
-   "altitude": 215,
-   "speed": 21771
+   "altitude": 168,
+   "speed": 27416
  },
  {
    "time": "00:08:14",
-   "altitude": 216,
-   "speed": 21861
+   "altitude": 168,
+   "speed": 27425
+ },
+ {
+   "time": "00:08:15",
+   "altitude": 168,
+   "speed": 27428
  },
  {
    "time": "00:08:16",
-   "altitude": 216,
-   "speed": 21950
- },
- {
-   "time": "00:08:16",
-   "altitude": 216,
-   "speed": 22041
+   "altitude": 168,
+   "speed": 27429
  },
  {
    "time": "00:08:17",
-   "altitude": 216,
-   "speed": 22134
+   "altitude": 168,
+   "speed": 27428
+ },
+ {
+   "time": "00:08:18",
+   "altitude": 168,
+   "speed": 27428
+ },
+ {
+   "time": "00:08:19",
+   "altitude": 168,
+   "speed": 27428
  },
  {
    "time": "00:08:20",
-   "altitude": 216,
-   "speed": 22323
+   "altitude": 168,
+   "speed": 27428
  },
  {
    "time": "00:08:21",
-   "altitude": 216,
-   "speed": 22420
+   "altitude": 168,
+   "speed": 27428
  },
  {
    "time": "00:08:22",
-   "altitude": 216,
-   "speed": 22519
+   "altitude": 168,
+   "speed": 27428
  },
  {
    "time": "00:08:23",
-   "altitude": 216,
-   "speed": 22617
+   "altitude": 168,
+   "speed": 27428
  },
  {
    "time": "00:08:24",
-   "altitude": 216,
-   "speed": 22715
+   "altitude": 168,
+   "speed": 27428
  },
  {
    "time": "00:08:25",
-   "altitude": 216,
-   "speed": 22812
+   "altitude": 168,
+   "speed": 27428
  },
  {
    "time": "00:08:26",
-   "altitude": 216,
-   "speed": 22910
+   "altitude": 168,
+   "speed": 27428
  },
  {
    "time": "00:08:27",
-   "altitude": 216,
-   "speed": 23011
+   "altitude": 168,
+   "speed": 27428
  },
  {
    "time": "00:08:28",
-   "altitude": 216,
-   "speed": 23115
+   "altitude": 168,
+   "speed": 27428
  },
  {
    "time": "00:08:29",
-   "altitude": 216,
-   "speed": 23212
+   "altitude": 168,
+   "speed": 27428
  },
  {
    "time": "00:08:30",
-   "altitude": 216,
-   "speed": 23315
+   "altitude": 168,
+   "speed": 27428
  },
  {
    "time": "00:08:31",
-   "altitude": 216,
-   "speed": 23420
- },
- {
-   "time": "00:08:31",
-   "altitude": 216,
-   "speed": 23521
+   "altitude": 168,
+   "speed": 27428
  },
  {
    "time": "00:08:32",
-   "altitude": 216,
-   "speed": 23624
+   "altitude": 168,
+   "speed": 27428
  },
  {
    "time": "00:08:33",
-   "altitude": 216,
-   "speed": 23730
+   "altitude": 168,
+   "speed": 27428
  },
  {
    "time": "00:08:34",
-   "altitude": 216,
-   "speed": 23837
+   "altitude": 168,
+   "speed": 27427
  },
  {
    "time": "00:08:35",
-   "altitude": 216,
-   "speed": 23947
+   "altitude": 168,
+   "speed": 27427
  },
  {
    "time": "00:08:36",
-   "altitude": 216,
-   "speed": 24057
+   "altitude": 168,
+   "speed": 27427
  },
  {
    "time": "00:08:37",
-   "altitude": 216,
-   "speed": 24164
+   "altitude": 168,
+   "speed": 27427
  },
  {
    "time": "00:08:38",
-   "altitude": 216,
-   "speed": 24276
+   "altitude": 168,
+   "speed": 27427
  },
  {
    "time": "00:08:39",
-   "altitude": 216,
-   "speed": 24387
+   "altitude": 168,
+   "speed": 27427
  },
  {
    "time": "00:08:40",
-   "altitude": 216,
-   "speed": 24501
+   "altitude": 168,
+   "speed": 27427
  },
  {
    "time": "00:08:41",
-   "altitude": 216,
-   "speed": 24614
+   "altitude": 168,
+   "speed": 27427
  },
  {
    "time": "00:08:42",
-   "altitude": 216,
-   "speed": 24729
+   "altitude": 168,
+   "speed": 27427
  },
  {
    "time": "00:08:43",
-   "altitude": 216,
-   "speed": 24845
+   "altitude": 168,
+   "speed": 27427
  },
  {
    "time": "00:08:44",
-   "altitude": 216,
-   "speed": 24962
+   "altitude": 168,
+   "speed": 27427
  },
  {
    "time": "00:08:45",
-   "altitude": 216,
-   "speed": 25081
+   "altitude": 168,
+   "speed": 27426
  },
  {
    "time": "00:08:46",
-   "altitude": 216,
-   "speed": 25200
+   "altitude": 168,
+   "speed": 27426
  },
  {
    "time": "00:08:47",
-   "altitude": 216,
-   "speed": 25321
+   "altitude": 168,
+   "speed": 27426
  },
  {
    "time": "00:08:48",
-   "altitude": 216,
-   "speed": 25441
+   "altitude": 168,
+   "speed": 27426
  },
  {
    "time": "00:08:49",
-   "altitude": 216,
-   "speed": 25563
+   "altitude": 168,
+   "speed": 27426
  },
  {
    "time": "00:08:50",
-   "altitude": 216,
-   "speed": 25687
+   "altitude": 168,
+   "speed": 27426
  },
  {
    "time": "00:08:51",
-   "altitude": 216,
-   "speed": 25819
+   "altitude": 169,
+   "speed": 27426
  },
  {
    "time": "00:08:52",
-   "altitude": 216,
-   "speed": 25949
+   "altitude": 169,
+   "speed": 27426
  },
  {
    "time": "00:08:53",
-   "altitude": 216,
-   "speed": 26078
+   "altitude": 169,
+   "speed": 27426
  },
  {
    "time": "00:08:54",
-   "altitude": 216,
-   "speed": 26206
+   "altitude": 169,
+   "speed": 27426
  },
  {
    "time": "00:08:55",
-   "altitude": 216,
-   "speed": 26340
+   "altitude": 169,
+   "speed": 27426
  },
  {
    "time": "00:08:56",
-   "altitude": 216,
-   "speed": 26473
+   "altitude": 169,
+   "speed": 27425
  },
  {
    "time": "00:08:57",
-   "altitude": 216,
-   "speed": 26605
+   "altitude": 169,
+   "speed": 27425
  },
  {
    "time": "00:08:58",
-   "altitude": 216,
-   "speed": 26743
+   "altitude": 169,
+   "speed": 27425
  },
  {
    "time": "00:08:59",
-   "altitude": 216,
-   "speed": 26877
+   "altitude": 169,
+   "speed": 27425
  },
  {
    "time": "00:09:00",
-   "altitude": 216,
-   "speed": 27010
+   "altitude": 169,
+   "speed": 27425
  },
  {
    "time": "00:09:01",
-   "altitude": 216,
-   "speed": 27102
+   "altitude": 169,
+   "speed": 27425
  },
  {
    "time": "00:09:02",
-   "altitude": 216,
-   "speed": 27131
+   "altitude": 169,
+   "speed": 27425
  },
  {
    "time": "00:09:03",
-   "altitude": 216,
-   "speed": 27140
+   "altitude": 169,
+   "speed": 27425
  },
  {
    "time": "00:09:04",
-   "altitude": 216,
-   "speed": 27143
+   "altitude": 169,
+   "speed": 27425
  },
  {
    "time": "00:09:05",
-   "altitude": 216,
-   "speed": 27144
+   "altitude": 169,
+   "speed": 27424
  },
  {
    "time": "00:09:06",
-   "altitude": 216,
-   "speed": 27144
+   "altitude": 169,
+   "speed": 27424
  },
  {
    "time": "00:09:07",
-   "altitude": 216,
-   "speed": 27144
+   "altitude": 169,
+   "speed": 27424
  },
  {
    "time": "00:09:08",
-   "altitude": 216,
-   "speed": 27144
+   "altitude": 169,
+   "speed": 27424
  },
  {
    "time": "00:09:09",
-   "altitude": 216,
-   "speed": 27144
+   "altitude": 169,
+   "speed": 27424
  },
  {
    "time": "00:09:10",
-   "altitude": 216,
-   "speed": 27144
+   "altitude": 169,
+   "speed": 27424
  },
  {
    "time": "00:09:11",
-   "altitude": 216,
-   "speed": 27144
+   "altitude": 169,
+   "speed": 27424
  },
  {
    "time": "00:09:12",
-   "altitude": 216,
-   "speed": 27144
+   "altitude": 169,
+   "speed": 27424
  },
  {
    "time": "00:09:13",
-   "altitude": 216,
-   "speed": 27144
+   "altitude": 169,
+   "speed": 27423
  },
  {
    "time": "00:09:14",
-   "altitude": 216,
-   "speed": 27144
+   "altitude": 169,
+   "speed": 27423
  },
  {
    "time": "00:09:15",
-   "altitude": 216,
-   "speed": 27144
+   "altitude": 169,
+   "speed": 27423
  },
  {
    "time": "00:09:16",
-   "altitude": 216,
-   "speed": 27144
+   "altitude": 169,
+   "speed": 27423
  },
  {
    "time": "00:09:17",
-   "altitude": 216,
-   "speed": 27144
+   "altitude": 169,
+   "speed": 27423
  },
  {
    "time": "00:09:18",
-   "altitude": 216,
-   "speed": 27144
+   "altitude": 169,
+   "speed": 27423
  },
  {
    "time": "00:09:19",
-   "altitude": 216,
-   "speed": 27144
+   "altitude": 169,
+   "speed": 27423
  },
  {
    "time": "00:09:20",
-   "altitude": 216,
-   "speed": 27144
+   "altitude": 169,
+   "speed": 27423
  },
  {
    "time": "00:09:21",
-   "altitude": 216,
-   "speed": 27144
+   "altitude": 169,
+   "speed": 27423
+ },
+ {
+   "time": "00:09:22",
+   "altitude": 169,
+   "speed": 27422
  },
  {
    "time": "00:09:23",
-   "altitude": 216,
-   "speed": 27144
+   "altitude": 169,
+   "speed": 27422
  },
  {
    "time": "00:09:24",
-   "altitude": 216,
-   "speed": 27144
+   "altitude": 169,
+   "speed": 27422
  },
  {
    "time": "00:09:25",
-   "altitude": 216,
-   "speed": 27144
+   "altitude": 169,
+   "speed": 27422
  },
  {
    "time": "00:09:26",
-   "altitude": 216,
-   "speed": 27144
+   "altitude": 169,
+   "speed": 27422
  },
  {
    "time": "00:09:27",
-   "altitude": 216,
-   "speed": 27144
+   "altitude": 169,
+   "speed": 27422
  },
  {
    "time": "00:09:28",
-   "altitude": 216,
-   "speed": 27144
+   "altitude": 169,
+   "speed": 27422
  },
  {
    "time": "00:09:29",
-   "altitude": 216,
-   "speed": 27144
+   "altitude": 169,
+   "speed": 27421
  },
  {
    "time": "00:09:30",
-   "altitude": 216,
-   "speed": 27144
+   "altitude": 170,
+   "speed": 27421
  },
  {
    "time": "00:09:31",
-   "altitude": 216,
-   "speed": 27144
+   "altitude": 170,
+   "speed": 27421
  },
  {
    "time": "00:09:32",
-   "altitude": 217,
-   "speed": 27144
+   "altitude": 170,
+   "speed": 27421
  },
  {
    "time": "00:09:33",
-   "altitude": 217,
-   "speed": 27144
+   "altitude": 170,
+   "speed": 27421
  },
  {
    "time": "00:09:34",
-   "altitude": 217,
-   "speed": 27144
+   "altitude": 170,
+   "speed": 27421
  },
  {
    "time": "00:09:35",
-   "altitude": 217,
-   "speed": 27144
+   "altitude": 170,
+   "speed": 27421
  },
  {
    "time": "00:09:36",
-   "altitude": 217,
-   "speed": 27144
+   "altitude": 170,
+   "speed": 27420
  },
  {
    "time": "00:09:37",
-   "altitude": 217,
-   "speed": 27144
+   "altitude": 170,
+   "speed": 27420
  },
  {
    "time": "00:09:38",
-   "altitude": 217,
-   "speed": 27144
+   "altitude": 170,
+   "speed": 27420
  },
  {
    "time": "00:09:39",
-   "altitude": 217,
-   "speed": 27144
- },
- {
-   "time": "00:09:39",
-   "altitude": 217,
-   "speed": 27144
+   "altitude": 170,
+   "speed": 27420
  },
  {
    "time": "00:09:40",
-   "altitude": 217,
-   "speed": 27144
+   "altitude": 170,
+   "speed": 27420
  },
  {
    "time": "00:09:41",
-   "altitude": 217,
-   "speed": 27144
+   "altitude": 170,
+   "speed": 27420
  },
  {
    "time": "00:09:42",
-   "altitude": 217,
-   "speed": 27143
+   "altitude": 170,
+   "speed": 27420
  },
  {
    "time": "00:09:43",
-   "altitude": 217,
-   "speed": 27143
+   "altitude": 170,
+   "speed": 27419
  },
  {
    "time": "00:09:44",
-   "altitude": 217,
-   "speed": 27143
+   "altitude": 170,
+   "speed": 27419
  },
  {
    "time": "00:09:45",
-   "altitude": 217,
-   "speed": 27143
+   "altitude": 170,
+   "speed": 27419
  },
  {
    "time": "00:09:46",
-   "altitude": 217,
-   "speed": 27143
+   "altitude": 170,
+   "speed": 27419
  },
  {
    "time": "00:09:47",
-   "altitude": 217,
-   "speed": 27143
+   "altitude": 170,
+   "speed": 27419
  },
  {
    "time": "00:09:48",
-   "altitude": 217,
-   "speed": 27143
+   "altitude": 170,
+   "speed": 27419
  },
  {
    "time": "00:09:49",
-   "altitude": 217,
-   "speed": 27143
- },
- {
-   "time": "00:09:50",
-   "altitude": 217,
-   "speed": 27143
- },
- {
-   "time": "00:09:51",
-   "altitude": 217,
-   "speed": 27143
- },
- {
-   "time": "00:09:52",
-   "altitude": 217,
-   "speed": 27143
- },
- {
-   "time": "00:09:53",
-   "altitude": 217,
-   "speed": 27143
- },
- {
-   "time": "00:09:54",
-   "altitude": 217,
-   "speed": 27143
- },
- {
-   "time": "00:09:55",
-   "altitude": 217,
-   "speed": 27143
- },
- {
-   "time": "00:09:56",
-   "altitude": 217,
-   "speed": 27143
- },
- {
-   "time": "00:09:57",
-   "altitude": 217,
-   "speed": 27143
- },
- {
-   "time": "00:09:58",
-   "altitude": 217,
-   "speed": 27143
- },
- {
-   "time": "00:09:59",
-   "altitude": 217,
-   "speed": 27143
- },
- {
-   "time": "00:10:00",
-   "altitude": 217,
-   "speed": 27143
- },
- {
-   "time": "00:10:01",
-   "altitude": 217,
-   "speed": 27143
- },
- {
-   "time": "00:10:02",
-   "altitude": 217,
-   "speed": 27143
- },
- {
-   "time": "00:10:03",
-   "altitude": 217,
-   "speed": 27143
- },
- {
-   "time": "00:10:04",
-   "altitude": 217,
-   "speed": 27143
- },
- {
-   "time": "00:10:05",
-   "altitude": 217,
-   "speed": 27142
- },
- {
-   "time": "00:10:06",
-   "altitude": 217,
-   "speed": 27142
- },
- {
-   "time": "00:10:07",
-   "altitude": 217,
-   "speed": 27142
- },
- {
-   "time": "00:10:08",
-   "altitude": 217,
-   "speed": 27142
- },
- {
-   "time": "00:10:09",
-   "altitude": 217,
-   "speed": 27142
- },
- {
-   "time": "00:10:10",
-   "altitude": 217,
-   "speed": 27142
- },
- {
-   "time": "00:10:11",
-   "altitude": 217,
-   "speed": 27142
- },
- {
-   "time": "00:10:12",
-   "altitude": 217,
-   "speed": 27142
- },
- {
-   "time": "00:10:13",
-   "altitude": 217,
-   "speed": 27142
- },
- {
-   "time": "00:10:14",
-   "altitude": 217,
-   "speed": 27142
- },
- {
-   "time": "00:10:15",
-   "altitude": 217,
-   "speed": 27142
- },
- {
-   "time": "00:10:16",
-   "altitude": 217,
-   "speed": 27142
- },
- {
-   "time": "00:10:17",
-   "altitude": 217,
-   "speed": 27142
- },
- {
-   "time": "00:10:18",
-   "altitude": 217,
-   "speed": 27142
- },
- {
-   "time": "00:10:19",
-   "altitude": 217,
-   "speed": 27142
- },
- {
-   "time": "00:10:20",
-   "altitude": 217,
-   "speed": 27142
- },
- {
-   "time": "00:10:21",
-   "altitude": 217,
-   "speed": 27142
- },
- {
-   "time": "00:10:22",
-   "altitude": 217,
-   "speed": 27142
- },
- {
-   "time": "00:10:23",
-   "altitude": 217,
-   "speed": 27142
- },
- {
-   "time": "00:10:24",
-   "altitude": 217,
-   "speed": 27141
- },
- {
-   "time": "00:10:25",
-   "altitude": 217,
-   "speed": 27141
- },
- {
-   "time": "00:10:26",
-   "altitude": 217,
-   "speed": 27141
- },
- {
-   "time": "00:10:27",
-   "altitude": 217,
-   "speed": 27141
- },
- {
-   "time": "00:10:28",
-   "altitude": 217,
-   "speed": 27141
- },
- {
-   "time": "00:10:29",
-   "altitude": 217,
-   "speed": 27141
- },
- {
-   "time": "00:10:30",
-   "altitude": 217,
-   "speed": 27141
- },
- {
-   "time": "00:10:32",
-   "altitude": 217,
-   "speed": 27141
- },
- {
-   "time": "00:10:33",
-   "altitude": 217,
-   "speed": 27141
- },
- {
-   "time": "00:10:34",
-   "altitude": 217,
-   "speed": 27141
- },
- {
-   "time": "00:10:35",
-   "altitude": 217,
-   "speed": 27141
- },
- {
-   "time": "00:10:36",
-   "altitude": 217,
-   "speed": 27141
- },
- {
-   "time": "00:10:37",
-   "altitude": 217,
-   "speed": 27141
- },
- {
-   "time": "00:10:38",
-   "altitude": 217,
-   "speed": 27141
- },
- {
-   "time": "00:10:39",
-   "altitude": 217,
-   "speed": 27141
- },
- {
-   "time": "00:10:40",
-   "altitude": 217,
-   "speed": 27141
- },
- {
-   "time": "00:10:41",
-   "altitude": 217,
-   "speed": 27140
- },
- {
-   "time": "00:10:42",
-   "altitude": 217,
-   "speed": 27140
- },
- {
-   "time": "00:10:43",
-   "altitude": 217,
-   "speed": 27140
- },
- {
-   "time": "00:10:44",
-   "altitude": 217,
-   "speed": 27140
- },
- {
-   "time": "00:10:45",
-   "altitude": 217,
-   "speed": 27140
- },
- {
-   "time": "00:10:46",
-   "altitude": 217,
-   "speed": 27140
- },
- {
-   "time": "00:10:46",
-   "altitude": 217,
-   "speed": 27140
- },
- {
-   "time": "00:10:47",
-   "altitude": 217,
-   "speed": 27140
- },
- {
-   "time": "00:10:48",
-   "altitude": 217,
-   "speed": 27140
- },
- {
-   "time": "00:10:49",
-   "altitude": 217,
-   "speed": 27140
- },
- {
-   "time": "00:10:50",
-   "altitude": 217,
-   "speed": 27140
- },
- {
-   "time": "00:10:51",
-   "altitude": 217,
-   "speed": 27140
- },
- {
-   "time": "00:10:52",
-   "altitude": 217,
-   "speed": 27140
- },
- {
-   "time": "00:10:53",
-   "altitude": 217,
-   "speed": 27140
- },
- {
-   "time": "00:10:54",
-   "altitude": 217,
-   "speed": 27139
- },
- {
-   "time": "00:10:55",
-   "altitude": 217,
-   "speed": 27139
- },
- {
-   "time": "00:10:56",
-   "altitude": 218,
-   "speed": 27139
- },
- {
-   "time": "00:10:57",
-   "altitude": 218,
-   "speed": 27139
- },
- {
-   "time": "00:10:58",
-   "altitude": 218,
-   "speed": 27139
- },
- {
-   "time": "00:10:59",
-   "altitude": 218,
-   "speed": 27139
- },
- {
-   "time": "00:11:00",
-   "altitude": 218,
-   "speed": 27139
- },
- {
-   "time": "00:11:01",
-   "altitude": 218,
-   "speed": 27139
- },
- {
-   "time": "00:11:02",
-   "altitude": 218,
-   "speed": 27139
- },
- {
-   "time": "00:11:03",
-   "altitude": 218,
-   "speed": 27139
- },
- {
-   "time": "00:11:04",
-   "altitude": 218,
-   "speed": 27139
- },
- {
-   "time": "00:11:05",
-   "altitude": 218,
-   "speed": 27139
- },
- {
-   "time": "00:11:06",
-   "altitude": 218,
-   "speed": 27139
- },
- {
-   "time": "00:11:07",
-   "altitude": 218,
-   "speed": 27139
- },
- {
-   "time": "00:11:08",
-   "altitude": 218,
-   "speed": 27138
- },
- {
-   "time": "00:11:09",
-   "altitude": 218,
-   "speed": 27138
- },
- {
-   "time": "00:11:10",
-   "altitude": 218,
-   "speed": 27138
- },
- {
-   "time": "00:11:11",
-   "altitude": 218,
-   "speed": 27138
- },
- {
-   "time": "00:11:12",
-   "altitude": 218,
-   "speed": 27138
- },
- {
-   "time": "00:11:13",
-   "altitude": 218,
-   "speed": 27138
- },
- {
-   "time": "00:11:14",
-   "altitude": 218,
-   "speed": 27138
- },
- {
-   "time": "00:11:15",
-   "altitude": 218,
-   "speed": 27138
- },
- {
-   "time": "00:11:16",
-   "altitude": 218,
-   "speed": 27138
- },
- {
-   "time": "00:11:17",
-   "altitude": 218,
-   "speed": 27138
- },
- {
-   "time": "00:11:18",
-   "altitude": 218,
-   "speed": 27138
- },
- {
-   "time": "00:11:19",
-   "altitude": 218,
-   "speed": 27138
- },
- {
-   "time": "00:11:20",
-   "altitude": 218,
-   "speed": 27138
- },
- {
-   "time": "00:11:21",
-   "altitude": 218,
-   "speed": 27137
- },
- {
-   "time": "00:11:22",
-   "altitude": 218,
-   "speed": 27137
- },
- {
-   "time": "00:11:23",
-   "altitude": 218,
-   "speed": 27137
- },
- {
-   "time": "00:11:24",
-   "altitude": 218,
-   "speed": 27137
- },
- {
-   "time": "00:11:25",
-   "altitude": 218,
-   "speed": 27137
- },
- {
-   "time": "00:11:26",
-   "altitude": 218,
-   "speed": 27137
- },
- {
-   "time": "00:11:27",
-   "altitude": 218,
-   "speed": 27137
- },
- {
-   "time": "00:11:28",
-   "altitude": 218,
-   "speed": 27137
- },
- {
-   "time": "00:11:29",
-   "altitude": 218,
-   "speed": 27137
- },
- {
-   "time": "00:11:30",
-   "altitude": 218,
-   "speed": 27137
- },
- {
-   "time": "00:11:31",
-   "altitude": 218,
-   "speed": 27137
- },
- {
-   "time": "00:11:32",
-   "altitude": 218,
-   "speed": 27136
- },
- {
-   "time": "00:11:33",
-   "altitude": 218,
-   "speed": 27136
- },
- {
-   "time": "00:11:35",
-   "altitude": 218,
-   "speed": 27136
- },
- {
-   "time": "00:11:35",
-   "altitude": 218,
-   "speed": 27136
- },
- {
-   "time": "00:11:37",
-   "altitude": 218,
-   "speed": 27136
- },
- {
-   "time": "00:11:38",
-   "altitude": 218,
-   "speed": 27136
- },
- {
-   "time": "00:11:39",
-   "altitude": 218,
-   "speed": 27136
- },
- {
-   "time": "00:11:40",
-   "altitude": 218,
-   "speed": 27136
- },
- {
-   "time": "00:11:41",
-   "altitude": 218,
-   "speed": 27136
- },
- {
-   "time": "00:11:42",
-   "altitude": 218,
-   "speed": 27136
- },
- {
-   "time": "00:11:43",
-   "altitude": 218,
-   "speed": 27136
- },
- {
-   "time": "00:11:44",
-   "altitude": 218,
-   "speed": 27135
- },
- {
-   "time": "00:11:45",
-   "altitude": 218,
-   "speed": 27135
- },
- {
-   "time": "00:11:46",
-   "altitude": 218,
-   "speed": 27135
- },
- {
-   "time": "00:11:46",
-   "altitude": 218,
-   "speed": 27135
- },
- {
-   "time": "00:11:48",
-   "altitude": 218,
-   "speed": 27135
- },
- {
-   "time": "00:11:49",
-   "altitude": 218,
-   "speed": 27135
- },
- {
-   "time": "00:11:50",
-   "altitude": 218,
-   "speed": 27135
- },
- {
-   "time": "00:11:51",
-   "altitude": 218,
-   "speed": 27135
- },
- {
-   "time": "00:11:51",
-   "altitude": 219,
-   "speed": 27135
- },
- {
-   "time": "00:11:52",
-   "altitude": 219,
-   "speed": 27135
- },
- {
-   "time": "00:11:53",
-   "altitude": 219,
-   "speed": 27135
- },
- {
-   "time": "00:11:54",
-   "altitude": 219,
-   "speed": 27134
- },
- {
-   "time": "00:11:55",
-   "altitude": 219,
-   "speed": 27134
- },
- {
-   "time": "00:11:56",
-   "altitude": 219,
-   "speed": 27134
- },
- {
-   "time": "00:11:57",
-   "altitude": 219,
-   "speed": 27134
- },
- {
-   "time": "00:11:58",
-   "altitude": 219,
-   "speed": 27134
- },
- {
-   "time": "00:11:59",
-   "altitude": 219,
-   "speed": 27134
- },
- {
-   "time": "00:12:00",
-   "altitude": 219,
-   "speed": 27134
- },
- {
-   "time": "00:12:01",
-   "altitude": 219,
-   "speed": 27134
- },
- {
-   "time": "00:12:02",
-   "altitude": 219,
-   "speed": 27134
- },
- {
-   "time": "00:12:03",
-   "altitude": 219,
-   "speed": 27134
- },
- {
-   "time": "00:12:04",
-   "altitude": 219,
-   "speed": 27134
- },
- {
-   "time": "00:12:05",
-   "altitude": 219,
-   "speed": 27133
- },
- {
-   "time": "00:12:05",
-   "altitude": 219,
-   "speed": 27133
- },
- {
-   "time": "00:12:07",
-   "altitude": 219,
-   "speed": 27133
- },
- {
-   "time": "00:12:08",
-   "altitude": 219,
-   "speed": 27133
- },
- {
-   "time": "00:12:09",
-   "altitude": 219,
-   "speed": 27133
- },
- {
-   "time": "00:12:10",
-   "altitude": 219,
-   "speed": 27133
- },
- {
-   "time": "00:12:11",
-   "altitude": 219,
-   "speed": 27133
- },
- {
-   "time": "00:12:12",
-   "altitude": 219,
-   "speed": 27133
- },
- {
-   "time": "00:12:13",
-   "altitude": 219,
-   "speed": 27133
- },
- {
-   "time": "00:12:14",
-   "altitude": 219,
-   "speed": 27132
- },
- {
-   "time": "00:12:15",
-   "altitude": 219,
-   "speed": 27132
- },
- {
-   "time": "00:12:16",
-   "altitude": 219,
-   "speed": 27132
- },
- {
-   "time": "00:12:17",
-   "altitude": 219,
-   "speed": 27132
- },
- {
-   "time": "00:12:18",
-   "altitude": 219,
-   "speed": 27132
- },
- {
-   "time": "00:12:19",
-   "altitude": 219,
-   "speed": 27132
- },
- {
-   "time": "00:12:20",
-   "altitude": 219,
-   "speed": 27132
- },
- {
-   "time": "00:12:21",
-   "altitude": 219,
-   "speed": 27132
- },
- {
-   "time": "00:12:23",
-   "altitude": 219,
-   "speed": 27132
- },
- {
-   "time": "00:12:24",
-   "altitude": 219,
-   "speed": 27131
- },
- {
-   "time": "00:12:25",
-   "altitude": 219,
-   "speed": 27131
- },
- {
-   "time": "00:12:26",
-   "altitude": 219,
-   "speed": 27131
- },
- {
-   "time": "00:12:27",
-   "altitude": 219,
-   "speed": 27131
- },
- {
-   "time": "00:12:28",
-   "altitude": 219,
-   "speed": 27131
- },
- {
-   "time": "00:12:29",
-   "altitude": 219,
-   "speed": 27131
- },
- {
-   "time": "00:12:30",
-   "altitude": 219,
-   "speed": 27131
- },
- {
-   "time": "00:12:31",
-   "altitude": 219,
-   "speed": 27131
- },
- {
-   "time": "00:12:32",
-   "altitude": 219,
-   "speed": 27130
- },
- {
-   "time": "00:12:33",
-   "altitude": 219,
-   "speed": 27130
- },
- {
-   "time": "00:12:34",
-   "altitude": 220,
-   "speed": 27130
- },
- {
-   "time": "00:12:35",
-   "altitude": 220,
-   "speed": 27130
- },
- {
-   "time": "00:12:36",
-   "altitude": 220,
-   "speed": 27130
- },
- {
-   "time": "00:12:37",
-   "altitude": 220,
-   "speed": 27130
- },
- {
-   "time": "00:12:38",
-   "altitude": 220,
-   "speed": 27130
- },
- {
-   "time": "00:12:39",
-   "altitude": 220,
-   "speed": 27130
- },
- {
-   "time": "00:12:40",
-   "altitude": 220,
-   "speed": 27130
- },
- {
-   "time": "00:12:41",
-   "altitude": 220,
-   "speed": 27130
- },
- {
-   "time": "00:12:42",
-   "altitude": 220,
-   "speed": 27129
- },
- {
-   "time": "00:12:43",
-   "altitude": 220,
-   "speed": 27129
- },
- {
-   "time": "00:12:45",
-   "altitude": 220,
-   "speed": 27129
- },
- {
-   "time": "00:12:46",
-   "altitude": 220,
-   "speed": 27129
- },
- {
-   "time": "00:12:47",
-   "altitude": 220,
-   "speed": 27129
- },
- {
-   "time": "00:12:48",
-   "altitude": 220,
-   "speed": 27129
- },
- {
-   "time": "00:12:49",
-   "altitude": 220,
-   "speed": 27129
- },
- {
-   "time": "00:12:50",
-   "altitude": 220,
-   "speed": 27129
- },
- {
-   "time": "00:12:51",
-   "altitude": 220,
-   "speed": 27129
- },
- {
-   "time": "00:12:52",
-   "altitude": 220,
-   "speed": 27128
- },
- {
-   "time": "00:12:53",
-   "altitude": 220,
-   "speed": 27128
- },
- {
-   "time": "00:12:54",
-   "altitude": 220,
-   "speed": 27128
- },
- {
-   "time": "00:12:55",
-   "altitude": 220,
-   "speed": 27128
- },
- {
-   "time": "00:12:56",
-   "altitude": 220,
-   "speed": 27128
- },
- {
-   "time": "00:12:57",
-   "altitude": 220,
-   "speed": 27128
- },
- {
-   "time": "00:12:58",
-   "altitude": 220,
-   "speed": 27128
- },
- {
-   "time": "00:12:59",
-   "altitude": 220,
-   "speed": 27128
- },
- {
-   "time": "00:13:00",
-   "altitude": 220,
-   "speed": 27128
- },
- {
-   "time": "00:13:00",
-   "altitude": 220,
-   "speed": 27127
- },
- {
-   "time": "00:13:01",
-   "altitude": 220,
-   "speed": 27127
- },
- {
-   "time": "00:13:02",
-   "altitude": 220,
-   "speed": 27127
- },
- {
-   "time": "00:13:03",
-   "altitude": 220,
-   "speed": 27127
- },
- {
-   "time": "00:13:04",
-   "altitude": 220,
-   "speed": 27127
- },
- {
-   "time": "00:13:05",
-   "altitude": 220,
-   "speed": 27127
- },
- {
-   "time": "00:13:06",
-   "altitude": 220,
-   "speed": 27127
- },
- {
-   "time": "00:13:07",
-   "altitude": 220,
-   "speed": 27127
- },
- {
-   "time": "00:13:08",
-   "altitude": 220,
-   "speed": 27127
- },
- {
-   "time": "00:13:09",
-   "altitude": 220,
-   "speed": 27127
- },
- {
-   "time": "00:13:10",
-   "altitude": 220,
-   "speed": 27126
- },
- {
-   "time": "00:13:11",
-   "altitude": 220,
-   "speed": 27126
- },
- {
-   "time": "00:13:12",
-   "altitude": 221,
-   "speed": 27126
- },
- {
-   "time": "00:13:13",
-   "altitude": 221,
-   "speed": 27126
- },
- {
-   "time": "00:13:14",
-   "altitude": 221,
-   "speed": 27126
- },
- {
-   "time": "00:13:15",
-   "altitude": 221,
-   "speed": 27126
- },
- {
-   "time": "00:13:16",
-   "altitude": 221,
-   "speed": 27126
- },
- {
-   "time": "00:13:18",
-   "altitude": 221,
-   "speed": 27126
- },
- {
-   "time": "00:13:22",
-   "altitude": 221,
-   "speed": 27125
- },
- {
-   "time": "00:13:23",
-   "altitude": 221,
-   "speed": 27125
- },
- {
-   "time": "00:13:24",
-   "altitude": 221,
-   "speed": 27125
- },
- {
-   "time": "00:13:25",
-   "altitude": 221,
-   "speed": 27125
- },
- {
-   "time": "00:13:26",
-   "altitude": 221,
-   "speed": 27125
- },
- {
-   "time": "00:13:31",
-   "altitude": 221,
-   "speed": 27124
- },
- {
-   "time": "00:13:37",
-   "altitude": 221,
-   "speed": 27124
- },
- {
-   "time": "00:13:38",
-   "altitude": 221,
-   "speed": 27124
- },
- {
-   "time": "00:13:39",
-   "altitude": 221,
-   "speed": 27123
- },
- {
-   "time": "00:13:40",
-   "altitude": 221,
-   "speed": 27123
- },
- {
-   "time": "00:13:41",
-   "altitude": 221,
-   "speed": 27123
- },
- {
-   "time": "00:13:42",
-   "altitude": 221,
-   "speed": 27123
- },
- {
-   "time": "00:13:43",
-   "altitude": 221,
-   "speed": 27123
- },
- {
-   "time": "00:13:44",
-   "altitude": 221,
-   "speed": 27123
- },
- {
-   "time": "00:13:45",
-   "altitude": 221,
-   "speed": 27123
- },
- {
-   "time": "00:13:46",
-   "altitude": 222,
-   "speed": 27123
- },
- {
-   "time": "00:13:47",
-   "altitude": 222,
-   "speed": 27122
- },
- {
-   "time": "00:13:48",
-   "altitude": 222,
-   "speed": 27122
- },
- {
-   "time": "00:13:49",
-   "altitude": 222,
-   "speed": 27122
- },
- {
-   "time": "00:13:50",
-   "altitude": 222,
-   "speed": 27122
- },
- {
-   "time": "00:13:51",
-   "altitude": 222,
-   "speed": 27122
- },
- {
-   "time": "00:13:53",
-   "altitude": 222,
-   "speed": 27122
- },
- {
-   "time": "00:13:54",
-   "altitude": 222,
-   "speed": 27122
- },
- {
-   "time": "00:13:55",
-   "altitude": 222,
-   "speed": 27122
- },
- {
-   "time": "00:13:56",
-   "altitude": 222,
-   "speed": 27121
- },
- {
-   "time": "00:13:57",
-   "altitude": 222,
-   "speed": 27121
- },
- {
-   "time": "00:13:58",
-   "altitude": 222,
-   "speed": 27121
- },
- {
-   "time": "00:13:59",
-   "altitude": 222,
-   "speed": 27121
- },
- {
-   "time": "00:14:00",
-   "altitude": 222,
-   "speed": 27121
- },
- {
-   "time": "00:14:01",
-   "altitude": 222,
-   "speed": 27121
- },
- {
-   "time": "00:14:02",
-   "altitude": 222,
-   "speed": 27121
- },
- {
-   "time": "00:14:03",
-   "altitude": 222,
-   "speed": 27120
- },
- {
-   "time": "00:14:04",
-   "altitude": 222,
-   "speed": 27120
- },
- {
-   "time": "00:14:05",
-   "altitude": 222,
-   "speed": 27120
- },
- {
-   "time": "00:14:06",
-   "altitude": 222,
-   "speed": 27120
- },
- {
-   "time": "00:14:07",
-   "altitude": 222,
-   "speed": 27120
- },
- {
-   "time": "00:14:08",
-   "altitude": 222,
-   "speed": 27120
- },
- {
-   "time": "00:14:09",
-   "altitude": 222,
-   "speed": 27120
- },
- {
-   "time": "00:14:10",
-   "altitude": 222,
-   "speed": 27119
- },
- {
-   "time": "00:14:11",
-   "altitude": 222,
-   "speed": 27119
- },
- {
-   "time": "00:14:12",
-   "altitude": 222,
-   "speed": 27119
- },
- {
-   "time": "00:14:12",
-   "altitude": 222,
-   "speed": 27119
- },
- {
-   "time": "00:14:13",
-   "altitude": 222,
-   "speed": 27119
- },
- {
-   "time": "00:14:14",
-   "altitude": 222,
-   "speed": 27118
- },
- {
-   "time": "00:14:15",
-   "altitude": 222,
-   "speed": 27118
- },
- {
-   "time": "00:14:16",
-   "altitude": 222,
-   "speed": 27118
- },
- {
-   "time": "00:14:17",
-   "altitude": 223,
-   "speed": 27118
- },
- {
-   "time": "00:14:18",
-   "altitude": 223,
-   "speed": 27118
- },
- {
-   "time": "00:14:19",
-   "altitude": 223,
-   "speed": 27117
- },
- {
-   "time": "00:14:20",
-   "altitude": 223,
-   "speed": 27117
- },
- {
-   "time": "00:14:21",
-   "altitude": 223,
-   "speed": 27117
- },
- {
-   "time": "00:14:22",
-   "altitude": 223,
-   "speed": 27117
- },
- {
-   "time": "00:14:23",
-   "altitude": 223,
-   "speed": 27117
- },
- {
-   "time": "00:14:24",
-   "altitude": 223,
-   "speed": 27116
- },
- {
-   "time": "00:14:25",
-   "altitude": 223,
-   "speed": 27116
- },
- {
-   "time": "00:14:26",
-   "altitude": 223,
-   "speed": 27116
- },
- {
-   "time": "00:14:27",
-   "altitude": 223,
-   "speed": 27116
- },
- {
-   "time": "00:14:28",
-   "altitude": 223,
-   "speed": 27116
- },
- {
-   "time": "00:14:29",
-   "altitude": 223,
-   "speed": 27115
- },
- {
-   "time": "00:14:30",
-   "altitude": 223,
-   "speed": 27115
- },
- {
-   "time": "00:14:31",
-   "altitude": 223,
-   "speed": 27115
- },
- {
-   "time": "00:14:32",
-   "altitude": 223,
-   "speed": 27115
- },
- {
-   "time": "00:14:33",
-   "altitude": 223,
-   "speed": 27115
- },
- {
-   "time": "00:14:34",
-   "altitude": 223,
-   "speed": 27114
- },
- {
-   "time": "00:14:35",
-   "altitude": 223,
-   "speed": 27114
- },
- {
-   "time": "00:14:36",
-   "altitude": 223,
-   "speed": 27114
- },
- {
-   "time": "00:14:37",
-   "altitude": 223,
-   "speed": 27114
- },
- {
-   "time": "00:14:38",
-   "altitude": 223,
-   "speed": 27113
- },
- {
-   "time": "00:14:39",
-   "altitude": 223,
-   "speed": 27113
- },
- {
-   "time": "00:14:40",
-   "altitude": 223,
-   "speed": 27113
- },
- {
-   "time": "00:14:41",
-   "altitude": 223,
-   "speed": 27113
- },
- {
-   "time": "00:14:42",
-   "altitude": 223,
-   "speed": 27112
- },
- {
-   "time": "00:14:43",
-   "altitude": 223,
-   "speed": 27112
- },
- {
-   "time": "00:14:44",
-   "altitude": 223,
-   "speed": 27112
- },
- {
-   "time": "00:14:45",
-   "altitude": 223,
-   "speed": 27112
- },
- {
-   "time": "00:14:47",
-   "altitude": 224,
-   "speed": 27111
- },
- {
-   "time": "00:14:48",
-   "altitude": 224,
-   "speed": 27111
- },
- {
-   "time": "00:14:49",
-   "altitude": 224,
-   "speed": 27111
- },
- {
-   "time": "00:14:50",
-   "altitude": 224,
-   "speed": 27111
- },
- {
-   "time": "00:14:51",
-   "altitude": 224,
-   "speed": 27111
- },
- {
-   "time": "00:14:52",
-   "altitude": 224,
-   "speed": 27110
- },
- {
-   "time": "00:14:53",
-   "altitude": 224,
-   "speed": 27110
- },
- {
-   "time": "00:14:54",
-   "altitude": 224,
-   "speed": 27110
- },
- {
-   "time": "00:14:55",
-   "altitude": 224,
-   "speed": 27110
- },
- {
-   "time": "00:14:56",
-   "altitude": 224,
-   "speed": 27110
- },
- {
-   "time": "00:14:57",
-   "altitude": 224,
-   "speed": 27109
- },
- {
-   "time": "00:14:58",
-   "altitude": 224,
-   "speed": 27109
- },
- {
-   "time": "00:14:59",
-   "altitude": 224,
-   "speed": 27109
+   "altitude": 170,
+   "speed": 27419
  }
 ]
 }
