@@ -108,10 +108,10 @@ This is the section related to the telemetry and predictions data
 |       --- |     --- |   --- |      --- |          --- | 
 | project | `crew-dragon` | `string` | `yes` | The project name (ex. starlink, crew-dragon) |
 | mission_name | `dm-2` | `string` | `yes` | The mission name (ex. starlink-5, dm-2) |
-| file | `acceleration` | `string` | `yes` | The type of data you want to retrieve, [list of avaible files](https://github.com/R4yGM/SpaceXDB-Api#avaible-files-for-predicted-calculations) |
+| file | `acceleration` | `string` | `yes` | The type of data you want to retrieve, [list of available files](https://github.com/R4yGM/SpaceXDB-Api#available-files-for-predicted-calculations) |
 | format | `.json, .csv` | `string` | `yes` | The format of the data, can be only .csv or .json |
 
-## Avaible files for predicted calculations
+## Available files for predicted calculations
 
 * **acceleration** : the acceleration of the rocket in m/s^2
 * **vertical_speed** : the vertical speed of the rocket in km/s
@@ -141,10 +141,10 @@ This is the section related to the graphs and predicted graphs
 |       --- |     --- |   --- |    --- |          --- | 
 | project | `starlink` | `string` | `yes` | The project name (ex. starlink, crew-dragon) |
 | mission_name | `starlink-5` | `string` | `yes` | The mission name (ex. starlink-5, dm-2) |
-| file |  `acceleration-vs-total-time` | `string` | `yes` | The type of graph you want to retrieve, [list of avaible files](https://github.com/R4yGM/SpaceXDB-Api#avaible-files-for-graphs) |
+| file |  `acceleration-vs-total-time` | `string` | `yes` | The type of graph you want to retrieve, [list of available files](https://github.com/R4yGM/SpaceXDB-Api#available-files-for-graphs) |
 | format | `.png` | `string` |  `yes` | The format of the image, can be only .png |
 
-## Avaible files for graphs
+## Available files for graphs
 
 * **acceleration-vs-total-time** : the acceleration of the rocket compared to time
 * **downrange-vs-total-time** : distance to the launchpad compared to time
