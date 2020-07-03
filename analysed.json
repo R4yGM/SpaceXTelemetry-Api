@@ -19,6 +19,10 @@
       {
          "mission_name":"CCtCap Demo Mission 2",
          "published":true
+      },
+      {
+         "mission_name":"GPS III SV03",
+         "published":true
       }
    ]
 }
