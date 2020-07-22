@@ -34,6 +34,11 @@
          "mission_name":"GPS III SV03 (Columbus)",
          "spacexdb_link":"https://www.spacexdb.cf/gps/gps-iii-sv03",
          "published":true
+      },
+      {
+         "mission_name":"ANASIS-II",
+         "spacexdb_link":"https://www.spacexdb.cf/anasis/anasis-ii",
+         "published":true
       }
    ]
 }
