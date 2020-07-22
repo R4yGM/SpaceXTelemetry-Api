@@ -23,6 +23,10 @@
       {
          "mission_name":"GPS III SV03",
          "published":true
+      },
+      {
+         "mission_name":"ANASIS-II",
+         "published":true
       }
    ]
 }
