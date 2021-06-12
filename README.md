@@ -7,7 +7,7 @@ SpaceXTelemetry-Api is a Open Source REST API, used in https://r4yan.gitbook.io/
 ![logo](https://upload.wikimedia.org/wikipedia/commons/9/96/SpaceX_Logo_Black.png)
 
 
-**http://spacextelemetry.cf domain is not working anymore use https://r4ygm.github.io/SpaceXTelemetry-Api/ if you want to fetch the api (so you basically have to replace the domain with this one on all the calls below in the page)** 
+** **http://spacextelemetry.cf domain is not working anymore use https://r4ygm.github.io/SpaceXTelemetry-Api/ if you want to fetch the api (so you basically have to replace the domain with this one on all the calls below in the page)** **
 
 # Usage
 ```bash
